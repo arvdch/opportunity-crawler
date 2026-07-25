@@ -1,0 +1,140 @@
+# ============================================================
+#  YOUR RESUME PROFILE — Used by the AI matching engine
+#  Update this whenever your skills or experience change.
+#  The next daily crawl will automatically use the new version.
+# ============================================================
+
+name: Aravind Chinthakindi
+location: Hyderabad, India
+education:
+  degree: B.Tech Computer Science & Engineering (Cybersecurity)
+  university: JNTUH Hyderabad
+  year: 2nd/3rd year (2023 - Present)
+  relevant_courses:
+    - Network Security
+    - Ethical Hacking
+    - Cryptography
+    - Digital Forensics
+    - Cloud Security
+    - Operating Systems
+
+experience:
+  - role: Cybersecurity Intern
+    company: JD Infotech
+    duration: June 2025 (1 month)
+    skills_used:
+      - Web application penetration testing
+      - Vulnerability assessment
+      - XSS, SQL Injection, IDOR exploitation
+      - Nmap, theHarvester, WhatWeb, dig
+      - Burp Suite, sqlmap, ffuf, Hydra, John the Ripper
+      - SMB/FTP/SSH enumeration
+      - Linux privilege escalation
+      - Vulnerability report writing
+
+projects:
+  - name: HEXFORGE
+    type: Open Source Python Tool
+    skills:
+      - Python security tool development
+      - Binary forensics
+      - File signature detection
+      - Steganography detection
+      - File carving
+      - CTF tooling
+
+  - name: SOC Home Lab
+    type: Academic Project
+    skills:
+      - Splunk SIEM deployment
+      - Log ingestion and correlation
+      - Detection rule writing
+      - Threat detection
+      - Dashboard creation
+
+technical_skills:
+  pentesting_tools:
+    - Burp Suite
+    - Nmap
+    - sqlmap
+    - ffuf
+    - Hydra
+    - John the Ripper
+    - Metasploit
+    - Enum4linux
+    - theHarvester
+    - WhatWeb
+
+  siem_soc:
+    - Splunk
+    - Log management
+    - Event correlation
+    - Alert tuning
+
+  forensics:
+    - Binwalk
+    - Volatility
+    - File carving
+    - Steganography detection
+    - Metadata extraction
+
+  networking:
+    - Wireshark
+    - TCP/IP
+    - Packet analysis
+    - SMB/FTP/SSH enumeration
+
+  programming:
+    - Python (security tooling)
+    - Bash scripting
+
+  operating_systems:
+    - Kali Linux
+    - Arch Linux
+    - Ubuntu
+    - Windows
+
+  platforms:
+    - TryHackMe
+    - HackTheBox
+    - VulnHub
+    - GitHub
+
+ctf_activity:
+  platforms:
+    - TryHackMe
+    - HackTheBox
+  focus_areas:
+    - Digital forensics
+    - Reverse engineering
+    - Web exploitation
+    - Privilege escalation
+    - Binary analysis
+    - Steganography
+
+seeking:
+  roles:
+    - Cybersecurity internship
+    - SOC analyst internship
+    - Penetration testing internship
+    - Security research internship
+    - CTF competitions
+    - Bug bounty programs
+    - Open source security projects
+    - Government cybersecurity programs
+
+  not_looking_for:
+    - Sales roles
+    - Marketing roles
+    - Non-technical IT roles (data entry, support)
+    - Roles requiring 2+ years experience as HARD requirement
+    - MBA/finance/accounting roles
+    - Mechanical/civil/electrical engineering roles
+
+  willing_to_accept:
+    - "0 experience required" roles
+    - "Freshers welcome" roles
+    - Stipend-based internships (even unpaid)
+    - Remote opportunities
+    - Short-term programs (1-3 months)
+    - Govt programs with eligibility criteria met

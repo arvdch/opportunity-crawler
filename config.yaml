@@ -1,0 +1,173 @@
+# ============================================================
+#  Opportunity Crawler — Config
+#  Edit keywords freely. No Python needed.
+# ============================================================
+
+keywords:
+  # ── Intern / fresher role titles ────────────────────────
+  - cybersecurity intern
+  - cybersecurity internship
+  - cyber security intern
+  - cyber security internship
+  - information security intern
+  - information security internship
+  - penetration testing intern
+  - penetration testing internship
+  - pentest intern
+  - SOC analyst intern
+  - SOC intern
+  - security analyst intern
+  - security operations intern
+  - vulnerability assessment intern
+  - ethical hacking intern
+  - ethical hacking internship
+  - red team intern
+  - blue team intern
+  - security research intern
+  - incident response intern
+  - appsec intern
+  - cloud security intern
+  - junior security analyst
+  - junior SOC analyst
+
+  # ── Tools you know (appear in fresher-friendly listings) ─
+  - Burp Suite internship
+  - Splunk internship
+  - CTF
+
+  # ── Indian government programs ───────────────────────────
+  - APCSIP
+  - AP cybersecurity
+  - CERT-In
+  - NCIIPC internship
+  - MeitY internship
+  - CDAC internship
+  - NICSI internship
+  - NIC internship
+  - DRDO internship
+  - government cybersecurity program India
+
+  # ── Open source / fellowships ────────────────────────────
+  - GSoC cybersecurity
+  - Google Summer of Code security
+  - Outreachy security
+  - open source security
+
+  # ── Fresher-friendly signals ─────────────────────────────
+  - fresher cybersecurity
+  - entry level cybersecurity India
+  - cybersecurity trainee
+  - security trainee India
+
+  # ── Free certifications / programs ──────────────────────
+  - free cybersecurity certification India
+  - AICTE cybersecurity
+  - scholarship cybersecurity
+
+  # ── Broad security-field signals ─────────────────────────
+  # Without these, full-time analyst/SOC/engineer titles that don't say
+  # "intern" anywhere (e.g. "SOC Analyst", "Cyber Security Analyst",
+  # "Security Operations Center Analyst") scored ZERO keyword matches and
+  # got dropped at the keyword-miss stage — even though they're exactly
+  # the kind of role being searched for. These catch the security field
+  # itself; hard_exclude() in filter.py still blocks senior/3+yr/wrong-field
+  # roles, so this doesn't reopen the door to junk — it just stops
+  # legitimate security jobs from being silently zero-scored.
+  - SOC analyst
+  - security analyst
+  - security operations
+  - cyber security analyst
+  - cybersecurity analyst
+  - information security analyst
+  - security engineer
+  - security operations center
+  - application security
+  - cloud security
+  - network security
+  - infosec
+  - cyber defense
+  - incident response
+  - threat hunter
+  - cyber security
+  - cybersecurity
+  - VAPT
+  - OT security
+
+# ── Sources ──────────────────────────────────────────────────
+sources:
+  internshala:
+    enabled: false    # Disabled — fake/unresponsive listings
+
+  unstop:
+    enabled: false    # Disabled — too many non-security competitions
+
+  linkedin:
+    enabled: true     # Primary job source
+
+  wellfound:
+    enabled: true     # Actually scrapes Indeed India
+
+  google_news:
+    enabled: true
+    queries:
+      - "cybersecurity internship India 2026"
+      - "APCSIP 2026 cybersecurity internship"
+      - "India government cybersecurity internship program 2026"
+      - "NCIIPC internship 2026"
+      - "NICSI internship 2026"
+      - "MeitY cybersecurity program 2026"
+      - "free cybersecurity certification India 2026"
+      - "cybersecurity internship freshers India 2026"
+      - "GSoC 2026 cybersecurity"
+      - "CDAC internship 2026 cybersecurity"
+
+  ncs:
+    enabled: true     # Sarkari Result + govt job aggregators
+
+  certifications:
+    enabled: true     # CERT-In + DSCI + MHA CyberCrime
+
+  hackerearth:
+    enabled: true     # Hackathons and challenges
+
+  govt_portals:
+    enabled: true     # CDAC, MeitY, NCIIPC, AICTE, NICSI, MyGov
+
+  github:
+    enabled: true     # GSoC orgs, security repos, APCSIP writeups
+
+  rss:
+    enabled: true     # Reddit netsec/cybersec hiring threads, HN, InfoSec Jobs
+
+# ── Notifications ─────────────────────────────────────────────
+notifications:
+  batch_size: 50
+  min_keyword_score: 1
+
+# ── AI matching ───────────────────────────────────────────────
+ai_matching:
+  enabled: true
+  # threshold is hardcoded to 7 in filter.py — score >= 7 passes
+  # Max items sent to the AI per run. Raised to 150 now that Groq is the
+  # primary provider — its free tier (1,000 req/day, 30/min for
+  # llama-3.3-70b-versatile) gives far more headroom than OpenRouter's
+  # free router did (500/day account-wide, but individual free models hit
+  # their own upstream limits well before that in practice, plus weak
+  # models frequently failed to return valid JSON at all).
+  # Items beyond this budget still get included, just on keyword score
+  # alone (not AI-judged) rather than being dropped.
+  daily_budget: 120
+  # Providers tried in order: GROQ_API_KEY → OPENROUTER_API_KEY → GEMINI_API_KEY → ANTHROPIC_API_KEY
+  #   Groq (console.groq.com/keys):     free tier = 1,000 req/day, 30 req/min — RECOMMENDED
+  #   OpenRouter (openrouter.ai/keys):  free tier = 500 req/day account-wide, less reliable JSON
+  #   Gemini (aistudio.google.com):     free tier = 15 req/min, ~1500 req/day
+  #   Anthropic (console.anthropic.com): paid, no free daily cap
+
+# ── Deduplication ─────────────────────────────────────────────
+dedup:
+  # How many days a URL stays suppressed after being notified once.
+  # Lowered from 90 → 10: per user preference, a listing that's still
+  # showing up in crawls after a week+ is probably still accepting
+  # applications, so it's fine — even useful — to resurface as a reminder
+  # rather than being silently suppressed for 3 months.
+  retention_days: 10
