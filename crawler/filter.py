@@ -146,6 +146,10 @@ _EXCLUDE_TITLE_RAW = [
     # but hard-excluding saves AI budget)
     r"^analyst$",                        # bare "Analyst" title — too vague
     r"^intelligence analyst$",           # geopolitical/physical, not cyber
+    # Fraud/financial crime — not cybersecurity
+    r"\bfraud analyst\b",
+    r"\bgbs fraud\b",
+    r"\banti.?money laundering\b",
 ]
 
 # ── Stage 1b: Experience wall (title + description) ───────────────────────────
@@ -189,8 +193,8 @@ _EXCLUDE_TITLE_SENIOR_RAW = [
     #         "Security Analyst II", "Analyst II - Information Security"
     #
     # Pattern: role_word ... suffix (suffix at word boundary, not just at end of string)
-    r"\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\bii\b",   # Analyst II anywhere after role word
-    r"\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\biii\b",  # Analyst III
+    r"\b(security|cyber|soc|infosec|analyst|engineer)\b.{0,50}\bii\b",   # Analyst II anywhere after role word
+    r"\b(security|cyber|soc|infosec|analyst|engineer)\b.{0,50}\biii\b",  # Analyst III
     # "Analyst L2/L3" as trailing suffix = mid-level.
     # Block: "SOC Analyst L3", "Cyber Security Analyst L2", "Security Engineer L2"
     # Allow: "L2 SOC Analyst", "SOC L2", "L3 SOC Analyst" (prefix = Indian MSSP)
