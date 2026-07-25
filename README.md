@@ -1,7 +1,9 @@
 
-![opportunity crawler banner](opportunity-crawler-banner.svg)
 ---
 # 🔍 Opportunity Crawler
+
+![opportunity crawler banner](opportunity-crawler-banner.svg)
+
 
 > Automated daily pipeline that scrapes cybersecurity jobs, internships, government programs, and CTF competitions — filters with AI scoring — and sends ranked alerts to your Telegram. No server needed. Runs free on GitHub Actions.
 
