@@ -1,24 +1,21 @@
 # Python
 __pycache__/
 *.py[cod]
-*.egg-info/
+*.pyo
 .venv/
 venv/
 env/
+*.egg-info/
 
-# Secrets — NEVER commit these
+# Local env — never commit real keys
 .env
-*.env
-
-# Dedup store — this is managed by CI cache, not git
-seen_urls.json
-
-# OS files
-.DS_Store
-Thumbs.db
+.env.*
 
 # IDE
 .vscode/
 .idea/
 *.swp
-debug_excluded.json
+
+# OS
+.DS_Store
+Thumbs.db
