@@ -4,7 +4,7 @@ on:
   schedule:
     # 9:00 PM IST = 3:30 PM UTC
     - cron: '30 15 * * *'
-  workflow_dispatch:   # allow manual trigger from Actions tab
+  workflow_dispatch:
 
 jobs:
   crawl:
@@ -12,11 +12,14 @@ jobs:
     timeout-minutes: 30
 
     permissions:
-      contents: write   # needed to commit seen_urls.json back
+      contents: write
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0   # full history so push doesn't fail on shallow clone
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -41,10 +44,23 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python main.py
 
-      - name: Commit seen_urls.json
+      - name: Save seen_urls.json back to repo
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add seen_urls.json debug_ai_scores.json debug_excluded.json || true
-          git diff --cached --quiet || git commit -m "chore: update seen_urls [skip ci]"
-          git push
+
+          # Pull latest in case another run committed meanwhile
+          git pull --rebase origin main || true
+
+          git add seen_urls.json debug_ai_scores.json debug_excluded.json
+
+          # Show what changed (visible in Actions log)
+          git status
+
+          if git diff --cached --quiet; then
+            echo "[Dedup] seen_urls.json unchanged — nothing to commit"
+          else
+            git commit -m "chore: update seen_urls [skip ci]"
+            git push origin main
+            echo "[Dedup] seen_urls.json committed and pushed"
+          fi
