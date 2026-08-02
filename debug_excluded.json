@@ -7,7 +7,7 @@
     "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
   },
   {
-    "title": "144 cybersecurity internship jobs in India, July 2026 | Glassdoor",
+    "title": "136 cybersecurity internship jobs in India, August 2026 | Glassdoor",
     "company": "Web Search",
     "source": "google_news",
     "url": "https://www.glassdoor.co.in/Job/india-cybersecurity-internship-jobs-SRCH_IL.0,5_IN115_KO6,30.htm",
@@ -21,17 +21,17 @@
     "reason": "blocked URL pattern: linkedin\\.com/jobs/.*internship.*jobs$"
   },
   {
-    "title": "Cybersecurity Internship for Freshers 2026 | MyInternships.in",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://myinternships.in/internships/cybersecurity-internship-for-freshers",
-    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
-  },
-  {
     "title": "Cybersecurity Internship India 2026 \u2014 Where to Apply and How to Stand ...",
     "company": "Web Search",
     "source": "google_news",
     "url": "https://skillwalaglobal.com/2026/06/22/cybersecurity-internship-india-2026/",
+    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
+  },
+  {
+    "title": "Cybersecurity Internship for Freshers 2026 | MyInternships.in",
+    "company": "Web Search",
+    "source": "google_news",
+    "url": "https://myinternships.in/internships/cybersecurity-internship-for-freshers",
     "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
   },
   {
@@ -56,27 +56,6 @@
     "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
   },
   {
-    "title": "Hack Days in Bansal",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://hack-days-in-bansal.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
-    "title": "MarinHacks",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://marinhacks.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
-    "title": "Katy Youth Hacks 2026",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://katy-youth-hacks-2026.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
     "title": "Disney Streaming NYC Intern Hackathon \u201826",
     "company": "DevPost",
     "source": "google_news",
@@ -95,6 +74,20 @@
     "company": "DevPost",
     "source": "google_news",
     "url": "https://sip-hackathon.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "Resource Renewal Initiative",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://resource-renewal-initiative.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "Zoftware Hireathon",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://zoftware-hireathon.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
@@ -130,6 +123,13 @@
     "company": "DevPost",
     "source": "google_news",
     "url": "https://iris-hacks-iv.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "YouTube Automation Hackathon",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://youtube-automate-hackathon.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
@@ -312,7 +312,7 @@
     "company": "Value Point Systems Pvt Ltd",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4391624942",
-    "reason": "stale LinkedIn listing: 84 days old"
+    "reason": "stale LinkedIn listing: 85 days old"
   },
   {
     "title": "Analyst",
@@ -333,14 +333,7 @@
     "company": "Cortex Consultants LLC",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-analyst-at-cortex-consultants-llc-4404030491",
-    "reason": "stale LinkedIn listing: 103 days old"
-  },
-  {
-    "title": "SOC Analyst L2",
-    "company": "NTT DATA, Inc.",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-analyst-l2-at-ntt-data-inc-4409288239",
-    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+    "reason": "stale LinkedIn listing: 104 days old"
   },
   {
     "title": "IT Security Analyst, II",
@@ -348,6 +341,13 @@
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/it-security-analyst-ii-at-stefanini-north-america-and-apac-4441242402",
     "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
+  },
+  {
+    "title": "SOC Analyst L2",
+    "company": "NTT DATA, Inc.",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-analyst-l2-at-ntt-data-inc-4409288239",
+    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
   },
   {
     "title": "L2 SOC Analyst",
@@ -364,6 +364,13 @@
     "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
   },
   {
+    "title": "CYBER security Analyst",
+    "company": "Cortex Consultants LLC",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-cortex-consultants-llc-4404540757",
+    "reason": "stale LinkedIn listing: 103 days old"
+  },
+  {
     "title": "Analyst",
     "company": "EXL",
     "source": "linkedin",
@@ -371,11 +378,11 @@
     "reason": "blocked role: ^analyst$"
   },
   {
-    "title": "CYBER security Analyst",
-    "company": "Cortex Consultants LLC",
+    "title": "SOC ANALYST",
+    "company": "Value Point Systems Pvt Ltd",
     "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-cortex-consultants-llc-4404540757",
-    "reason": "stale LinkedIn listing: 102 days old"
+    "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4375356251",
+    "reason": "stale LinkedIn listing: 135 days old"
   },
   {
     "title": "CYBER SECURITY ANALYST L2",
@@ -385,46 +392,32 @@
     "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
   },
   {
-    "title": "SOC ANALYST",
-    "company": "Value Point Systems Pvt Ltd",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4375356251",
-    "reason": "stale LinkedIn listing: 134 days old"
-  },
-  {
     "title": "Analyst 1, SOC",
     "company": "Berkadia",
     "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/analyst-1-soc-at-berkadia-4428861392",
-    "reason": "stale LinkedIn listing: 47 days old"
+    "url": "https://in.linkedin.com/jobs/view/analyst-1-soc-at-berkadia-4428871280",
+    "reason": "stale LinkedIn listing: 48 days old"
   },
   {
     "title": "SOC L1 Analyst",
     "company": "Verint",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-l1-analyst-at-verint-4405428319",
-    "reason": "stale LinkedIn listing: 101 days old"
+    "reason": "stale LinkedIn listing: 102 days old"
   },
   {
     "title": "SOC Analyst \u2013 Level 1",
     "company": "Soffit Infrastructure Services (P) Ltd",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-analyst-%E2%80%93-level-1-at-soffit-infrastructure-services-p-ltd-4403452329",
-    "reason": "stale LinkedIn listing: 106 days old"
+    "reason": "stale LinkedIn listing: 107 days old"
   },
   {
     "title": "SOC L1 Analyst",
     "company": "Verint Financial Compliance",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-l1-analyst-at-verint-financial-compliance-4405400248",
-    "reason": "stale LinkedIn listing: 101 days old"
-  },
-  {
-    "title": "Cyber Security Analyst",
-    "company": "ZEE - Technology & Innovation",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-zee-technology-innovation-4419852821",
-    "reason": "stale LinkedIn listing: 66 days old"
+    "reason": "stale LinkedIn listing: 102 days old"
   },
   {
     "title": "L3 SOC Analyst / Incident Response Analyst",
@@ -438,7 +431,7 @@
     "company": "Sampoorna Consultants",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-analyst-siem-at-sampoorna-consultants-4411294391",
-    "reason": "stale LinkedIn listing: 86 days old"
+    "reason": "stale LinkedIn listing: 87 days old"
   },
   {
     "title": "SOC L2",
@@ -469,13 +462,6 @@
     "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
   },
   {
-    "title": "Cybersecurity Analyst",
-    "company": "Barracuda",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cybersecurity-analyst-at-barracuda-4398729707",
-    "reason": "stale LinkedIn listing: 112 days old"
-  },
-  {
     "title": "Security Analyst (II)",
     "company": "Deepwatch",
     "source": "linkedin",
@@ -488,6 +474,76 @@
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4440363308",
     "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+  },
+  {
+    "title": "SOC Analyst (Tier 2)",
+    "company": "aeroqube inc.",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-analyst-tier-2-at-aeroqube-inc-4320533329",
+    "reason": "stale LinkedIn listing: 272 days old"
+  },
+  {
+    "title": "GSOC Analyst",
+    "company": "MitKat Advisory",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/gsoc-analyst-at-mitkat-advisory-4397663739",
+    "reason": "stale LinkedIn listing: 114 days old"
+  },
+  {
+    "title": "Cyber Security - AM",
+    "company": "CLA Indus Value Consulting",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-am-at-cla-indus-value-consulting-4411450148",
+    "reason": "stale LinkedIn listing: 87 days old"
+  },
+  {
+    "title": "Summer Internship in Cyber Security",
+    "company": "Sparks To Ideas",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/summer-internship-in-cyber-security-at-sparks-to-ideas-4390938310",
+    "reason": "stale LinkedIn listing: 128 days old"
+  },
+  {
+    "title": "Security Analyst",
+    "company": "Aumni",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/security-analyst-at-aumni-4426056952",
+    "reason": "stale LinkedIn listing: 53 days old"
+  },
+  {
+    "title": "Summer Internship in Cyber Security",
+    "company": "Sparks To Ideas",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/summer-internship-in-cyber-security-at-sparks-to-ideas-4390942249",
+    "reason": "stale LinkedIn listing: 128 days old"
+  },
+  {
+    "title": "Summer Internship in Cyber Security",
+    "company": "Sparks To Ideas",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/summer-internship-in-cyber-security-at-sparks-to-ideas-4390953078",
+    "reason": "stale LinkedIn listing: 128 days old"
+  },
+  {
+    "title": "Summer Internship in Cyber Security",
+    "company": "Sparks To Ideas",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/summer-internship-in-cyber-security-at-sparks-to-ideas-4390941292",
+    "reason": "stale LinkedIn listing: 128 days old"
+  },
+  {
+    "title": "Summer Internship in Cyber Security",
+    "company": "Sparks To Ideas",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/summer-internship-in-cyber-security-at-sparks-to-ideas-4423902325",
+    "reason": "stale LinkedIn listing: 61 days old"
+  },
+  {
+    "title": "Junior SOC Controller",
+    "company": "PINKERTON | Comprehensive Risk Management",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/junior-soc-controller-at-pinkerton-comprehensive-risk-management-4425993176",
+    "reason": "blocked company (noise source): PINKERTON | Comprehensive Risk Management"
   },
   {
     "title": "Analyst II - Information Security",
@@ -522,7 +578,14 @@
     "company": "LG Ad Solutions",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/security-engineer-at-lg-ad-solutions-4408549336",
-    "reason": "stale LinkedIn listing: 94 days old"
+    "reason": "stale LinkedIn listing: 95 days old"
+  },
+  {
+    "title": "Cyber Security Analyst",
+    "company": "ZEE - Technology & Innovation",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-zee-technology-innovation-4419852821",
+    "reason": "stale LinkedIn listing: 67 days old"
   },
   {
     "title": "Information Security Officer",
@@ -536,41 +599,69 @@
     "company": "Pico",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/information-security-analyst-at-pico-4421135989",
-    "reason": "stale LinkedIn listing: 57 days old"
+    "reason": "stale LinkedIn listing: 58 days old"
   },
   {
     "title": "Information Security Engineer",
     "company": "Smart Data Solutions",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/information-security-engineer-at-smart-data-solutions-4417068586",
-    "reason": "stale LinkedIn listing: 73 days old"
+    "reason": "stale LinkedIn listing: 74 days old"
   },
   {
     "title": "Security Analyst",
     "company": "Scoutit",
     "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/security-analyst-at-scoutit-4447478115",
+    "url": "https://in.linkedin.com/jobs/view/security-analyst-at-scoutit-4447643763",
     "reason": "blocked company (noise source): Scoutit"
   },
   {
-    "title": "Security Analyst",
-    "company": "Aumni",
+    "title": "Junior SOC Controller",
+    "company": "PINKERTON | Comprehensive Risk Management",
     "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/security-analyst-at-aumni-4426056952",
-    "reason": "stale LinkedIn listing: 52 days old"
+    "url": "https://in.linkedin.com/jobs/view/junior-soc-controller-at-pinkerton-comprehensive-risk-management-4415283873",
+    "reason": "blocked company (noise source): PINKERTON | Comprehensive Risk Management"
   },
   {
-    "title": "Specialist, Information Security & Privacy",
-    "company": "Mindtickle",
+    "title": "Security Operations Analyst",
+    "company": "Alignerr",
     "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/specialist-information-security-privacy-at-mindtickle-4387101902",
-    "reason": "stale LinkedIn listing: 136 days old"
+    "url": "https://in.linkedin.com/jobs/view/security-operations-analyst-at-alignerr-4446518704",
+    "reason": "blocked company (noise source): Alignerr"
   },
   {
     "title": "Security Operations Analyst",
     "company": "Alignerr",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/security-operations-analyst-at-alignerr-4446158929",
+    "reason": "blocked company (noise source): Alignerr"
+  },
+  {
+    "title": "Junior Geo-Political Risk Analyst",
+    "company": "MAX Security",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/junior-geo-political-risk-analyst-at-max-security-4440135512",
+    "reason": "blocked company (noise source): MAX Security"
+  },
+  {
+    "title": "Analyst II - Information Security",
+    "company": "UST",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/analyst-ii-information-security-at-ust-4430234503",
+    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
+  },
+  {
+    "title": "Data Security & DLP Analyst",
+    "company": "Alignerr",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/data-security-dlp-analyst-at-alignerr-4446165867",
+    "reason": "blocked company (noise source): Alignerr"
+  },
+  {
+    "title": "Data Security & DLP Analyst",
+    "company": "Alignerr",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/data-security-dlp-analyst-at-alignerr-4447232933",
     "reason": "blocked company (noise source): Alignerr"
   },
   {
@@ -581,13 +672,6 @@
     "reason": "blocked company (noise source): Alignerr"
   },
   {
-    "title": "Security Operations Analyst",
-    "company": "Alignerr",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/security-operations-analyst-at-alignerr-4446518704",
-    "reason": "blocked company (noise source): Alignerr"
-  },
-  {
     "title": "Cloud Security Analyst",
     "company": "Alignerr",
     "source": "linkedin",
@@ -595,17 +679,31 @@
     "reason": "blocked company (noise source): Alignerr"
   },
   {
-    "title": "Analyst II - Information Security",
-    "company": "UST",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/analyst-ii-information-security-at-ust-4430234503",
-    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
-  },
-  {
     "title": "AI / Emerging Tech Security Analyst",
     "company": "Alignerr",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/ai-emerging-tech-security-analyst-at-alignerr-4446168752",
+    "reason": "blocked company (noise source): Alignerr"
+  },
+  {
+    "title": "GBS Fraud Analyst",
+    "company": "UPS",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/gbs-fraud-analyst-at-ups-4444040944",
+    "reason": "blocked role: \\bfraud analyst\\b"
+  },
+  {
+    "title": "Network & Infrastructure Security Analyst",
+    "company": "Alignerr",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/network-infrastructure-security-analyst-at-alignerr-4446895721",
+    "reason": "blocked company (noise source): Alignerr"
+  },
+  {
+    "title": "Network & Infrastructure Security Analyst",
+    "company": "Alignerr",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/network-infrastructure-security-analyst-at-alignerr-4446173016",
     "reason": "blocked company (noise source): Alignerr"
   },
   {
@@ -623,25 +721,130 @@
     "reason": "blocked company (noise source): Alignerr"
   },
   {
+    "title": "GBS Fraud Analyst",
+    "company": "UPS",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/gbs-fraud-analyst-at-ups-4444061336",
+    "reason": "blocked role: \\bfraud analyst\\b"
+  },
+  {
+    "title": "Physical Security Analyst",
+    "company": "Morningstar",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/physical-security-analyst-at-morningstar-4438814005",
+    "reason": "blocked role: \\bphysical security analyst\\b"
+  },
+  {
+    "title": "Intelligence Analyst",
+    "company": "Vigilante ATI, Now Part of ZeroFox",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/intelligence-analyst-at-vigilante-ati-now-part-of-zerofox-4441069417",
+    "reason": "blocked role: ^intelligence analyst$"
+  },
+  {
+    "title": "Intelligence Analyst",
+    "company": "ZeroFox",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/intelligence-analyst-at-zerofox-4042568257",
+    "reason": "blocked role: ^intelligence analyst$"
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "company": "DATA POEM",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/business-intelligence-analyst-at-data-poem-4444887069",
+    "reason": "blocked role: \\bbusiness intelligence\\b(?!.*security)"
+  },
+  {
+    "title": "Analyst - (Platform Intelligence)",
+    "company": "Resolver, a Kroll Business",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/analyst-platform-intelligence-at-resolver-a-kroll-business-4434513841",
+    "reason": "blocked role: \\bplatform intelligence\\b"
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "company": "Cummins India",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/business-intelligence-analyst-at-cummins-india-4436227108",
+    "reason": "blocked role: \\bbusiness intelligence\\b(?!.*security)"
+  },
+  {
+    "title": "Private Equity Intelligence - Data Management Group Junior Analyst",
+    "company": "Gain",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/private-equity-intelligence-data-management-group-junior-analyst-at-gain-4429022319",
+    "reason": "stale LinkedIn listing: 70 days old"
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "company": "Pixfirst",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/business-intelligence-analyst-at-pixfirst-4377174350",
+    "reason": "blocked role: \\bbusiness intelligence\\b(?!.*security)"
+  },
+  {
+    "title": "Assoc Analyst - Tech Ops Business Intelligence",
+    "company": "United Airlines India Knowledge Center",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/assoc-analyst-tech-ops-business-intelligence-at-united-airlines-india-knowledge-center-4442594656",
+    "reason": "blocked role: \\bbusiness intelligence\\b(?!.*security)"
+  },
+  {
+    "title": "Analyst - Tech Ops Business Intelligence",
+    "company": "United Airlines India Knowledge Center",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/analyst-tech-ops-business-intelligence-at-united-airlines-india-knowledge-center-4436775065",
+    "reason": "blocked role: \\bbusiness intelligence\\b(?!.*security)"
+  },
+  {
+    "title": "Analyst, Business & Competitive Intelligence",
+    "company": "Precision For Medicine",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/analyst-business-competitive-intelligence-at-precision-for-medicine-4435203803",
+    "reason": "blocked role: \\bcompetitive intelligence\\b"
+  },
+  {
+    "title": "Private Equity Intelligence \u2013 News Junior Analyst",
+    "company": "Gain",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/private-equity-intelligence-%E2%80%93-news-junior-analyst-at-gain-4424744102",
+    "reason": "stale LinkedIn listing: 83 days old"
+  },
+  {
+    "title": "Analyst, Business & Competitive Intelligence",
+    "company": "Precision For Medicine",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/analyst-business-competitive-intelligence-at-precision-for-medicine-4440771064",
+    "reason": "blocked role: \\bcompetitive intelligence\\b"
+  },
+  {
+    "title": "Analyst, Business & Competitive Intelligence",
+    "company": "Precision Medicine Group",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/analyst-business-competitive-intelligence-at-precision-medicine-group-4447219026",
+    "reason": "blocked role: \\bcompetitive intelligence\\b"
+  },
+  {
+    "title": "Specialist, Information Security & Privacy",
+    "company": "Mindtickle",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/specialist-information-security-privacy-at-mindtickle-4387101902",
+    "reason": "stale LinkedIn listing: 137 days old"
+  },
+  {
     "title": "IT Security Specialist",
     "company": "Amla Commerce (Creator of Artifi and Znode)",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/it-security-specialist-at-amla-commerce-creator-of-artifi-and-znode-4332310355",
-    "reason": "stale LinkedIn listing: 278 days old"
+    "reason": "stale LinkedIn listing: 279 days old"
   },
   {
     "title": "Tech Risk",
     "company": "PayU",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/tech-risk-at-payu-4418309813",
-    "reason": "stale LinkedIn listing: 63 days old"
-  },
-  {
-    "title": "Cybersecurity - Risk & Compliance Analyst",
-    "company": "Scybers",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cybersecurity-risk-compliance-analyst-at-scybers-4324491608",
-    "reason": "stale LinkedIn listing: 250 days old"
+    "reason": "stale LinkedIn listing: 64 days old"
   },
   {
     "title": "Analyst II, Cybersecurity",
@@ -655,6 +858,6 @@
     "company": "Sopra Steria",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-security-cyber-security-analyst-at-sopra-steria-4423342499",
-    "reason": "stale LinkedIn listing: 52 days old"
+    "reason": "stale LinkedIn listing: 53 days old"
   }
 ]
