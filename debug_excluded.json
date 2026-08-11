@@ -14,18 +14,18 @@
     "reason": "blocked URL pattern: linkedin\\.com/jobs/.*internship.*jobs$"
   },
   {
+    "title": "127 cybersecurity internship jobs in India, August 2026 | Glassdoor",
+    "company": "Web Search",
+    "source": "google_news",
+    "url": "https://www.glassdoor.co.in/Job/india-cybersecurity-internship-jobs-SRCH_IL.0,5_IN115_KO6,30.htm",
+    "reason": "blocked URL pattern: glassdoor\\.co\\.in/Job/.*internship"
+  },
+  {
     "title": "Cybersecurity Internship for Freshers 2026 \u2014 Apply Free",
     "company": "Web Search",
     "source": "google_news",
     "url": "https://myinternships.in/internships/cybersecurity-internship-for-freshers",
     "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
-  },
-  {
-    "title": "130 cybersecurity internship jobs in India, August 2026 | Glassdoor",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://www.glassdoor.co.in/Job/india-cybersecurity-internship-jobs-SRCH_IL.0,5_IN115_KO6,30.htm",
-    "reason": "blocked URL pattern: glassdoor\\.co\\.in/Job/.*internship"
   },
   {
     "title": "Cybersecurity Internships in India 2026 \u2014 Everything a Student Needs to ...",
@@ -56,10 +56,17 @@
     "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
   },
   {
-    "title": "GDGoC Summer DevSprint",
+    "title": "Hack RenderATL",
     "company": "DevPost",
     "source": "google_news",
-    "url": "https://gdgoc-summer-devsprint.devpost.com/",
+    "url": "https://hack-renderatl.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "The Orchestra",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://ao-orchestra.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
@@ -74,13 +81,6 @@
     "company": "DevPost",
     "source": "google_news",
     "url": "https://zoftware-hireathon.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
-    "title": "Hackdays Maa Chandika Convent School",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://hackdays-mccs-lucknow.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
@@ -231,6 +231,97 @@
     "reason": "GitHub repos are writeups/portfolios, not open positions"
   },
   {
+    "title": "[AICTE] Employer/Post Internship",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Amrit Sarovar Geotagged Submissions",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://www.google.com/maps/d/u/0/viewer?mid=1oGe3e-tTtMnbrN87aXrw0RRhLGXdLn8&ll=22.04090595291317%2C82.41129049999998&z=4",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] INTERNSHIP BY INDIAN ARMY",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/dashboard/indianarmy/internship_list.php",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] INTERNSHIP BY Government of Maharashtra",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/dashboard/state/maharashtra/internship-list.php",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] AMRUTAM 2.0 Pin WELLS INTERNSHIP",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/well-management.php",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] INTERNSHIP BY NHIDCL",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/nhidcl/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] AICTE Research Internship Opportunity",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/dashboard/aicte-research-internship/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] INTERNSHIP BY Land Ports Authority of India",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/lpai/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] INTERNSHIPS BY Bharatiya Shikshan Mandal",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/dashboard/ngo/internship-list.php",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] GENERATION GREEN SUSTAINABILITY INTERNSHIP by OPPO",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internship-details.php?uid=SU5URVJOU0hJUF8xNzIwNjA0MDI1NjY4ZTU1Nzk3NGZlZQ==",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] About AICTE Internship portal",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/footer-pages/about-us.php",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internship Blogs",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/footer-pages/about-us-blog.php",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Download AICTE Internship Portal Mobile App",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internship.apk",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
     "title": "/r/netsec's Q3 2026 Information Security Hiring Thread",
     "company": "Reddit netsec hiring",
     "source": "rss",
@@ -287,41 +378,6 @@
     "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
   },
   {
-    "title": "OTHER CYBER CRIME",
-    "company": "MHA CyberCrime",
-    "source": "certifications",
-    "url": "https://cybercrime.gov.in",
-    "reason": "blocked URL pattern: cybercrime\\.gov\\.in$"
-  },
-  {
-    "title": "Cyber Dost",
-    "company": "MHA CyberCrime",
-    "source": "certifications",
-    "url": "https://www.facebook.com/CyberDostI4C",
-    "reason": "blocked URL pattern: facebook\\.com"
-  },
-  {
-    "title": "Tweets by Cyberdost",
-    "company": "MHA CyberCrime",
-    "source": "certifications",
-    "url": "https://twitter.com/Cyberdost?ref_src=twsrc%5Etfw",
-    "reason": "blocked URL pattern: twitter\\.com|x\\.com"
-  },
-  {
-    "title": "[AICTE] Employer/Post Internship",
-    "company": "AICTE",
-    "source": "govt_portals",
-    "url": "https://internship.aicte-india.org/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
-    "title": "[AICTE] Amrit Sarovar Geotagged Submissions",
-    "company": "AICTE",
-    "source": "govt_portals",
-    "url": "https://www.google.com/maps/d/u/0/viewer?mid=1oGe3e-tTtMnbrN87aXrw0RRhLGXdLn8&ll=22.04090595291317%2C82.41129049999998&z=4",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
     "title": "Analyst",
     "company": "CDW UK",
     "source": "linkedin",
@@ -333,7 +389,7 @@
     "company": "Value Point Systems Pvt Ltd",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4391624942",
-    "reason": "stale LinkedIn listing: 93 days old"
+    "reason": "stale LinkedIn listing: 94 days old"
   },
   {
     "title": "Security Operations Centre Specialist II",
@@ -347,7 +403,7 @@
     "company": "Cortex Consultants LLC",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-analyst-at-cortex-consultants-llc-4404030491",
-    "reason": "stale LinkedIn listing: 112 days old"
+    "reason": "stale LinkedIn listing: 113 days old"
   },
   {
     "title": "SOC Analyst L2",
@@ -382,7 +438,7 @@
     "company": "Cortex Consultants LLC",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-cortex-consultants-llc-4404540757",
-    "reason": "stale LinkedIn listing: 111 days old"
+    "reason": "stale LinkedIn listing: 112 days old"
   },
   {
     "title": "Analyst",
@@ -396,7 +452,7 @@
     "company": "Berkadia",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/analyst-1-soc-at-berkadia-4428871280",
-    "reason": "stale LinkedIn listing: 56 days old"
+    "reason": "stale LinkedIn listing: 57 days old"
   },
   {
     "title": "CYBER SECURITY ANALYST L2",
@@ -410,21 +466,21 @@
     "company": "Verint",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-l1-analyst-at-verint-4405428319",
-    "reason": "stale LinkedIn listing: 110 days old"
+    "reason": "stale LinkedIn listing: 111 days old"
   },
   {
     "title": "SOC Analyst \u2013 Level 1",
     "company": "Soffit Infrastructure Services (P) Ltd",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-analyst-%E2%80%93-level-1-at-soffit-infrastructure-services-p-ltd-4403452329",
-    "reason": "stale LinkedIn listing: 115 days old"
+    "reason": "stale LinkedIn listing: 116 days old"
   },
   {
     "title": "SOC L1 Analyst",
     "company": "Verint Financial Compliance",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-l1-analyst-at-verint-financial-compliance-4405400248",
-    "reason": "stale LinkedIn listing: 110 days old"
+    "reason": "stale LinkedIn listing: 111 days old"
   },
   {
     "title": "Security Analyst II",
@@ -438,7 +494,7 @@
     "company": "ZEE - Technology & Innovation",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-zee-technology-innovation-4419852821",
-    "reason": "stale LinkedIn listing: 75 days old"
+    "reason": "stale LinkedIn listing: 76 days old"
   },
   {
     "title": "SOC Security Analyst Level 2 - SIEM",
@@ -446,13 +502,6 @@
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-security-analyst-level-2-siem-at-ibm-4437668114",
     "reason": "senior role: \\blevel\\s+[2-9]\\b"
-  },
-  {
-    "title": "Security Operator III",
-    "company": "Interactive Brokers",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/security-operator-iii-at-interactive-brokers-4434437463",
-    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\biii\\b"
   },
   {
     "title": "SOC Analyst II",
@@ -466,7 +515,7 @@
     "company": "Barracuda",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cybersecurity-analyst-at-barracuda-4398729707",
-    "reason": "stale LinkedIn listing: 121 days old"
+    "reason": "stale LinkedIn listing: 122 days old"
   },
   {
     "title": "CYBER SECURITY ANALYST L3",
@@ -474,6 +523,13 @@
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4440363308",
     "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+  },
+  {
+    "title": "SOC L3",
+    "company": "Alliant Cybersecurity",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-l3-at-alliant-cybersecurity-4452446131",
+    "reason": "senior role: \\bsoc\\s+l[23456]\\b"
   },
   {
     "title": "Analyst II - Information Security",
@@ -515,55 +571,90 @@
     "company": "Pico",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/information-security-analyst-at-pico-4421135989",
-    "reason": "stale LinkedIn listing: 66 days old"
-  },
-  {
-    "title": "SOC ANALYST",
-    "company": "Value Point Systems Pvt Ltd",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4375356251",
-    "reason": "stale LinkedIn listing: 143 days old"
-  },
-  {
-    "title": "Security Analyst",
-    "company": "Aumni",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/security-analyst-at-aumni-4426056952",
-    "reason": "stale LinkedIn listing: 61 days old"
-  },
-  {
-    "title": "Cyber Security Analyst",
-    "company": "Ashirvad by aliaxis",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-ashirvad-by-aliaxis-4431222291",
-    "reason": "stale LinkedIn listing: 48 days old"
-  },
-  {
-    "title": "IT Security Specialist",
-    "company": "Amla Commerce (Creator of Artifi and Znode)",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/it-security-specialist-at-amla-commerce-creator-of-artifi-and-znode-4332310355",
-    "reason": "stale LinkedIn listing: 287 days old"
+    "reason": "stale LinkedIn listing: 67 days old"
   },
   {
     "title": "Information Security Engineer",
     "company": "Smart Data Solutions",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/information-security-engineer-at-smart-data-solutions-4417068586",
-    "reason": "stale LinkedIn listing: 82 days old"
+    "reason": "stale LinkedIn listing: 83 days old"
+  },
+  {
+    "title": "SOC ANALYST",
+    "company": "Value Point Systems Pvt Ltd",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4375356251",
+    "reason": "stale LinkedIn listing: 144 days old"
+  },
+  {
+    "title": "Security Analyst",
+    "company": "Aumni",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/security-analyst-at-aumni-4426056952",
+    "reason": "stale LinkedIn listing: 62 days old"
+  },
+  {
+    "title": "Cyber Security Analyst",
+    "company": "Ashirvad by aliaxis",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-ashirvad-by-aliaxis-4431222291",
+    "reason": "stale LinkedIn listing: 49 days old"
+  },
+  {
+    "title": "IT Security Specialist",
+    "company": "Amla Commerce (Creator of Artifi and Znode)",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/it-security-specialist-at-amla-commerce-creator-of-artifi-and-znode-4332310355",
+    "reason": "stale LinkedIn listing: 288 days old"
   },
   {
     "title": "Tech Risk",
     "company": "PayU",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/tech-risk-at-payu-4418309813",
-    "reason": "stale LinkedIn listing: 72 days old"
+    "reason": "stale LinkedIn listing: 73 days old"
   },
   {
     "title": "Cybersecurity - Risk & Compliance Analyst",
     "company": "Scybers",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cybersecurity-risk-compliance-analyst-at-scybers-4324491608",
-    "reason": "stale LinkedIn listing: 259 days old"
+    "reason": "stale LinkedIn listing: 260 days old"
+  },
+  {
+    "title": "Analyst II, Cybersecurity",
+    "company": "FIS",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/analyst-ii-cybersecurity-at-fis-4431225639",
+    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
+  },
+  {
+    "title": "Cyber Security Cyber Security Analyst",
+    "company": "Sopra Steria",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-cyber-security-analyst-at-sopra-steria-4423342499",
+    "reason": "stale LinkedIn listing: 62 days old"
+  },
+  {
+    "title": "OTHER CYBER CRIME",
+    "company": "MHA CyberCrime",
+    "source": "certifications",
+    "url": "https://cybercrime.gov.in",
+    "reason": "blocked URL pattern: cybercrime\\.gov\\.in$"
+  },
+  {
+    "title": "Cyber Dost",
+    "company": "MHA CyberCrime",
+    "source": "certifications",
+    "url": "https://www.facebook.com/CyberDostI4C",
+    "reason": "blocked URL pattern: facebook\\.com"
+  },
+  {
+    "title": "Tweets by Cyberdost",
+    "company": "MHA CyberCrime",
+    "source": "certifications",
+    "url": "https://twitter.com/Cyberdost?ref_src=twsrc%5Etfw",
+    "reason": "blocked URL pattern: twitter\\.com|x\\.com"
   }
 ]
