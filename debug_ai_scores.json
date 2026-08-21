@@ -1,73 +1,49 @@
 [
   {
-    "title": "Cyber security intern",
-    "company": "Meritshot",
+    "title": "Cyber Security Analyst",
+    "company": "Skybound Wealth Management",
     "source": "linkedin",
-    "score": 7,
-    "reason": "Entry-level suitable for internship",
-    "passed": true
+    "score": 3,
+    "reason": "Experience requirement likely disqualifies candidate",
+    "passed": false
   },
   {
-    "title": "Cyber security Analyst",
-    "company": "Stefanini North America and APAC",
+    "title": "Cyber Security Analyst",
+    "company": "Koundinyasa Technology Services",
+    "source": "linkedin",
+    "score": 6,
+    "reason": "Missing entry-level indicator",
+    "passed": false
+  },
+  {
+    "title": "Cyber Security Analyst",
+    "company": "Randstad Enterprise",
     "source": "linkedin",
     "score": 7,
     "reason": "AI skipped \u2014 all Groq models exhausted/unavailable today",
     "passed": true
   },
   {
-    "title": "Cyber Security Internship",
-    "company": "Sparks To Ideas",
-    "source": "linkedin",
-    "score": 8,
-    "reason": "Strong SOC fit, VAPT skills",
-    "passed": true
-  },
-  {
     "title": "Cyber Security Analyst",
-    "company": "Randstad Enterprise",
+    "company": "alliantgroup",
     "source": "linkedin",
-    "score": 8,
-    "reason": "strong fit",
-    "passed": true
-  },
-  {
-    "title": "APCSIP-2026 | Amroha Police Cyber Security Internship Program - GitHub",
-    "company": "Web Search",
-    "source": "google_news",
-    "score": 9,
-    "reason": "Perfect government cybersecurity internship match",
+    "score": 7,
+    "reason": "AI skipped \u2014 all Groq models exhausted/unavailable today",
     "passed": true
   },
   {
     "title": "Cyber Security Internship in Mumbai",
     "company": "Restaverse",
     "source": "linkedin",
-    "score": 9,
+    "score": 8,
     "reason": "Strong SOC and VAPT fit",
-    "passed": true
-  },
-  {
-    "title": "Cyber Security Intern (Network Security, Risk Assessment, Linux)",
-    "company": "MediNex Workforce",
-    "source": "linkedin",
-    "score": 9,
-    "reason": "strong relevant experience",
     "passed": true
   },
   {
     "title": "Cyber Security Internship",
     "company": "Sparks To Ideas",
     "source": "linkedin",
-    "score": 9,
-    "reason": "Strong fit for cybersecurity internship.",
-    "passed": true
-  },
-  {
-    "title": "Cyber Security Internship in Mumbai",
-    "company": "Europ Assistance",
-    "source": "linkedin",
-    "score": 9,
+    "score": 8,
     "reason": "Strong relevant experience",
     "passed": true
   },
@@ -75,48 +51,40 @@
     "title": "Cyber Security Internship",
     "company": "Sparks To Ideas",
     "source": "linkedin",
-    "score": 9,
-    "reason": "Strong SOC, VAPT fit",
-    "passed": true
-  },
-  {
-    "title": "Cyber Security Analyst",
-    "company": "Skybound Wealth Management",
-    "source": "linkedin",
-    "score": 9,
-    "reason": "Strong alignment",
-    "passed": true
-  },
-  {
-    "title": "Cyber Security Intern",
-    "company": "DynamaxTerra",
-    "source": "linkedin",
-    "score": 9,
-    "reason": "Strong fit, relevant experience, skills",
-    "passed": true
-  },
-  {
-    "title": "Cyber Security Intern",
-    "company": "internmo",
-    "source": "linkedin",
-    "score": 9,
-    "reason": "Strong relevant experience and skills",
-    "passed": true
-  },
-  {
-    "title": "Cyber Security Internship",
-    "company": "Sparks To Ideas",
-    "source": "linkedin",
-    "score": 9,
-    "reason": "Strong relevant experience and skills",
-    "passed": true
-  },
-  {
-    "title": "Cyber Security Internship",
-    "company": "Sparks To Ideas",
-    "source": "linkedin",
-    "score": 9,
+    "score": 8,
     "reason": "Strong SOC fit",
+    "passed": true
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "company": "Olezka Global",
+    "source": "linkedin",
+    "score": 8,
+    "reason": "Entry-level cybersecurity analyst in India",
+    "passed": true
+  },
+  {
+    "title": "APCSIP-2026 | Amroha Police Cyber Security Internship Program - GitHub",
+    "company": "Web Search",
+    "source": "google_news",
+    "score": 9,
+    "reason": "Matches target government cyber internship",
+    "passed": true
+  },
+  {
+    "title": "Cyber Security Intern (Network Security, Risk Assessment, Linux)",
+    "company": "MediNex Workforce",
+    "source": "linkedin",
+    "score": 9,
+    "reason": "Strong SOC & VAPT experience",
+    "passed": true
+  },
+  {
+    "title": "Cyber Security Internship",
+    "company": "Sparks To Ideas",
+    "source": "linkedin",
+    "score": 9,
+    "reason": "Strong SOC fit, VAPT skills",
     "passed": true
   },
   {
@@ -128,19 +96,27 @@
     "passed": true
   },
   {
+    "title": "Cyber Security Internship in Mumbai",
+    "company": "Europ Assistance",
+    "source": "linkedin",
+    "score": 9,
+    "reason": "Strong SOC and VAPT fit",
+    "passed": true
+  },
+  {
     "title": "Cyber Security Internship",
     "company": "Sparks To Ideas",
     "source": "linkedin",
     "score": 9,
-    "reason": "Strong SOC & VAPT fit",
+    "reason": "Strong match, relevant skills",
     "passed": true
   },
   {
-    "title": "Cyber Security Analyst",
-    "company": "alliantgroup",
+    "title": "Cyber Security Intern",
+    "company": "internmo",
     "source": "linkedin",
     "score": 9,
-    "reason": "strong fit",
+    "reason": "Strong relevant experience and skills",
     "passed": true
   },
   {
@@ -148,15 +124,15 @@
     "company": "Abacus",
     "source": "linkedin",
     "score": 9,
-    "reason": "Strong SOC/detection fit",
+    "reason": "Strong entry-level cybersecurity fit",
     "passed": true
   },
   {
-    "title": "Cyber Security Internship",
-    "company": "Sparks To Ideas",
+    "title": "Cyber Security Intern (Network Security, Vulnerability Assessment, Information Security)",
+    "company": "MediNex Workforce",
     "source": "linkedin",
     "score": 10,
-    "reason": "Ideal cybersecurity internship in India",
+    "reason": "Exact VAPT internship match",
     "passed": true
   }
 ]
