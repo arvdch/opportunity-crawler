@@ -21,13 +21,6 @@
     "reason": "blocked URL pattern: twitter\\.com|x\\.com"
   },
   {
-    "title": "Cybersecurity Internships in India 2026 \u2014 Verified & Free",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://myinternships.in/internships/cybersecurity-internships",
-    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
-  },
-  {
     "title": "Cybersecurity Internship 2026 Jobs in India (1,000+ Open Roles ...",
     "company": "Web Search",
     "source": "google_news",
@@ -35,11 +28,25 @@
     "reason": "blocked URL pattern: linkedin\\.com/jobs/.*internship.*jobs$"
   },
   {
-    "title": "131 cybersecurity internship jobs in India, August 2026 | Glassdoor",
+    "title": "Cybersecurity Internships in India 2026 \u2014 Verified & Free",
+    "company": "Web Search",
+    "source": "google_news",
+    "url": "https://myinternships.in/internships/cybersecurity-internships",
+    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
+  },
+  {
+    "title": "133 cybersecurity internship jobs in India, August 2026 | Glassdoor",
     "company": "Web Search",
     "source": "google_news",
     "url": "https://www.glassdoor.co.in/Job/india-cybersecurity-internship-jobs-SRCH_IL.0,5_IN115_KO6,30.htm",
     "reason": "blocked URL pattern: glassdoor\\.co\\.in/Job/.*internship"
+  },
+  {
+    "title": "Cybersecurity Internships in India 2026 \u2014 Everything a Student Needs to ...",
+    "company": "Web Search",
+    "source": "google_news",
+    "url": "https://cguru.co.in/cybersecurity-internships-in-india-2026/",
+    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
   },
   {
     "title": "Cybersecurity Internship for Freshers 2026 \u2014 Apply Free",
@@ -68,6 +75,20 @@
     "source": "google_news",
     "url": "https://news.lawfoyer.in/cyber-security-internship-program-2026-by-amroha-police-apcsip-2026/",
     "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
+  },
+  {
+    "title": "My Cybersecurity Journey: From Day 1 to Valedictory at APCSIP 2026",
+    "company": "Web Search",
+    "source": "google_news",
+    "url": "https://www.linkedin.com/pulse/my-cybersecurity-journey-from-day-1-valedictory-apcsip-rajanala-p55vc",
+    "reason": "blocked URL pattern: linkedin\\.com/pulse/"
+  },
+  {
+    "title": "Signal Labs Hackathon",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://signal-labs-hackathon.devpost.com/",
+    "reason": "keyword-miss (score 0)"
   },
   {
     "title": "Hacks day Bhopal",
@@ -165,13 +186,6 @@
     "company": "DevPost",
     "source": "google_news",
     "url": "https://myhack-isna.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
-    "title": "EmP Hackfest Summer 2026",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://emp-hackfest-summer-2026.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
@@ -308,11 +322,116 @@
     "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
   },
   {
-    "title": "Junior Cloud Security Validation Engineer",
-    "company": "Upwind Security",
+    "title": "CYBER SECURITY ANALYST L3",
+    "company": "Wipro",
     "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/junior-cloud-security-validation-engineer-at-upwind-security-4419441160",
-    "reason": "stale LinkedIn listing: 91 days old"
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4455986989",
+    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+  },
+  {
+    "title": "SOC L1 Analyst",
+    "company": "Verint",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-l1-analyst-at-verint-4405428319",
+    "reason": "stale LinkedIn listing: 126 days old"
+  },
+  {
+    "title": "SOC L1 Analyst",
+    "company": "Verint Financial Compliance",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-l1-analyst-at-verint-financial-compliance-4405400248",
+    "reason": "stale LinkedIn listing: 126 days old"
+  },
+  {
+    "title": "CYBER SECURITY ANALYST L3",
+    "company": "Wipro",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4455998091",
+    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+  },
+  {
+    "title": "Cyber Security Analyst",
+    "company": "Ashirvad by aliaxis",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-ashirvad-by-aliaxis-4431222291",
+    "reason": "stale LinkedIn listing: 64 days old"
+  },
+  {
+    "title": "E2E Networks - Security Operations Center Analyst - Firewall Management",
+    "company": "E2E Cloud",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/e2e-networks-security-operations-center-analyst-firewall-management-at-e2e-cloud-4422637714",
+    "reason": "stale LinkedIn listing: 84 days old"
+  },
+  {
+    "title": "L2 SOC Analyst",
+    "company": "UST",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/l2-soc-analyst-at-ust-4432351107",
+    "reason": "senior role: \\bl[23456]\\s+(soc|security|cyber|infosec)\\s+(analyst|engineer|specialist)\\b"
+  },
+  {
+    "title": "Cyber Security Analyst II",
+    "company": "Availity",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-ii-at-availity-4449996981",
+    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
+  },
+  {
+    "title": "SOC Analyst (Tier 2)",
+    "company": "aeroqube inc.",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-analyst-tier-2-at-aeroqube-inc-4320533329",
+    "reason": "stale LinkedIn listing: 296 days old"
+  },
+  {
+    "title": "CYBER security Analyst",
+    "company": "Cortex Consultants LLC",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-cortex-consultants-llc-4404540757",
+    "reason": "stale LinkedIn listing: 127 days old"
+  },
+  {
+    "title": "RS / High-Security L3 SOC Analyst (Secure Environment)",
+    "company": "Plurilock (Espa\u00f1ol)",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/rs-high-security-l3-soc-analyst-secure-environment-at-plurilock-espa%C3%B1ol-4438367094",
+    "reason": "senior role: \\bl[23456]\\s+(soc|security|cyber|infosec)\\s+(analyst|engineer|specialist)\\b"
+  },
+  {
+    "title": "Cyber Analyst.",
+    "company": "Cortex Consultants LLC",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-analyst-at-cortex-consultants-llc-4404030491",
+    "reason": "stale LinkedIn listing: 128 days old"
+  },
+  {
+    "title": "Information Security Analyst II",
+    "company": "Mimecast",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/information-security-analyst-ii-at-mimecast-4448174346",
+    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
+  },
+  {
+    "title": "SOC Analyst",
+    "company": "Resillion",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-resillion-4433161093",
+    "reason": "stale LinkedIn listing: 54 days old"
+  },
+  {
+    "title": "Security Operations Center (SOC) Analyst III",
+    "company": "The Standard India",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/security-operations-center-soc-analyst-iii-at-the-standard-india-4439831655",
+    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\biii\\b"
+  },
+  {
+    "title": "Analyst",
+    "company": "EXL",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/analyst-at-exl-4446725485",
+    "reason": "blocked role: ^analyst$"
   },
   {
     "title": "Analyst",
@@ -326,14 +445,7 @@
     "company": "Value Point Systems Pvt Ltd",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4391624942",
-    "reason": "stale LinkedIn listing: 108 days old"
-  },
-  {
-    "title": "Cyber Analyst.",
-    "company": "Cortex Consultants LLC",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-analyst-at-cortex-consultants-llc-4404030491",
-    "reason": "stale LinkedIn listing: 127 days old"
+    "reason": "stale LinkedIn listing: 109 days old"
   },
   {
     "title": "SOC Analyst L2",
@@ -357,46 +469,11 @@
     "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
   },
   {
-    "title": "L2 SOC Analyst",
-    "company": "UST",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/l2-soc-analyst-at-ust-4432351107",
-    "reason": "senior role: \\bl[23456]\\s+(soc|security|cyber|infosec)\\s+(analyst|engineer|specialist)\\b"
-  },
-  {
-    "title": "CYBER security Analyst",
-    "company": "Cortex Consultants LLC",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-cortex-consultants-llc-4404540757",
-    "reason": "stale LinkedIn listing: 126 days old"
-  },
-  {
-    "title": "Analyst",
-    "company": "EXL",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/analyst-at-exl-4446725485",
-    "reason": "blocked role: ^analyst$"
-  },
-  {
     "title": "Security Operator I",
     "company": "Interactive Brokers",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/security-operator-i-at-interactive-brokers-4434436563",
-    "reason": "stale LinkedIn listing: 57 days old"
-  },
-  {
-    "title": "SOC L1 Analyst",
-    "company": "Verint",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-l1-analyst-at-verint-4405428319",
-    "reason": "stale LinkedIn listing: 125 days old"
-  },
-  {
-    "title": "SOC L1 Analyst",
-    "company": "Verint Financial Compliance",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-l1-analyst-at-verint-financial-compliance-4405400248",
-    "reason": "stale LinkedIn listing: 125 days old"
+    "reason": "stale LinkedIn listing: 58 days old"
   },
   {
     "title": "Security Analyst II",
@@ -404,13 +481,6 @@
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/security-analyst-ii-at-fortuna-cysec-4439316574",
     "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
-  },
-  {
-    "title": "Cyber Security Analyst",
-    "company": "ZEE - Technology & Innovation",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-zee-technology-innovation-4419852821",
-    "reason": "stale LinkedIn listing: 90 days old"
   },
   {
     "title": "SOC Analyst II",
@@ -424,14 +494,7 @@
     "company": "JUARA IT SOLUTIONS",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/threat-hunter-at-juara-it-solutions-4437050894",
-    "reason": "stale LinkedIn listing: 48 days old"
-  },
-  {
-    "title": "SOC Analyst",
-    "company": "Resillion",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-resillion-4433161093",
-    "reason": "stale LinkedIn listing: 53 days old"
+    "reason": "stale LinkedIn listing: 49 days old"
   },
   {
     "title": "SOC L2/L3",
@@ -441,13 +504,6 @@
     "reason": "senior role: \\bsoc\\s+l[23456]\\b"
   },
   {
-    "title": "Cyber Security Analyst II",
-    "company": "Availity",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-ii-at-availity-4449996981",
-    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
-  },
-  {
     "title": "SOC L3",
     "company": "Alliant Cybersecurity",
     "source": "linkedin",
@@ -455,74 +511,18 @@
     "reason": "senior role: \\bsoc\\s+l[23456]\\b"
   },
   {
-    "title": "CYBER SECURITY ANALYST L3",
-    "company": "Wipro",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4455986989",
-    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
-  },
-  {
-    "title": "CYBER SECURITY ANALYST L3",
-    "company": "Wipro",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4455998091",
-    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
-  },
-  {
-    "title": "Cyber Security Analyst",
-    "company": "Ashirvad by aliaxis",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-ashirvad-by-aliaxis-4431222291",
-    "reason": "stale LinkedIn listing: 63 days old"
-  },
-  {
-    "title": "E2E Networks - Security Operations Center Analyst - Firewall Management",
-    "company": "E2E Cloud",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/e2e-networks-security-operations-center-analyst-firewall-management-at-e2e-cloud-4422637714",
-    "reason": "stale LinkedIn listing: 83 days old"
-  },
-  {
-    "title": "SOC Analyst (Tier 2)",
-    "company": "aeroqube inc.",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-analyst-tier-2-at-aeroqube-inc-4320533329",
-    "reason": "stale LinkedIn listing: 295 days old"
-  },
-  {
-    "title": "RS / High-Security L3 SOC Analyst (Secure Environment)",
-    "company": "Plurilock (Espa\u00f1ol)",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/rs-high-security-l3-soc-analyst-secure-environment-at-plurilock-espa%C3%B1ol-4438367094",
-    "reason": "senior role: \\bl[23456]\\s+(soc|security|cyber|infosec)\\s+(analyst|engineer|specialist)\\b"
-  },
-  {
-    "title": "Information Security Analyst II",
-    "company": "Mimecast",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/information-security-analyst-ii-at-mimecast-4448174346",
-    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
-  },
-  {
-    "title": "Security Operations Center (SOC) Analyst III",
-    "company": "The Standard India",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/security-operations-center-soc-analyst-iii-at-the-standard-india-4439831655",
-    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\biii\\b"
-  },
-  {
-    "title": "Security Analyst - L0",
-    "company": "Noventiq India",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/security-analyst-l0-at-noventiq-india-4435459842",
-    "reason": "stale LinkedIn listing: 53 days old"
-  },
-  {
     "title": "Security Analyst I",
     "company": "Fortuna Cysec",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/security-analyst-i-at-fortuna-cysec-4439306966",
-    "reason": "stale LinkedIn listing: 46 days old"
+    "reason": "stale LinkedIn listing: 47 days old"
+  },
+  {
+    "title": "Cyber Security Analyst",
+    "company": "ZEE - Technology & Innovation",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-zee-technology-innovation-4419852821",
+    "reason": "stale LinkedIn listing: 91 days old"
   },
   {
     "title": "Analyst II - Information Security",
@@ -557,14 +557,14 @@
     "company": "Kia India",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/admin-security-at-kia-india-4411170246",
-    "reason": "stale LinkedIn listing: 103 days old"
+    "reason": "stale LinkedIn listing: 104 days old"
   },
   {
     "title": "Information Security Analyst",
     "company": "Pico",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/information-security-analyst-at-pico-4421135989",
-    "reason": "stale LinkedIn listing: 81 days old"
+    "reason": "stale LinkedIn listing: 82 days old"
   },
   {
     "title": "CYBER SECURITY ANALYST L3",
@@ -578,35 +578,14 @@
     "company": "Smart Data Solutions",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/information-security-engineer-at-smart-data-solutions-4417068586",
-    "reason": "stale LinkedIn listing: 97 days old"
+    "reason": "stale LinkedIn listing: 98 days old"
   },
   {
-    "title": "CYBER SECURITY ANALYST L2",
-    "company": "Wipro",
+    "title": "Security Analyst - L0",
+    "company": "Noventiq India",
     "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l2-at-wipro-4457093178",
-    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
-  },
-  {
-    "title": "SOC ANALYST",
-    "company": "Value Point Systems Pvt Ltd",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4375356251",
-    "reason": "stale LinkedIn listing: 158 days old"
-  },
-  {
-    "title": "Security Analyst",
-    "company": "Aumni",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/security-analyst-at-aumni-4426056952",
-    "reason": "stale LinkedIn listing: 76 days old"
-  },
-  {
-    "title": "Threat Intelligence Analyst - Metmox - Hyderabad",
-    "company": "VIHU",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/threat-intelligence-analyst-metmox-hyderabad-at-vihu-4384465320",
-    "reason": "stale LinkedIn listing: 161 days old"
+    "url": "https://in.linkedin.com/jobs/view/security-analyst-l0-at-noventiq-india-4435459842",
+    "reason": "stale LinkedIn listing: 54 days old"
   },
   {
     "title": "SOC Analyst L1 - Al-Khobar- Saudi National",
@@ -614,6 +593,20 @@
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-analyst-l1-al-khobar-saudi-national-at-it-security-c-t-4435601573",
     "reason": "non-India location in URL: https://in.linkedin.com/jobs/view/soc-analyst-l1-al-khobar-saudi-national-at-it-security-c-t-4435601573"
+  },
+  {
+    "title": "SOC ANALYST",
+    "company": "Value Point Systems Pvt Ltd",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4375356251",
+    "reason": "stale LinkedIn listing: 159 days old"
+  },
+  {
+    "title": "Security Analyst",
+    "company": "Aumni",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/security-analyst-at-aumni-4426056952",
+    "reason": "stale LinkedIn listing: 77 days old"
   },
   {
     "title": "CYBER SECURITY ANALYST L2",
@@ -634,28 +627,28 @@
     "company": "NK Securities Research",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/information-security-engineer-at-nk-securities-research-4418151023",
-    "reason": "stale LinkedIn listing: 95 days old"
+    "reason": "stale LinkedIn listing: 96 days old"
   },
   {
     "title": "Information Security Analyst",
     "company": "Mantle Solutions",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/information-security-analyst-at-mantle-solutions-4435803816",
-    "reason": "stale LinkedIn listing: 55 days old"
+    "reason": "stale LinkedIn listing: 56 days old"
   },
   {
     "title": "IT Security Specialist",
     "company": "Amla Commerce (Creator of Artifi and Znode)",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/it-security-specialist-at-amla-commerce-creator-of-artifi-and-znode-4332310355",
-    "reason": "stale LinkedIn listing: 302 days old"
+    "reason": "stale LinkedIn listing: 303 days old"
   },
   {
     "title": "Cybersecurity - Risk & Compliance Analyst",
     "company": "Scybers",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cybersecurity-risk-compliance-analyst-at-scybers-4324491608",
-    "reason": "stale LinkedIn listing: 274 days old"
+    "reason": "stale LinkedIn listing: 275 days old"
   },
   {
     "title": "[AICTE] Employer/Post Internship",
