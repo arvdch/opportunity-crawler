@@ -1,50 +1,34 @@
 [
   {
-    "title": "Cybersecurity Analyst",
-    "company": "Viceroy Engineering",
+    "title": "Cyber Security Analyst",
+    "company": "Dyson",
     "source": "linkedin",
     "score": 6,
-    "reason": "No entry-level indicator present",
+    "reason": "Entry-level requirement not specified",
     "passed": false
   },
   {
-    "title": "Cyber Security Analyst",
-    "company": "Koundinyasa Technology Services",
-    "source": "linkedin",
-    "score": 7,
-    "reason": "Entry-level cybersecurity role",
-    "passed": true
-  },
-  {
-    "title": "Cyber Security Analyst",
-    "company": "alliantgroup",
+    "title": "Cyber Security Internship",
+    "company": "Sparks To Ideas",
     "source": "linkedin",
     "score": 7,
     "reason": "AI skipped \u2014 all Groq models exhausted/unavailable today",
     "passed": true
   },
   {
-    "title": "Cyber security Analyst",
-    "company": "Stefanini North America and APAC",
-    "source": "linkedin",
-    "score": 7,
-    "reason": "Entry-level cybersecurity analyst role",
-    "passed": true
-  },
-  {
-    "title": "CYBER SECURITY ANALYST L1",
-    "company": "Wipro",
-    "source": "linkedin",
-    "score": 7,
-    "reason": "AI skipped \u2014 all Groq models exhausted/unavailable today",
-    "passed": true
-  },
-  {
-    "title": "Cyber Security Internship in Mumbai",
-    "company": "Europ Assistance",
+    "title": "Cyber Security Internship in Dehradun, Uttarakhand (Hybrid)",
+    "company": "Aawas Yojana",
     "source": "linkedin",
     "score": 8,
-    "reason": "Strong SOC and VAPT fit",
+    "reason": "Internship, SOC, India",
+    "passed": true
+  },
+  {
+    "title": "Cyber Security Intern | Network Security | Risk Assessment | Monitoring | Security Basics",
+    "company": "MediNex Workforce",
+    "source": "linkedin",
+    "score": 8,
+    "reason": "Intern, SOC, India",
     "passed": true
   },
   {
@@ -52,95 +36,23 @@
     "company": "Solenis",
     "source": "linkedin",
     "score": 8,
-    "reason": "SOC detection, Splunk, good fit",
-    "passed": true
-  },
-  {
-    "title": "Cyber Security Internship",
-    "company": "Sparks To Ideas",
-    "source": "linkedin",
-    "score": 8,
-    "reason": "Strong SOC/VAPT fit",
-    "passed": true
-  },
-  {
-    "title": "Cybersecurity Analyst",
-    "company": "Abacus",
-    "source": "linkedin",
-    "score": 8,
-    "reason": "Strong relevant experience, good fit",
+    "reason": "Entry-level SOC role fit well",
     "passed": true
   },
   {
     "title": "Cyber Security Analyst",
-    "company": "Randstad Enterprise",
+    "company": "alliantgroup",
     "source": "linkedin",
     "score": 8,
-    "reason": "Entry-level analyst role",
-    "passed": true
-  },
-  {
-    "title": "Cyber Security Internship in Uttarakhand, Dehradun (Hybrid)",
-    "company": "Aawas Yojana",
-    "source": "linkedin",
-    "score": 9,
-    "reason": "Strong cybersecurity internship match",
-    "passed": true
-  },
-  {
-    "title": "Cyber Security Internship in Uttarakhand, Dehradun (Hybrid)",
-    "company": "Aawas Yojana",
-    "source": "linkedin",
-    "score": 9,
-    "reason": "Strong cybersecurity fit, relevant experience",
-    "passed": true
-  },
-  {
-    "title": "Cyber Security Internship in Mumbai",
-    "company": "Restaverse",
-    "source": "linkedin",
-    "score": 9,
-    "reason": "Strong SOC fit",
-    "passed": true
-  },
-  {
-    "title": "Cyber Security Internship",
-    "company": "Sparks To Ideas",
-    "source": "linkedin",
-    "score": 9,
-    "reason": "Strong SOC fit, experienced intern",
-    "passed": true
-  },
-  {
-    "title": "Cyber Security Internship",
-    "company": "Sparks To Ideas",
-    "source": "linkedin",
-    "score": 9,
-    "reason": "Strong relevant experience",
-    "passed": true
-  },
-  {
-    "title": "Cyber Security Internship",
-    "company": "Sparks To Ideas",
-    "source": "linkedin",
-    "score": 9,
-    "reason": "Strong SOC fit",
-    "passed": true
-  },
-  {
-    "title": "Cyber Security Analyst",
-    "company": "Dyson",
-    "source": "linkedin",
-    "score": 9,
     "reason": "Strong fit for entry-level role",
     "passed": true
   },
   {
     "title": "Cyber Security Analyst",
-    "company": "CodeGama",
+    "company": "Skybound Wealth Management",
     "source": "linkedin",
-    "score": 9,
-    "reason": "strong fit",
+    "score": 8,
+    "reason": "Strong SOC detection fit",
     "passed": true
   },
   {
@@ -148,7 +60,7 @@
     "company": "Sparks To Ideas",
     "source": "linkedin",
     "score": 9,
-    "reason": "Strong SOC fit, relevant skills",
+    "reason": "Strong SOC fit",
     "passed": true
   },
   {
@@ -156,23 +68,87 @@
     "company": "Sparks To Ideas",
     "source": "linkedin",
     "score": 9,
-    "reason": "Strong relevant experience",
+    "reason": "Strong SOC/VAPT alignment",
     "passed": true
   },
   {
-    "title": "Cybersecurity Analyst",
-    "company": "Olezka Global",
+    "title": "Cyber Security Internship in Dehradun, Uttarakhand (Hybrid)",
+    "company": "Aawas Yojana",
     "source": "linkedin",
     "score": 9,
-    "reason": "strong fit",
+    "reason": "Strong relevant experience, good fit",
     "passed": true
   },
   {
     "title": "Cyber Security Intern (Network Security, Risk Assessment, Linux)",
     "company": "MediNex Workforce",
     "source": "linkedin",
+    "score": 9,
+    "reason": "Strong SOC & VAPT fit",
+    "passed": true
+  },
+  {
+    "title": "Cyber Security Internship",
+    "company": "Sparks To Ideas",
+    "source": "linkedin",
+    "score": 9,
+    "reason": "Strong relevant experience and skills",
+    "passed": true
+  },
+  {
+    "title": "Cyber Security Internship in Mumbai",
+    "company": "Europ Assistance",
+    "source": "linkedin",
+    "score": 9,
+    "reason": "Strong alignment",
+    "passed": true
+  },
+  {
+    "title": "Cyber Security Analyst",
+    "company": "Randstad Enterprise",
+    "source": "linkedin",
+    "score": 9,
+    "reason": "Strong SOC/Detection fit",
+    "passed": true
+  },
+  {
+    "title": "Cyber Security Analyst",
+    "company": "NVIDIA",
+    "source": "linkedin",
+    "score": 9,
+    "reason": "strong SOC/detection fit",
+    "passed": true
+  },
+  {
+    "title": "Security Operations Center Analyst",
+    "company": "Tata Consultancy Services",
+    "source": "linkedin",
+    "score": 9,
+    "reason": "Strong SOC relevant experience",
+    "passed": true
+  },
+  {
+    "title": "Cyber Security Internship",
+    "company": "Sparks To Ideas",
+    "source": "linkedin",
+    "score": 9,
+    "reason": "Strong relevant experience, good fit",
+    "passed": true
+  },
+  {
+    "title": "APCSIP-2026 | Amroha Police Cyber Security Internship Program - GitHub",
+    "company": "Web Search",
+    "source": "google_news",
     "score": 10,
-    "reason": "Perfect internship matches candidate skills",
+    "reason": "Perfect government cybersecurity internship match",
+    "passed": true
+  },
+  {
+    "title": "Cyber Security Internship in Mumbai",
+    "company": "Restaverse",
+    "source": "linkedin",
+    "score": 10,
+    "reason": "Perfect fit for cybersecurity intern",
     "passed": true
   }
 ]
