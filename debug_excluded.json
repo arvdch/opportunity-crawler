@@ -14,7 +14,7 @@
     "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
   },
   {
-    "title": "135 cybersecurity internship jobs in India, September 2026 - Glassdoor",
+    "title": "132 cybersecurity internship jobs in India, September 2026 - Glassdoor",
     "company": "Web Search",
     "source": "google_news",
     "url": "https://www.glassdoor.co.in/Job/india-cybersecurity-internship-jobs-SRCH_IL.0,5_IN115_KO6,30.htm",
@@ -28,18 +28,18 @@
     "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
   },
   {
-    "title": "#apcsip_2026 #internship #internships #internshipopportunity - LinkedIn",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://www.linkedin.com/posts/cop-anjalikataria_apcsip2026-internship-internships-activity-7455892416764739584-hEPG",
-    "reason": "blocked URL pattern: linkedin\\.com/posts/"
-  },
-  {
     "title": "Amroha Police Cyber Security Internship Program 2026 (APCSIP-2026)",
     "company": "Web Search",
     "source": "google_news",
     "url": "https://cyberdeepakyadav.com/amroha-police-cyber-security-internship-2026",
     "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
+  },
+  {
+    "title": "#apcsip_2026 #internship #internships #internshipopportunity - LinkedIn",
+    "company": "Web Search",
+    "source": "google_news",
+    "url": "https://www.linkedin.com/posts/cop-anjalikataria_apcsip2026-internship-internships-activity-7455892416764739584-hEPG",
+    "reason": "blocked URL pattern: linkedin\\.com/posts/"
   },
   {
     "title": "Cyber Security Internship Program 2026 by Amroha Police (APCSIP-2026)",
@@ -154,83 +154,6 @@
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "OTHER CYBER CRIME",
-    "company": "MHA CyberCrime",
-    "source": "certifications",
-    "url": "https://cybercrime.gov.in",
-    "reason": "blocked URL pattern: cybercrime\\.gov\\.in$"
-  },
-  {
-    "title": "Cyber Dost",
-    "company": "MHA CyberCrime",
-    "source": "certifications",
-    "url": "https://www.facebook.com/CyberDostI4C",
-    "reason": "blocked URL pattern: facebook\\.com"
-  },
-  {
-    "title": "Tweets by Cyberdost",
-    "company": "MHA CyberCrime",
-    "source": "certifications",
-    "url": "https://twitter.com/Cyberdost?ref_src=twsrc%5Etfw",
-    "reason": "blocked URL pattern: twitter\\.com|x\\.com"
-  },
-  {
-    "title": "/r/netsec's Q3 2026 Information Security Hiring Thread",
-    "company": "Reddit netsec hiring",
-    "source": "rss",
-    "url": "https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/",
-    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
-  },
-  {
-    "title": "/r/netsec's Q1 2026 Information Security Hiring Thread",
-    "company": "Reddit netsec hiring",
-    "source": "rss",
-    "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/",
-    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
-  },
-  {
-    "title": "/r/netsec's Q4 2025 Information Security Hiring Thread",
-    "company": "Reddit netsec hiring",
-    "source": "rss",
-    "url": "https://www.reddit.com/r/netsec/comments/1omlc64/rnetsecs_q4_2025_information_security_hiring/",
-    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
-  },
-  {
-    "title": "/r/netsec's Q3 2025 Information Security Hiring Thread",
-    "company": "Reddit netsec hiring",
-    "source": "rss",
-    "url": "https://www.reddit.com/r/netsec/comments/1lq51ry/rnetsecs_q3_2025_information_security_hiring/",
-    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
-  },
-  {
-    "title": "/r/netsec's Q2 2025 Information Security Hiring Thread",
-    "company": "Reddit netsec hiring",
-    "source": "rss",
-    "url": "https://www.reddit.com/r/netsec/comments/1jp3y90/rnetsecs_q2_2025_information_security_hiring/",
-    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
-  },
-  {
-    "title": "/r/netsec's Q1 2025 Information Security Hiring Thread",
-    "company": "Reddit netsec hiring",
-    "source": "rss",
-    "url": "https://www.reddit.com/r/netsec/comments/1hrdco6/rnetsecs_q1_2025_information_security_hiring/",
-    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
-  },
-  {
-    "title": "/r/netsec's Q4 2024 Information Security Hiring Thread",
-    "company": "Reddit netsec hiring",
-    "source": "rss",
-    "url": "https://www.reddit.com/r/netsec/comments/1fvayj6/rnetsecs_q4_2024_information_security_hiring/",
-    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
-  },
-  {
-    "title": "/r/netsec's Q3 2024 Information Security Hiring Thread",
-    "company": "Reddit netsec hiring",
-    "source": "rss",
-    "url": "https://www.reddit.com/r/netsec/comments/1e73qnf/rnetsecs_q3_2024_information_security_hiring/",
-    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
-  },
-  {
     "title": "[GitHub] shrivenkateshwara/Best-Private-University-in-Uttar-Pradesh-UP-Top-University-in-India-SVU",
     "company": "shrivenkateshwara",
     "source": "github",
@@ -301,95 +224,5100 @@
     "reason": "GitHub repos are writeups/portfolios, not open positions"
   },
   {
-    "title": "[AICTE] Employer/Post Internship",
+    "title": "/r/netsec's Q3 2026 Information Security Hiring Thread",
+    "company": "Reddit netsec hiring",
+    "source": "rss",
+    "url": "https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/",
+    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
+  },
+  {
+    "title": "/r/netsec's Q1 2026 Information Security Hiring Thread",
+    "company": "Reddit netsec hiring",
+    "source": "rss",
+    "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/",
+    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
+  },
+  {
+    "title": "/r/netsec's Q4 2025 Information Security Hiring Thread",
+    "company": "Reddit netsec hiring",
+    "source": "rss",
+    "url": "https://www.reddit.com/r/netsec/comments/1omlc64/rnetsecs_q4_2025_information_security_hiring/",
+    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
+  },
+  {
+    "title": "/r/netsec's Q3 2025 Information Security Hiring Thread",
+    "company": "Reddit netsec hiring",
+    "source": "rss",
+    "url": "https://www.reddit.com/r/netsec/comments/1lq51ry/rnetsecs_q3_2025_information_security_hiring/",
+    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
+  },
+  {
+    "title": "/r/netsec's Q2 2025 Information Security Hiring Thread",
+    "company": "Reddit netsec hiring",
+    "source": "rss",
+    "url": "https://www.reddit.com/r/netsec/comments/1jp3y90/rnetsecs_q2_2025_information_security_hiring/",
+    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
+  },
+  {
+    "title": "/r/netsec's Q1 2025 Information Security Hiring Thread",
+    "company": "Reddit netsec hiring",
+    "source": "rss",
+    "url": "https://www.reddit.com/r/netsec/comments/1hrdco6/rnetsecs_q1_2025_information_security_hiring/",
+    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
+  },
+  {
+    "title": "/r/netsec's Q4 2024 Information Security Hiring Thread",
+    "company": "Reddit netsec hiring",
+    "source": "rss",
+    "url": "https://www.reddit.com/r/netsec/comments/1fvayj6/rnetsecs_q4_2024_information_security_hiring/",
+    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
+  },
+  {
+    "title": "/r/netsec's Q3 2024 Information Security Hiring Thread",
+    "company": "Reddit netsec hiring",
+    "source": "rss",
+    "url": "https://www.reddit.com/r/netsec/comments/1e73qnf/rnetsecs_q3_2024_information_security_hiring/",
+    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
+  },
+  {
+    "title": "OTHER CYBER CRIME",
+    "company": "MHA CyberCrime",
+    "source": "certifications",
+    "url": "https://cybercrime.gov.in",
+    "reason": "blocked URL pattern: cybercrime\\.gov\\.in$"
+  },
+  {
+    "title": "Cyber Dost",
+    "company": "MHA CyberCrime",
+    "source": "certifications",
+    "url": "https://www.facebook.com/CyberDostI4C",
+    "reason": "blocked URL pattern: facebook\\.com"
+  },
+  {
+    "title": "Tweets by Cyberdost",
+    "company": "MHA CyberCrime",
+    "source": "certifications",
+    "url": "https://twitter.com/Cyberdost?ref_src=twsrc%5Etfw",
+    "reason": "blocked URL pattern: twitter\\.com|x\\.com"
+  },
+  {
+    "title": "[AICTE] All InternshipsLiveEvery live opening across Bharat",
     "company": "AICTE",
     "source": "govt_portals",
-    "url": "https://internship.aicte-india.org/",
+    "url": "https://internship.aicte-india.org/internships",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "[AICTE] Amrit Sarovar Geotagged Submissions",
+    "title": "[AICTE] Highest Stipend\u20b9\u20b9\u20b9Best-paid postings first",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?sort=stipend",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Closing This WeekApply before the gate shuts",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?sort=deadline",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Indian Army InternshipCyber defence & engineering cell",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/dashboards/indianarmy",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] TULIP Smart Cities InternshipMinistry of Housing & Urban Affairs",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/dashboards/tulip",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] National Highways Authority of India InternshipNHAI \u2014 MoRTH Highways & Infrastructure",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/dashboards/nhai",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Panchayati Raj & Rural Internship2.5 Lakh Gram Panchayats & Jal Jeevan",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/dashboards/rural",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] AMRUT 2.0 Water Mission InternshipNewMoHUA Urban Water & Sanitation Mission",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/dashboards/amrut",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] C-DAC DashboardInternships via C-DAC, NIELIT & ERNET",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/dashboards/cdac",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] MoRTH Road Transport InternshipRoad safety, VAHAN & green mobility",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/dashboards/morth",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Land Ports Authority InternshipIntegrated Check Posts & border trade",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/dashboards/lpai",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Government of Maharashtra InternshipHigher & Technical Education Dept (HTED)",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/dashboards/maharashtra",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internship Report 2025-26National placement & state metrics",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/report/report_final.pdf",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Selected InternsMeet who made it this season",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/selected-interns",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Amrit Sarovar Geotagged SubmissionsMapInteractive GIS Water Conservation Map",
     "company": "AICTE",
     "source": "govt_portals",
     "url": "https://www.google.com/maps/d/u/0/viewer?mid=1oGe3e-tTtMnbrN87aXrw0RRhLGXdLn8&ll=22.04090595291317%2C82.41129049999998&z=4",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "[AICTE] INTERNSHIP BY INDIAN ARMY",
+    "title": "[AICTE] Hire Interns",
     "company": "AICTE",
     "source": "govt_portals",
-    "url": "https://internship.aicte-india.org/dashboard/indianarmy/internship_list.php",
+    "url": "https://internship.aicte-india.org/auth/login?role=employer",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "[AICTE] INTERNSHIP BY Government of Maharashtra",
+    "title": "[AICTE] Recently posted internships",
     "company": "AICTE",
     "source": "govt_portals",
-    "url": "https://internship.aicte-india.org/dashboard/state/maharashtra/internship-list.php",
+    "url": "https://internship.aicte-india.org/internships?sort=newest",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "[AICTE] AMRUTAM 2.0 Pin WELLS INTERNSHIP",
+    "title": "[AICTE] GoogleIndic language AIOpenIndic AI, Android & Cloud, Google IndiaGoogle India in partnership with AICTE. Interns work o",
     "company": "AICTE",
     "source": "govt_portals",
-    "url": "https://internship.aicte-india.org/well-management.php",
+    "url": "https://internship.aicte-india.org/internships/google",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "[AICTE] INTERNSHIP BY NHIDCL",
+    "title": "[AICTE] Recently Added Internship",
     "company": "AICTE",
     "source": "govt_portals",
-    "url": "https://internship.aicte-india.org/nhidcl/",
+    "url": "https://internship.aicte-india.org/internships/recent",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "[AICTE] AICTE Research Internship Opportunity",
+    "title": "[AICTE] Internships inNicobar",
     "company": "AICTE",
     "source": "govt_portals",
-    "url": "https://internship.aicte-india.org/dashboard/aicte-research-internship/",
+    "url": "https://internship.aicte-india.org/internships?loc=Nicobar",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "[AICTE] INTERNSHIP BY Land Ports Authority of India",
+    "title": "[AICTE] Internships inNorth Middle Andaman",
     "company": "AICTE",
     "source": "govt_portals",
-    "url": "https://internship.aicte-india.org/lpai/",
+    "url": "https://internship.aicte-india.org/internships?loc=North%20Middle%20Andaman",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "[AICTE] INTERNSHIPS BY Bharatiya Shikshan Mandal",
+    "title": "[AICTE] Internships inSouth Andaman",
     "company": "AICTE",
     "source": "govt_portals",
-    "url": "https://internship.aicte-india.org/dashboard/ngo/internship-list.php",
+    "url": "https://internship.aicte-india.org/internships?loc=South%20Andaman",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "[AICTE] GENERATION GREEN SUSTAINABILITY INTERNSHIP by OPPO",
+    "title": "[AICTE] Internships inAnantapur",
     "company": "AICTE",
     "source": "govt_portals",
-    "url": "https://internship.aicte-india.org/internship-details.php?uid=SU5URVJOU0hJUF8xNzIwNjA0MDI1NjY4ZTU1Nzk3NGZlZQ==",
+    "url": "https://internship.aicte-india.org/internships?loc=Anantapur",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "[AICTE] About AICTE Internship portal",
+    "title": "[AICTE] Internships inChittoor",
     "company": "AICTE",
     "source": "govt_portals",
-    "url": "https://internship.aicte-india.org/footer-pages/about-us.php",
+    "url": "https://internship.aicte-india.org/internships?loc=Chittoor",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "[AICTE] Internship Blogs",
+    "title": "[AICTE] Internships inTirupathi",
     "company": "AICTE",
     "source": "govt_portals",
-    "url": "https://internship.aicte-india.org/footer-pages/about-us-blog.php",
+    "url": "https://internship.aicte-india.org/internships?loc=Tirupathi",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "[AICTE] Download AICTE Internship Portal Mobile App",
+    "title": "[AICTE] Internships inEast Godavari",
     "company": "AICTE",
     "source": "govt_portals",
-    "url": "https://internship.aicte-india.org/internship.apk",
+    "url": "https://internship.aicte-india.org/internships?loc=East%20Godavari",
     "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGuntur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Guntur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKadapa",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kadapa",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKrishna",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Krishna",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKurnool",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kurnool",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNellore",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Nellore",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPrakasam",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Prakasam",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSrikakulam",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Srikakulam",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inVisakhapatnam",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Visakhapatnam",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inVizianagaram",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Vizianagaram",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inWest Godavari",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=West%20Godavari",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAnjaw",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Anjaw",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inCentral Siang",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Central%20Siang",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inChanglang",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Changlang",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDibang Valley",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dibang%20Valley",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inEast Kameng",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=East%20Kameng",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inEast Siang",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=East%20Siang",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKra Daadi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kra%20Daadi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKurung Kumey",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kurung%20Kumey",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inLohit",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Lohit",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inLongding",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Longding",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inLower Dibang Valley",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Lower%20Dibang%20Valley",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inLower Subansiri",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Lower%20Subansiri",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNamsai",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Namsai",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPapum Pare",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Papum%20Pare",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inTawang",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Tawang",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inTirap",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Tirap",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inUpper Siang",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Upper%20Siang",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inUpper Subansiri",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Upper%20Subansiri",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inWest Kameng",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=West%20Kameng",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inWest Siang",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=West%20Siang",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBaksa",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Baksa",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBarpeta",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Barpeta",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBiswanath",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Biswanath",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBongaigaon",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bongaigaon",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inCachar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Cachar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inCharaideo",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Charaideo",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inChirang",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Chirang",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDarrang",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Darrang",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDhemaji",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dhemaji",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDhubri",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dhubri",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDibrugarh",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dibrugarh",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDima Hasao",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dima%20Hasao",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGoalpara",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Goalpara",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGolaghat",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Golaghat",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inHailakandi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Hailakandi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inHojai",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Hojai",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJorhat",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jorhat",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKamrup",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kamrup",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKamrup Metropolitan",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kamrup%20Metropolitan",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKarbi Anglong",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Karbi%20Anglong",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKarimganj",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Karimganj",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKokrajhar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kokrajhar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inLakhimpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Lakhimpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMajuli",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Majuli",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMorigaon",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Morigaon",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNagaon",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Nagaon",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNalbari",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Nalbari",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSivasagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sivasagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSonitpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sonitpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSouth Salmara-Mankachar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=South%20Salmara-Mankachar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inTinsukiac",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Tinsukiac",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inUdalguri",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Udalguri",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inWest Karbi Anglong",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=West%20Karbi%20Anglong",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAraria",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Araria",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inArwal",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Arwal",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAurangabad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Aurangabad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBanka",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Banka",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBegusarai",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Begusarai",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBhagalpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bhagalpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBhojpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bhojpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBuxar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Buxar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDarbhanga",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Darbhanga",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inEast Champaran",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=East%20Champaran",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGaya",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Gaya",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGopalganj",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Gopalganj",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJamui",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jamui",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJehanabad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jehanabad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKaimur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kaimur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKatihar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Katihar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKhagaria",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Khagaria",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKishanganj",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kishanganj",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inLakhisarai",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Lakhisarai",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMadhepura",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Madhepura",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMadhubani",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Madhubani",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMunger",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Munger",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMuzaffarpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Muzaffarpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNalanda",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Nalanda",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNawada",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Nawada",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPatna",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Patna",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPurnia",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Purnia",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRohtas",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Rohtas",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSaharsa",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Saharsa",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSamastipur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Samastipur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSaran",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Saran",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSheikhpura",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sheikhpura",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSheohar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sheohar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSitamarhi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sitamarhi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSiwan",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Siwan",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSupaul",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Supaul",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inVaishali",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Vaishali",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inWest Champaran",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=West%20Champaran",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inChandigarh",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Chandigarh",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBalod",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Balod",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBaloda Bazar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Baloda%20Bazar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBalrampur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Balrampur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBastar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bastar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBemetara",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bemetara",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBijapur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bijapur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBilaspur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bilaspur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDantewada",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dantewada",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDhamtari",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dhamtari",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDurg",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Durg",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGariaband",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Gariaband",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJanjgir Champa",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Janjgir%20Champa",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJashpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jashpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKabirdham",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kabirdham",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKanker",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kanker",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKondagaon",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kondagaon",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKorba",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Korba",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKoriya",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Koriya",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMahasamund",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mahasamund",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMungeli",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mungeli",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNarayanpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Narayanpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRaigarh",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Raigarh",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRaipur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Raipur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRajnandgaon",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Rajnandgaon",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSukma",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sukma",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSurajpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Surajpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSurguja",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Surguja",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDadra Nagar Haveli",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dadra%20Nagar%20Haveli",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDaman",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Daman",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDiu",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Diu",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inCentral Delhi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Central%20Delhi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inEast Delhi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=East%20Delhi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDelhi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Delhi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNorth Delhi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=North%20Delhi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNorth East Delhi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=North%20East%20Delhi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNorth West Delhi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=North%20West%20Delhi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inShahdara",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Shahdara",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSouth Delhi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=South%20Delhi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSouth East Delhi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=South%20East%20Delhi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSouth West Delhi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=South%20West%20Delhi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inWest Delhi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=West%20Delhi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNorth Goa",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=North%20Goa",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSouth Goa",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=South%20Goa",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAhmedabad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Ahmedabad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAmreli",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Amreli",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAnand",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Anand",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAravalli",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Aravalli",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBanaskantha",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Banaskantha",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBharuch",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bharuch",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBhavnagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bhavnagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBotad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Botad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inChhota Udaipur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Chhota%20Udaipur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDahod",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dahod",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDang",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dang",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDevbhoomi Dwarka",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Devbhoomi%20Dwarka",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGandhinagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Gandhinagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGir Somnath",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Gir%20Somnath",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJamnagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jamnagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJunagadh",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Junagadh",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKheda",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kheda",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKutch",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kutch",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMahisagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mahisagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMehsana",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mehsana",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMorbi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Morbi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNarmada",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Narmada",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNavsari",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Navsari",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPanchmahal",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Panchmahal",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPatan",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Patan",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPorbandar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Porbandar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRajkot",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Rajkot",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSabarkantha",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sabarkantha",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSurat",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Surat",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSurendranagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Surendranagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inTapi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Tapi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inVadodara",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Vadodara",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inValsad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Valsad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAmbala",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Ambala",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBhiwani",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bhiwani",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inCharkhi Dadri",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Charkhi%20Dadri",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inFaridabad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Faridabad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inFatehabad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Fatehabad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGurugram",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Gurugram",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inHisar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Hisar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJhajjar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jhajjar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJind",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jind",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKaithal",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kaithal",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKarnal",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Karnal",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKurukshetra",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kurukshetra",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMahendragarh",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mahendragarh",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMewat",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mewat",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPalwal",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Palwal",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPanchkula",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Panchkula",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPanipat",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Panipat",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRewari",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Rewari",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRohtak",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Rohtak",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSirsa",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sirsa",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSonipat",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sonipat",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inYamunanagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Yamunanagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inChamba",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Chamba",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inHamirpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Hamirpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKangra",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kangra",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKinnaur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kinnaur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships innternships in Kullu",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=nternships%20in%20Kullu",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inLahaul Spiti",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Lahaul%20Spiti",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMandi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mandi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inShimla",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Shimla",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSirmaur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sirmaur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSolan",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Solan",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inUna",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Una",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJammu and Kashmir",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jammu%20and%20Kashmir",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBokaro",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bokaro",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inChatra",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Chatra",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDeoghar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Deoghar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDhanbad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dhanbad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDumka",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dumka",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inEast Singhbhum",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=East%20Singhbhum",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGarhwa",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Garhwa",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGiridih",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Giridih",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGodda",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Godda",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGumla",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Gumla",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inHazaribagh",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Hazaribagh",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJamtara",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jamtara",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships innternships in Khunti",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=nternships%20in%20Khunti",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKoderma",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Koderma",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inLatehar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Latehar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inLohardaga",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Lohardaga",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPakur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Pakur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPalamu",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Palamu",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRamgarh",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Ramgarh",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRanchi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Ranchi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSahebganj",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sahebganj",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSeraikela Kharsawan",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Seraikela%20Kharsawan",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSimdega",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Simdega",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inWest Singhbhum",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=West%20Singhbhum",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBagalkot",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bagalkot",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBangalore Rural",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bangalore%20Rural",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBangalore Urban",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bangalore%20Urban",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBengaluru",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bengaluru",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBelgaum",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Belgaum",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBellary",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bellary",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBidar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bidar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inChamarajanagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Chamarajanagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inChikkaballapur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Chikkaballapur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inChikkamagaluru",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Chikkamagaluru",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inChitradurga",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Chitradurga",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDakshina Kannada",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dakshina%20Kannada",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDavanagere",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Davanagere",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDharwad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dharwad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGadag",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Gadag",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGulbarga",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Gulbarga",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inHassan",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Hassan",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inHaveri",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Haveri",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKodagu",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kodagu",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKolar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kolar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKoppal",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Koppal",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMandya",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mandya",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMangalore",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mangalore",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMysore",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mysore",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRaichur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Raichur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRamanagara",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Ramanagara",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inShimoga",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Shimoga",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inTumkur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Tumkur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inUdupi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Udupi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inUttara Kannada",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Uttara%20Kannada",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inYadgir",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Yadgir",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAlappuzha",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Alappuzha",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inErnakulam",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Ernakulam",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inIdukki",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Idukki",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKannur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kannur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKasaragod",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kasaragod",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKollam",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kollam",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKottayam",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kottayam",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKozhikode",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kozhikode",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMalappuram",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Malappuram",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPalakkad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Palakkad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPathanamthitta",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Pathanamthitta",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inThiruvananthapuram",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Thiruvananthapuram",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inThrissur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Thrissur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inWayanad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Wayanad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKargil",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kargil",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inLeh",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Leh",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inLakshadweep",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Lakshadweep",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAgar Malwa",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Agar%20Malwa",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAlirajpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Alirajpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAnuppur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Anuppur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAshoknagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Ashoknagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBalaghat",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Balaghat",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBarwani",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Barwani",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBetul",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Betul",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBhind",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bhind",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBhopal",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bhopal",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBurhanpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Burhanpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inChhatarpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Chhatarpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inChhindwara",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Chhindwara",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDamoh",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Damoh",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDatia",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Datia",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDewas",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dewas",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships innternships in Dhar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=nternships%20in%20Dhar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDindori",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dindori",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGuna",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Guna",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGwalior",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Gwalior",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inHarda",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Harda",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inHoshangabad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Hoshangabad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inIndore",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Indore",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJabalpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jabalpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJhabua",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jhabua",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKatni",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Katni",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKhandwa",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Khandwa",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKhargone",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Khargone",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMandla",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mandla",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMandsaur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mandsaur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMorena",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Morena",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNarsinghpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Narsinghpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNeemuch",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Neemuch",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPanna",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Panna",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRaisen",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Raisen",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRajgarh",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Rajgarh",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRatlam",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Ratlam",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRewa",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Rewa",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSatna",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Satna",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSehore",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sehore",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSeoni",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Seoni",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inShahdol",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Shahdol",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inShajapur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Shajapur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSheopur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sheopur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inShivpuri",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Shivpuri",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSidhi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sidhi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSingrauli",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Singrauli",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inTikamgarh",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Tikamgarh",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inUjjain",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Ujjain",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inUmaria",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Umaria",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inVidisha",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Vidisha",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAhmednagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Ahmednagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAkola",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Akola",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAmravati",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Amravati",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBeed",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Beed",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBhandara",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bhandara",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBuldhana",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Buldhana",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inChandrapur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Chandrapur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDhule",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dhule",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGadchiroli",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Gadchiroli",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGondia",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Gondia",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inHingoli",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Hingoli",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJalgaon",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jalgaon",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJalna",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jalna",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKolhapur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kolhapur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inLatur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Latur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMumbai",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mumbai",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMumbai Suburban",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mumbai%20Suburban",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNagpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Nagpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNanded",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Nanded",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNandurbar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Nandurbar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNashik",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Nashik",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inOsmanabad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Osmanabad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPalghar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Palghar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inParbhani",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Parbhani",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPune",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Pune",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRaigad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Raigad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRatnagiri",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Ratnagiri",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSangli",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sangli",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSatara",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Satara",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSindhudurg",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sindhudurg",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSolapur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Solapur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inThane",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Thane",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inWardha",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Wardha",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inWashim",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Washim",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inYavatmal",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Yavatmal",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBishnupur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bishnupur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inChandel",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Chandel",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inChurachandpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Churachandpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inImphal East",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Imphal%20East",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inImphal West",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Imphal%20West",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSenapati",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Senapati",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inTamenglong",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Tamenglong",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships internships in Thoubal",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=ternships%20in%20Thoubal",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inUkhrul",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Ukhrul",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inEast Garo Hills",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=East%20Garo%20Hills",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inEast Jaintia Hills",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=East%20Jaintia%20Hills",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inEast Khasi Hills",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=East%20Khasi%20Hills",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNorth Garo Hills",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=North%20Garo%20Hills",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRi Bhoi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Ri%20Bhoi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSouth Garo Hills",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=South%20Garo%20Hills",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSouth West Garo Hills",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=South%20West%20Garo%20Hills",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSouth West Khasi Hills",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=South%20West%20Khasi%20Hills",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inWest Garo Hills",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=West%20Garo%20Hills",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inWest Jaintia Hills",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=West%20Jaintia%20Hills",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inWest Khasi Hills",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=West%20Khasi%20Hills",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAizawl",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Aizawl",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inChamphai",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Champhai",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKolasib",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kolasib",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inLawngtlai",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Lawngtlai",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inLunglei",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Lunglei",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMamit",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mamit",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSaiha",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Saiha",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSerchhip",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Serchhip",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDimapur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dimapur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKiphire",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kiphire",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKohima",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kohima",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inLongleng",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Longleng",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMokokchung",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mokokchung",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMon",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mon",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPeren",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Peren",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPhek",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Phek",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inTuensang",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Tuensang",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inWokha",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Wokha",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inZunheboto",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Zunheboto",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAngul",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Angul",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBalangir",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Balangir",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBalasore",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Balasore",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBargarh",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bargarh",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBhadrak",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bhadrak",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBoudh",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Boudh",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inCuttack",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Cuttack",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDebagarh",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Debagarh",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDhenkanal",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dhenkanal",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGajapati",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Gajapati",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGanjam",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Ganjam",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJagatsinghpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jagatsinghpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJajpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jajpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJharsuguda",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jharsuguda",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKalahandi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kalahandi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKandhamal",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kandhamal",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKendrapara",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kendrapara",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKendujhar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kendujhar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKhordha",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Khordha",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKoraput",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Koraput",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMalkangiri",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Malkangiri",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMayurbhanj",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mayurbhanj",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNabarangpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Nabarangpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNayagarh",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Nayagarh",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNuapada",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Nuapada",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPuri",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Puri",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRayagada",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Rayagada",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSambalpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sambalpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSubarnapur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Subarnapur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSundergarh",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sundergarh",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKaraikal",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Karaikal",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMahe",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mahe",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPuducherry",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Puducherry",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inYanam",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Yanam",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAmritsar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Amritsar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBarnala",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Barnala",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBathinda",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bathinda",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inFaridkot",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Faridkot",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inFatehgarh Sahib",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Fatehgarh%20Sahib",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inFazilka",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Fazilka",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inFirozpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Firozpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGurdaspur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Gurdaspur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inHoshiarpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Hoshiarpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJalandhar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jalandhar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKapurthala",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kapurthala",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inLudhiana",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Ludhiana",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMansa",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mansa",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMoga",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Moga",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMohali",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mohali",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMuktsar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Muktsar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPathankot",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Pathankot",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPatiala",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Patiala",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRupnagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Rupnagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSangrur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sangrur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inShaheed Bhagat Singh Nagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Shaheed%20Bhagat%20Singh%20Nagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inTarn Taran",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Tarn%20Taran",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAjmer",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Ajmer",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAlwar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Alwar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBanswara",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Banswara",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBaran",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Baran",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBarmer",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Barmer",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBharatpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bharatpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBhilwara",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bhilwara",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBikaner",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bikaner",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBundi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bundi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inChittorgarh",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Chittorgarh",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inChuru",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Churu",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDausa",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dausa",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDholpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dholpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDungarpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dungarpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGanganagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Ganganagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inHanumangarh",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Hanumangarh",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJaipur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jaipur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJaisalmer",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jaisalmer",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJalore",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jalore",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJhalawar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jhalawar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJhunjhunu",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jhunjhunu",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJodhpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jodhpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKarauli",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Karauli",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKota",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kota",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNagaur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Nagaur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPali",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Pali",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPratapgarh",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Pratapgarh",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRajsamande",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Rajsamande",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSawai Madhopur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sawai%20Madhopur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSikar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sikar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSirohi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sirohi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inTonk",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Tonk",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inUdaipur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Udaipur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inEast Sikkim",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=East%20Sikkim",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNorth Sikkim",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=North%20Sikkim",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSouth Sikkim",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=South%20Sikkim",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inWest Sikkim",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=West%20Sikkim",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAriyalur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Ariyalur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inChennai",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Chennai",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inCoimbatore",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Coimbatore",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inCuddalore",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Cuddalore",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDharmapuri",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dharmapuri",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDindigul",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dindigul",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inErode",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Erode",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKanchipuram",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kanchipuram",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKanyakumari",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kanyakumari",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKarurh",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Karurh",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKrishnagiri",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Krishnagiri",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMadurai",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Madurai",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNagapattinam",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Nagapattinam",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNamakkal",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Namakkal",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNilgiris",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Nilgiris",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPerambalur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Perambalur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPudukkottai",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Pudukkottai",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRamanathapuram",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Ramanathapuram",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSalem",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Salem",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSivaganga",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sivaganga",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inThanjavur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Thanjavur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inTheni",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Theni",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inThoothukudi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Thoothukudi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inTiruchirappalli",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Tiruchirappalli",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inTirunelveli",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Tirunelveli",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inTiruppur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Tiruppur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inTiruvallur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Tiruvallur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inTiruvannamalai",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Tiruvannamalai",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inTiruvarur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Tiruvarur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inVellore",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Vellore",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inVillupuram",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Villupuram",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inVirudhunagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Virudhunagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAdilabad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Adilabad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBhadradri Kothagudem",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bhadradri%20Kothagudem",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inHyderabad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Hyderabad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJagtial",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jagtial",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJangaon",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jangaon",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJayashankar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jayashankar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJogulamba",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jogulamba",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKamareddy",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kamareddy",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKarimnagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Karimnagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKhammam",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Khammam",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKomaram Bheem",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Komaram%20Bheem",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMahabubabad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mahabubabad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMahbubnagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mahbubnagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMancherial",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mancherial",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMedak",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Medak",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMedchal",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Medchal",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNagarkurnool",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Nagarkurnool",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNalgonda",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Nalgonda",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNirmal",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Nirmal",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNizamabad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Nizamabad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPeddapalli",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Peddapalli",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRajanna Sircilla",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Rajanna%20Sircilla",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRanga Reddy",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Ranga%20Reddy",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSangareddy",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sangareddy",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSiddipet",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Siddipet",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSuryapet",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Suryapet",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inVikarabad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Vikarabad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inWanaparthy",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Wanaparthy",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inWarangal Rural",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Warangal%20Rural",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inWarangal Urban",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Warangal%20Urban",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inYadadri Bhuvanagiri",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Yadadri%20Bhuvanagiri",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDhalai",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dhalai",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGomati",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Gomati",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKhowai",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Khowai",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNorth Tripura",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=North%20Tripura",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSepahijala",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sepahijala",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSouth Tripura",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=South%20Tripura",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inUnakoti",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Unakoti",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inWest Tripura",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=West%20Tripura",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAgra",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Agra",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAligarh",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Aligarh",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAllahabad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Allahabad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAmbedkar Nagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Ambedkar%20Nagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAmethi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Amethi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAmroha",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Amroha",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAuraiya",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Auraiya",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAzamgarh",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Azamgarh",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBaghpat",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Baghpat",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBahraich",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bahraich",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBallia",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Ballia",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBanda",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Banda",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBarabanki",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Barabanki",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBareilly",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bareilly",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBasti",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Basti",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBijnor",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bijnor",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBudaun",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Budaun",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBulandshahr",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bulandshahr",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inChandauli",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Chandauli",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inChitrakoot",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Chitrakoot",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDeoria",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Deoria",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inEtah",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Etah",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inEtawah",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Etawah",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inFaizabad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Faizabad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inFarrukhabad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Farrukhabad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inFatehpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Fatehpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inFirozabad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Firozabad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGautam Buddha Nagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Gautam%20Buddha%20Nagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGhaziabad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Ghaziabad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGhazipur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Ghazipur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGonda",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Gonda",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inGorakhpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Gorakhpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inHapur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Hapur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inHardoi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Hardoi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inHathras",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Hathras",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJalaun",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jalaun",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJaunpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jaunpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJhansi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jhansi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKannauj",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kannauj",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKanpur Dehat",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kanpur%20Dehat",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKanpur Nagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kanpur%20Nagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKanshiram Nagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kanshiram%20Nagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKaushambi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kaushambi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKheri",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kheri",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKushinagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kushinagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inLalitpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Lalitpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inLucknow",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Lucknow",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMaharajganj",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Maharajganj",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMahoba",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mahoba",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMainpuri",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mainpuri",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMathura",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mathura",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMau",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mau",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMeerut",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Meerut",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMirzapur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Mirzapur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMoradabad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Moradabad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMuzaffarnagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Muzaffarnagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPilibhit",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Pilibhit",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRaebareli",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Raebareli",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRampur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Rampur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSaharanpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Saharanpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSambhal",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sambhal",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSant Kabir Nagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sant%20Kabir%20Nagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSant Ravidas Nagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sant%20Ravidas%20Nagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inShahjahanpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Shahjahanpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inShamli",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Shamli",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inShravasti",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Shravasti",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSiddharthnagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Siddharthnagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSitapur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sitapur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSonbhadra",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sonbhadra",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSultanpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Sultanpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inUnnao",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Unnao",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inVaranasi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Varanasi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAlmora",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Almora",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBageshwar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bageshwar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inChamoli",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Chamoli",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inChampawat",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Champawat",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDehradun",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dehradun",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inHaridwar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Haridwar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNainital",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Nainital",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPauri Garhwal",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Pauri%20Garhwal",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPithoragarh",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Pithoragarh",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inRudraprayag",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Rudraprayag",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inTehri Garhwal",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Tehri%20Garhwal",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inUdham Singh Nagar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Udham%20Singh%20Nagar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inUttarkashi",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Uttarkashi",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inAlipurduar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Alipurduar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBankura",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Bankura",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inBirbhum",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Birbhum",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inCooch Behar",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Cooch%20Behar",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inDakshin Dinajpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Dakshin%20Dinajpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inHooghly",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Hooghly",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inHowrah",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Howrah",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJalpaiguri",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jalpaiguri",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inJhargram",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Jhargram",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKalimpong",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kalimpong",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inKolkata",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Kolkata",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMalda",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Malda",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inMurshidabad",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Murshidabad",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNadia",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Nadia",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inNorth 24 Parganas",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=North%2024%20Parganas",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPaschim Bardhaman",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Paschim%20Bardhaman",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPaschim Medinipur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Paschim%20Medinipur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPurba Bardhaman",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Purba%20Bardhaman",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPurba Medinipur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Purba%20Medinipur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inPurulia",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Purulia",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inSouth 24 Parganas",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=South%2024%20Parganas",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] Internships inUttar Dinajpur",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/internships?loc=Uttar%20Dinajpur",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[AICTE] internship@aicte-india.orgReplies within 48 hours",
+    "company": "AICTE",
+    "source": "govt_portals",
+    "url": "https://internship.aicte-india.org/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "CYBER SECURITY ANALYST L3",
+    "company": "Wipro",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4461506705",
+    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+  },
+  {
+    "title": "SOC L1 Analyst",
+    "company": "Verint",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-l1-analyst-at-verint-4405428319",
+    "reason": "stale LinkedIn listing: 134 days old"
+  },
+  {
+    "title": "SOC L1 Analyst",
+    "company": "Verint Financial Compliance",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-l1-analyst-at-verint-financial-compliance-4405400248",
+    "reason": "stale LinkedIn listing: 134 days old"
+  },
+  {
+    "title": "CYBER SECURITY ANALYST L3",
+    "company": "Wipro",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4455547562",
+    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+  },
+  {
+    "title": "Cyber Security Analyst",
+    "company": "Ashirvad by aliaxis",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-ashirvad-by-aliaxis-4431222291",
+    "reason": "stale LinkedIn listing: 72 days old"
+  },
+  {
+    "title": "L2 SOC Analyst",
+    "company": "UST",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/l2-soc-analyst-at-ust-4432351107",
+    "reason": "senior role: \\bl[23456]\\s+(soc|security|cyber|infosec)\\s+(analyst|engineer|specialist)\\b"
+  },
+  {
+    "title": "SOC Analyst (Tier 2)",
+    "company": "aeroqube inc.",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-analyst-tier-2-at-aeroqube-inc-4320533329",
+    "reason": "stale LinkedIn listing: 304 days old"
+  },
+  {
+    "title": "CYBER security Analyst",
+    "company": "Cortex Consultants LLC",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-cortex-consultants-llc-4404540757",
+    "reason": "stale LinkedIn listing: 135 days old"
+  },
+  {
+    "title": "RS / High-Security L3 SOC Analyst (Secure Environment)",
+    "company": "Plurilock (Espa\u00f1ol)",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/rs-high-security-l3-soc-analyst-secure-environment-at-plurilock-espa%C3%B1ol-4438367094",
+    "reason": "senior role: \\bl[23456]\\s+(soc|security|cyber|infosec)\\s+(analyst|engineer|specialist)\\b"
+  },
+  {
+    "title": "Cyber Analyst.",
+    "company": "Cortex Consultants LLC",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-analyst-at-cortex-consultants-llc-4404030491",
+    "reason": "stale LinkedIn listing: 136 days old"
   },
   {
     "title": "SOC Analyst L2",
@@ -397,6 +5325,20 @@
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-analyst-l2-at-tata-consultancy-services-4458372306",
     "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+  },
+  {
+    "title": "Information Security Analyst II",
+    "company": "Mimecast",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/information-security-analyst-ii-at-mimecast-4448174346",
+    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
+  },
+  {
+    "title": "SOC Analyst",
+    "company": "Resillion",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-resillion-4433161093",
+    "reason": "stale LinkedIn listing: 62 days old"
   },
   {
     "title": "Analyst",
@@ -410,14 +5352,7 @@
     "company": "Value Point Systems Pvt Ltd",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4391624942",
-    "reason": "stale LinkedIn listing: 116 days old"
-  },
-  {
-    "title": "Cyber Analyst.",
-    "company": "Cortex Consultants LLC",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-analyst-at-cortex-consultants-llc-4404030491",
-    "reason": "stale LinkedIn listing: 135 days old"
+    "reason": "stale LinkedIn listing: 117 days old"
   },
   {
     "title": "SOC Analyst L2",
@@ -441,27 +5376,6 @@
     "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
   },
   {
-    "title": "L2 SOC Analyst",
-    "company": "UST",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/l2-soc-analyst-at-ust-4432351107",
-    "reason": "senior role: \\bl[23456]\\s+(soc|security|cyber|infosec)\\s+(analyst|engineer|specialist)\\b"
-  },
-  {
-    "title": "Analyst",
-    "company": "SecurityHQ",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/analyst-at-securityhq-4459805156",
-    "reason": "blocked role: ^analyst$"
-  },
-  {
-    "title": "CYBER security Analyst",
-    "company": "Cortex Consultants LLC",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-cortex-consultants-llc-4404540757",
-    "reason": "stale LinkedIn listing: 134 days old"
-  },
-  {
     "title": "Analyst",
     "company": "EXL",
     "source": "linkedin",
@@ -473,7 +5387,7 @@
     "company": "Interactive Brokers",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/security-operator-i-at-interactive-brokers-4434436563",
-    "reason": "stale LinkedIn listing: 65 days old"
+    "reason": "stale LinkedIn listing: 66 days old"
   },
   {
     "title": "L2 SOC Analyst",
@@ -483,18 +5397,11 @@
     "reason": "senior role: \\bl[23456]\\s+(soc|security|cyber|infosec)\\s+(analyst|engineer|specialist)\\b"
   },
   {
-    "title": "SOC L1 Analyst",
-    "company": "Verint",
+    "title": "Information Security Analyst - Level 2",
+    "company": "Hitachi Cyber",
     "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-l1-analyst-at-verint-4405428319",
-    "reason": "stale LinkedIn listing: 133 days old"
-  },
-  {
-    "title": "SOC L1 Analyst",
-    "company": "Verint Financial Compliance",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-l1-analyst-at-verint-financial-compliance-4405400248",
-    "reason": "stale LinkedIn listing: 133 days old"
+    "url": "https://in.linkedin.com/jobs/view/information-security-analyst-level-2-at-hitachi-cyber-4462838102",
+    "reason": "senior role: \\blevel\\s+[2-9]\\b"
   },
   {
     "title": "Security Analyst II",
@@ -502,6 +5409,13 @@
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/security-analyst-ii-at-fortuna-cysec-4439316574",
     "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
+  },
+  {
+    "title": "Cyber Security Analyst",
+    "company": "ZEE - Technology & Innovation",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-zee-technology-innovation-4419852821",
+    "reason": "stale LinkedIn listing: 99 days old"
   },
   {
     "title": "SOC Analyst II",
@@ -515,28 +5429,7 @@
     "company": "JUARA IT SOLUTIONS",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/threat-hunter-at-juara-it-solutions-4437050894",
-    "reason": "stale LinkedIn listing: 56 days old"
-  },
-  {
-    "title": "SOC Analyst",
-    "company": "Resillion",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-resillion-4433161093",
-    "reason": "stale LinkedIn listing: 61 days old"
-  },
-  {
-    "title": "Cyber Security Analyst II",
-    "company": "Availity",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-ii-at-availity-4449996981",
-    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
-  },
-  {
-    "title": "CYBER SECURITY ANALYST L3",
-    "company": "Wipro",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4461506705",
-    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+    "reason": "stale LinkedIn listing: 57 days old"
   },
   {
     "title": "CYBER SECURITY ANALYST L4",
@@ -551,69 +5444,6 @@
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-l3-at-alliant-cybersecurity-4452446131",
     "reason": "senior role: \\bsoc\\s+l[23456]\\b"
-  },
-  {
-    "title": "CYBER SECURITY ANALYST L3",
-    "company": "Wipro",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4455547562",
-    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
-  },
-  {
-    "title": "Cyber Security Analyst",
-    "company": "Ashirvad by aliaxis",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-ashirvad-by-aliaxis-4431222291",
-    "reason": "stale LinkedIn listing: 71 days old"
-  },
-  {
-    "title": "E2E Networks - Security Operations Center Analyst - Firewall Management",
-    "company": "E2E Cloud",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/e2e-networks-security-operations-center-analyst-firewall-management-at-e2e-cloud-4422637714",
-    "reason": "stale LinkedIn listing: 91 days old"
-  },
-  {
-    "title": "SOC Analyst (Tier 2)",
-    "company": "aeroqube inc.",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-analyst-tier-2-at-aeroqube-inc-4320533329",
-    "reason": "stale LinkedIn listing: 303 days old"
-  },
-  {
-    "title": "RS / High-Security L3 SOC Analyst (Secure Environment)",
-    "company": "Plurilock (Espa\u00f1ol)",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/rs-high-security-l3-soc-analyst-secure-environment-at-plurilock-espa%C3%B1ol-4438367094",
-    "reason": "senior role: \\bl[23456]\\s+(soc|security|cyber|infosec)\\s+(analyst|engineer|specialist)\\b"
-  },
-  {
-    "title": "Information Security Analyst II",
-    "company": "Mimecast",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/information-security-analyst-ii-at-mimecast-4448174346",
-    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
-  },
-  {
-    "title": "CYBER SECURITY ANALYST L3",
-    "company": "Wipro",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4455983926",
-    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
-  },
-  {
-    "title": "Security Analyst I",
-    "company": "Fortuna Cysec",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/security-analyst-i-at-fortuna-cysec-4439306966",
-    "reason": "stale LinkedIn listing: 54 days old"
-  },
-  {
-    "title": "Cyber Security Analyst",
-    "company": "ZEE - Technology & Innovation",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-zee-technology-innovation-4419852821",
-    "reason": "stale LinkedIn listing: 98 days old"
   },
   {
     "title": "Analyst II - Information Security",
@@ -648,14 +5478,14 @@
     "company": "Kia India",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/admin-security-at-kia-india-4411170246",
-    "reason": "stale LinkedIn listing: 111 days old"
+    "reason": "stale LinkedIn listing: 112 days old"
   },
   {
     "title": "Information Security Analyst",
     "company": "Pico",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/information-security-analyst-at-pico-4421135989",
-    "reason": "stale LinkedIn listing: 89 days old"
+    "reason": "stale LinkedIn listing: 90 days old"
   },
   {
     "title": "Information Security Engineer II",
@@ -669,7 +5499,21 @@
     "company": "Smart Data Solutions",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/information-security-engineer-at-smart-data-solutions-4417068586",
-    "reason": "stale LinkedIn listing: 105 days old"
+    "reason": "stale LinkedIn listing: 106 days old"
+  },
+  {
+    "title": "CYBER SECURITY ANALYST L3",
+    "company": "Wipro",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4455983926",
+    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+  },
+  {
+    "title": "Security Analyst I",
+    "company": "Fortuna Cysec",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/security-analyst-i-at-fortuna-cysec-4439306966",
+    "reason": "stale LinkedIn listing: 55 days old"
   },
   {
     "title": "SOC Analyst L1 - Al-Khobar- Saudi National",
@@ -683,14 +5527,14 @@
     "company": "Value Point Systems Pvt Ltd",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4375356251",
-    "reason": "stale LinkedIn listing: 166 days old"
+    "reason": "stale LinkedIn listing: 167 days old"
   },
   {
     "title": "Security Analyst",
     "company": "Aumni",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/security-analyst-at-aumni-4426056952",
-    "reason": "stale LinkedIn listing: 84 days old"
+    "reason": "stale LinkedIn listing: 85 days old"
   },
   {
     "title": "CYBER SECURITY ANALYST L2",
@@ -698,6 +5542,20 @@
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l2-at-wipro-4454536055",
     "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+  },
+  {
+    "title": "CYBER SECURITY ANALYST L2",
+    "company": "Wipro",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l2-at-wipro-4457093178",
+    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+  },
+  {
+    "title": "Threat Intelligence Analyst - Metmox - Hyderabad",
+    "company": "VIHU",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/threat-intelligence-analyst-metmox-hyderabad-at-vihu-4384465320",
+    "reason": "stale LinkedIn listing: 170 days old"
   },
   {
     "title": "CYBER SECURITY ANALYST L3",
@@ -712,26 +5570,5 @@
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/security-analyst-ii-at-netrix-global-4461710466",
     "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
-  },
-  {
-    "title": "Information Security Analyst",
-    "company": "Mantle Solutions",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/information-security-analyst-at-mantle-solutions-4435803816",
-    "reason": "stale LinkedIn listing: 63 days old"
-  },
-  {
-    "title": "IT Security Specialist",
-    "company": "Amla Commerce (Creator of Artifi and Znode)",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/it-security-specialist-at-amla-commerce-creator-of-artifi-and-znode-4332310355",
-    "reason": "stale LinkedIn listing: 310 days old"
-  },
-  {
-    "title": "Cybersecurity - Risk & Compliance Analyst",
-    "company": "Scybers",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cybersecurity-risk-compliance-analyst-at-scybers-4324491608",
-    "reason": "stale LinkedIn listing: 282 days old"
   }
 ]
