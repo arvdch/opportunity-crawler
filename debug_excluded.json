@@ -1,103 +1,5 @@
 [
   {
-    "title": "OTHER CYBER CRIME",
-    "company": "MHA CyberCrime",
-    "source": "certifications",
-    "url": "https://cybercrime.gov.in",
-    "reason": "blocked URL pattern: cybercrime\\.gov\\.in$"
-  },
-  {
-    "title": "Cyber Dost",
-    "company": "MHA CyberCrime",
-    "source": "certifications",
-    "url": "https://www.facebook.com/CyberDostI4C",
-    "reason": "blocked URL pattern: facebook\\.com"
-  },
-  {
-    "title": "Tweets by Cyberdost",
-    "company": "MHA CyberCrime",
-    "source": "certifications",
-    "url": "https://twitter.com/Cyberdost?ref_src=twsrc%5Etfw",
-    "reason": "blocked URL pattern: twitter\\.com|x\\.com"
-  },
-  {
-    "title": "[GitHub] shrivenkateshwara/Best-Private-University-in-Uttar-Pradesh-UP-Top-University-in-India-SVU",
-    "company": "shrivenkateshwara",
-    "source": "github",
-    "url": "https://github.com/shrivenkateshwara/Best-Private-University-in-Uttar-Pradesh-UP-Top-University-in-India-SVU",
-    "reason": "GitHub repos are writeups/portfolios, not open positions"
-  },
-  {
-    "title": "[GitHub] Jean-Regis-M/FinBot-AEGIS-GSoC2026-Final-Report",
-    "company": "Jean-Regis-M",
-    "source": "github",
-    "url": "https://github.com/Jean-Regis-M/FinBot-AEGIS-GSoC2026-Final-Report",
-    "reason": "GitHub repos are writeups/portfolios, not open positions"
-  },
-  {
-    "title": "[GitHub] KRYSTALM7/fineract-los-gsoc-2026",
-    "company": "KRYSTALM7",
-    "source": "github",
-    "url": "https://github.com/KRYSTALM7/fineract-los-gsoc-2026",
-    "reason": "GitHub repos are writeups/portfolios, not open positions"
-  },
-  {
-    "title": "[GitHub] Deez-Automations/gsoc-2026-finbot-ctf",
-    "company": "Deez-Automations",
-    "source": "github",
-    "url": "https://github.com/Deez-Automations/gsoc-2026-finbot-ctf",
-    "reason": "GitHub repos are writeups/portfolios, not open positions"
-  },
-  {
-    "title": "[GitHub] Ananya44444/GSoC-2026-Final-Report",
-    "company": "Ananya44444",
-    "source": "github",
-    "url": "https://github.com/Ananya44444/GSoC-2026-Final-Report",
-    "reason": "GitHub repos are writeups/portfolios, not open positions"
-  },
-  {
-    "title": "[GitHub] nidhi1603/iot-panel-mcp",
-    "company": "nidhi1603",
-    "source": "github",
-    "url": "https://github.com/nidhi1603/iot-panel-mcp",
-    "reason": "GitHub repos are writeups/portfolios, not open positions"
-  },
-  {
-    "title": "[GitHub] bindaasboy19/APCSIP2026",
-    "company": "bindaasboy19",
-    "source": "github",
-    "url": "https://github.com/bindaasboy19/APCSIP2026",
-    "reason": "GitHub repos are writeups/portfolios, not open positions"
-  },
-  {
-    "title": "[GitHub] JUN41DS2709/APCSIP-2026-UP-Police-Cyber-Security-Internship",
-    "company": "JUN41DS2709",
-    "source": "github",
-    "url": "https://github.com/JUN41DS2709/APCSIP-2026-UP-Police-Cyber-Security-Internship",
-    "reason": "GitHub repos are writeups/portfolios, not open positions"
-  },
-  {
-    "title": "[GitHub] hrs182/apcsip-2026-363-project",
-    "company": "hrs182",
-    "source": "github",
-    "url": "https://github.com/hrs182/apcsip-2026-363-project",
-    "reason": "GitHub repos are writeups/portfolios, not open positions"
-  },
-  {
-    "title": "[GitHub] Gurpreetkaur2006/TRACELNS",
-    "company": "Gurpreetkaur2006",
-    "source": "github",
-    "url": "https://github.com/Gurpreetkaur2006/TRACELNS",
-    "reason": "GitHub repos are writeups/portfolios, not open positions"
-  },
-  {
-    "title": "[GitHub] ronaksoora-cyber/APCSIP-2026",
-    "company": "ronaksoora-cyber",
-    "source": "github",
-    "url": "https://github.com/ronaksoora-cyber/APCSIP-2026",
-    "reason": "GitHub repos are writeups/portfolios, not open positions"
-  },
-  {
     "title": "Cybersecurity Internships in India 2026 \u2014 Verified & Free",
     "company": "Web Search",
     "source": "google_news",
@@ -112,24 +14,24 @@
     "reason": "blocked URL pattern: linkedin\\.com/jobs/.*internship.*jobs$"
   },
   {
-    "title": "141 cybersecurity internship jobs in India, September 2026 - Glassdoor",
+    "title": "147 cybersecurity internship jobs in India, September 2026 - Glassdoor",
     "company": "Web Search",
     "source": "google_news",
     "url": "https://www.glassdoor.co.in/Job/india-cybersecurity-internship-jobs-SRCH_IL.0,5_IN115_KO6,30.htm",
     "reason": "blocked URL pattern: glassdoor\\.co\\.in/Job/.*internship"
   },
   {
-    "title": "Cybersecurity Internships in India 2026 \u2014 Everything a Student Needs to ...",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://cguru.co.in/cybersecurity-internships-in-india-2026/",
-    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
-  },
-  {
     "title": "Cybersecurity Internship for Freshers 2026 \u2014 Apply Free",
     "company": "Web Search",
     "source": "google_news",
     "url": "https://myinternships.in/internships/cybersecurity-internship-for-freshers",
+    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
+  },
+  {
+    "title": "Cybersecurity Internships in India 2026 \u2014 Everything a Student Needs to ...",
+    "company": "Web Search",
+    "source": "google_news",
+    "url": "https://cguru.co.in/cybersecurity-internships-in-india-2026/",
     "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
   },
   {
@@ -252,11 +154,88 @@
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "Hack The Weather",
+    "title": "MantisGrid AI Hackathon 2026",
     "company": "DevPost",
     "source": "google_news",
-    "url": "https://hack-the-weather.devpost.com/",
+    "url": "https://mantisgrid-ai-hackathon-2026.devpost.com/",
     "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "[GitHub] shrivenkateshwara/Best-Private-University-in-Uttar-Pradesh-UP-Top-University-in-India-SVU",
+    "company": "shrivenkateshwara",
+    "source": "github",
+    "url": "https://github.com/shrivenkateshwara/Best-Private-University-in-Uttar-Pradesh-UP-Top-University-in-India-SVU",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
+    "title": "[GitHub] Jean-Regis-M/FinBot-AEGIS-GSoC2026-Final-Report",
+    "company": "Jean-Regis-M",
+    "source": "github",
+    "url": "https://github.com/Jean-Regis-M/FinBot-AEGIS-GSoC2026-Final-Report",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
+    "title": "[GitHub] KRYSTALM7/fineract-los-gsoc-2026",
+    "company": "KRYSTALM7",
+    "source": "github",
+    "url": "https://github.com/KRYSTALM7/fineract-los-gsoc-2026",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
+    "title": "[GitHub] Deez-Automations/gsoc-2026-finbot-ctf",
+    "company": "Deez-Automations",
+    "source": "github",
+    "url": "https://github.com/Deez-Automations/gsoc-2026-finbot-ctf",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
+    "title": "[GitHub] Ananya44444/GSoC-2026-Final-Report",
+    "company": "Ananya44444",
+    "source": "github",
+    "url": "https://github.com/Ananya44444/GSoC-2026-Final-Report",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
+    "title": "[GitHub] nidhi1603/iot-panel-mcp",
+    "company": "nidhi1603",
+    "source": "github",
+    "url": "https://github.com/nidhi1603/iot-panel-mcp",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
+    "title": "[GitHub] bindaasboy19/APCSIP2026",
+    "company": "bindaasboy19",
+    "source": "github",
+    "url": "https://github.com/bindaasboy19/APCSIP2026",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
+    "title": "[GitHub] JUN41DS2709/APCSIP-2026-UP-Police-Cyber-Security-Internship",
+    "company": "JUN41DS2709",
+    "source": "github",
+    "url": "https://github.com/JUN41DS2709/APCSIP-2026-UP-Police-Cyber-Security-Internship",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
+    "title": "[GitHub] hrs182/apcsip-2026-363-project",
+    "company": "hrs182",
+    "source": "github",
+    "url": "https://github.com/hrs182/apcsip-2026-363-project",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
+    "title": "[GitHub] Gurpreetkaur2006/TRACELNS",
+    "company": "Gurpreetkaur2006",
+    "source": "github",
+    "url": "https://github.com/Gurpreetkaur2006/TRACELNS",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
+    "title": "[GitHub] ronaksoora-cyber/APCSIP-2026",
+    "company": "ronaksoora-cyber",
+    "source": "github",
+    "url": "https://github.com/ronaksoora-cyber/APCSIP-2026",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
   },
   {
     "title": "/r/netsec's Q3 2026 Information Security Hiring Thread",
@@ -313,6 +292,27 @@
     "source": "rss",
     "url": "https://www.reddit.com/r/netsec/comments/1e73qnf/rnetsecs_q3_2024_information_security_hiring/",
     "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
+  },
+  {
+    "title": "OTHER CYBER CRIME",
+    "company": "MHA CyberCrime",
+    "source": "certifications",
+    "url": "https://cybercrime.gov.in",
+    "reason": "blocked URL pattern: cybercrime\\.gov\\.in$"
+  },
+  {
+    "title": "Cyber Dost",
+    "company": "MHA CyberCrime",
+    "source": "certifications",
+    "url": "https://www.facebook.com/CyberDostI4C",
+    "reason": "blocked URL pattern: facebook\\.com"
+  },
+  {
+    "title": "Tweets by Cyberdost",
+    "company": "MHA CyberCrime",
+    "source": "certifications",
+    "url": "https://twitter.com/Cyberdost?ref_src=twsrc%5Etfw",
+    "reason": "blocked URL pattern: twitter\\.com|x\\.com"
   },
   {
     "title": "[AICTE] All InternshipsLiveEvery live opening across Bharat",
@@ -5278,13 +5278,6 @@
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "SOC Verification Graduate Intern",
-    "company": "Tesla",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-verification-graduate-intern-at-tesla-4420213880",
-    "reason": "stale LinkedIn listing: 103 days old"
-  },
-  {
     "title": "CYBER SECURITY ANALYST L3",
     "company": "Wipro",
     "source": "linkedin",
@@ -5296,13 +5289,13 @@
     "company": "Verint",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-l1-analyst-at-verint-4405428319",
-    "reason": "stale LinkedIn listing: 139 days old"
+    "reason": "stale LinkedIn listing: 140 days old"
   },
   {
-    "title": "CYBER SECURITY ANALYST L3",
+    "title": "CYBER SECURITY ANALYST L2",
     "company": "Wipro",
     "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4463670758",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l2-at-wipro-4465012141",
     "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
   },
   {
@@ -5310,28 +5303,28 @@
     "company": "Ashirvad by aliaxis",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-ashirvad-by-aliaxis-4431222291",
-    "reason": "stale LinkedIn listing: 77 days old"
+    "reason": "stale LinkedIn listing: 78 days old"
   },
   {
     "title": "Executive - Cyber Transformation",
     "company": "KPMG India",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/executive-cyber-transformation-at-kpmg-india-4431341305",
-    "reason": "stale LinkedIn listing: 96 days old"
+    "reason": "stale LinkedIn listing: 97 days old"
   },
   {
     "title": "SOC Analyst (Tier 2)",
     "company": "aeroqube inc.",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-analyst-tier-2-at-aeroqube-inc-4320533329",
-    "reason": "stale LinkedIn listing: 309 days old"
+    "reason": "stale LinkedIn listing: 310 days old"
   },
   {
     "title": "CYBER security Analyst",
     "company": "Cortex Consultants LLC",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-cortex-consultants-llc-4404540757",
-    "reason": "stale LinkedIn listing: 140 days old"
+    "reason": "stale LinkedIn listing: 141 days old"
   },
   {
     "title": "Analyst II-Cyber Defense",
@@ -5352,7 +5345,7 @@
     "company": "Cortex Consultants LLC",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-analyst-at-cortex-consultants-llc-4404030491",
-    "reason": "stale LinkedIn listing: 141 days old"
+    "reason": "stale LinkedIn listing: 142 days old"
   },
   {
     "title": "SOC Analyst L2",
@@ -5369,123 +5362,39 @@
     "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
   },
   {
-    "title": "L2 SOC Analyst",
-    "company": "UST",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/l2-soc-analyst-at-ust-4461166764",
-    "reason": "senior role: \\bl[23456]\\s+(soc|security|cyber|infosec)\\s+(analyst|engineer|specialist)\\b"
-  },
-  {
-    "title": "SOC L2/L3",
-    "company": "Tata Consultancy Services",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-l2-l3-at-tata-consultancy-services-4464007544",
-    "reason": "senior role: \\bsoc\\s+l[23456]\\b"
-  },
-  {
-    "title": "Analyst",
-    "company": "CDW UK",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/analyst-at-cdw-uk-4333959428",
-    "reason": "blocked role: ^analyst$"
-  },
-  {
-    "title": "SOC ANALYST",
-    "company": "Value Point Systems Pvt Ltd",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4391624942",
-    "reason": "stale LinkedIn listing: 122 days old"
-  },
-  {
-    "title": "SOC Analyst L2",
-    "company": "NTT DATA, Inc.",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-analyst-l2-at-ntt-data-inc-4409288239",
-    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
-  },
-  {
-    "title": "OT SOC Analyst L2",
-    "company": "Gruve",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/ot-soc-analyst-l2-at-gruve-4445699506",
-    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
-  },
-  {
-    "title": "Analyst",
-    "company": "EXL",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/analyst-at-exl-4446725485",
-    "reason": "blocked role: ^analyst$"
-  },
-  {
-    "title": "Security Operator I",
-    "company": "Interactive Brokers",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/security-operator-i-at-interactive-brokers-4434436563",
-    "reason": "stale LinkedIn listing: 71 days old"
-  },
-  {
-    "title": "L2 SOC Analyst",
-    "company": "Mizuho",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/l2-soc-analyst-at-mizuho-4458616892",
-    "reason": "senior role: \\bl[23456]\\s+(soc|security|cyber|infosec)\\s+(analyst|engineer|specialist)\\b"
-  },
-  {
-    "title": "Information Security Analyst - Level 2",
-    "company": "Hitachi Cyber",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/information-security-analyst-level-2-at-hitachi-cyber-4462838102",
-    "reason": "senior role: \\blevel\\s+[2-9]\\b"
-  },
-  {
-    "title": "Security Analyst II",
-    "company": "Fortuna Cysec",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/security-analyst-ii-at-fortuna-cysec-4439316574",
-    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
-  },
-  {
-    "title": "SOC Analyst II",
-    "company": "Saviynt",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-analyst-ii-at-saviynt-4401042115",
-    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
-  },
-  {
-    "title": "Threat Hunter",
-    "company": "JUARA IT SOLUTIONS",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/threat-hunter-at-juara-it-solutions-4437050894",
-    "reason": "stale LinkedIn listing: 62 days old"
-  },
-  {
-    "title": "SOC 3 Analyst",
-    "company": "Plurilock (Espa\u00f1ol)",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-3-analyst-at-plurilock-espa%C3%B1ol-4443819451",
-    "reason": "stale LinkedIn listing: 47 days old"
-  },
-  {
     "title": "SOC Analyst",
     "company": "Resillion",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-resillion-4433161093",
-    "reason": "stale LinkedIn listing: 67 days old"
+    "reason": "stale LinkedIn listing: 68 days old"
   },
   {
-    "title": "CYBER SECURITY ANALYST L4",
+    "title": "CYBER SECURITY ANALYST L3",
     "company": "Wipro",
     "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l4-at-wipro-4460547224",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4455983926",
     "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
   },
   {
-    "title": "SOC L3",
-    "company": "Alliant Cybersecurity",
+    "title": "CYBER SECURITY ANALYST L3",
+    "company": "Wipro",
     "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-l3-at-alliant-cybersecurity-4452446131",
-    "reason": "senior role: \\bsoc\\s+l[23456]\\b"
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4455532661",
+    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+  },
+  {
+    "title": "Analyst II - Cybersecurity",
+    "company": "NewSpace Research and Technologies",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/analyst-ii-cybersecurity-at-newspace-research-and-technologies-4465037176",
+    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
+  },
+  {
+    "title": "Security Analyst I",
+    "company": "Fortuna Cysec",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/security-analyst-i-at-fortuna-cysec-4439306966",
+    "reason": "stale LinkedIn listing: 61 days old"
   },
   {
     "title": "Analyst II - Information Security",
@@ -5495,6 +5404,20 @@
     "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
   },
   {
+    "title": "Cybersecurity Analyst",
+    "company": "Olezka Global",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cybersecurity-analyst-at-olezka-global-4442322251",
+    "reason": "stale LinkedIn listing: 46 days old"
+  },
+  {
+    "title": "Analyst",
+    "company": "CDW UK",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/analyst-at-cdw-uk-4333959428",
+    "reason": "blocked role: ^analyst$"
+  },
+  {
     "title": "Cyber Security Analyst II",
     "company": "FedEx",
     "source": "linkedin",
@@ -5502,39 +5425,74 @@
     "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
   },
   {
-    "title": "Cyber Security Analyst II",
-    "company": "FedEx ACC",
+    "title": "CYBER SECURITY ANALYST L4",
+    "company": "Wipro",
     "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-ii-at-fedex-acc-4440740561",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l4-at-wipro-4460547224",
+    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+  },
+  {
+    "title": "Cyber Security Analyst II",
+    "company": "FedEx GCS",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-ii-at-fedex-gcs-4440740561",
     "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
+  },
+  {
+    "title": "Analyst",
+    "company": "EXL",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/analyst-at-exl-4446725485",
+    "reason": "blocked role: ^analyst$"
   },
   {
     "title": "Security Analyst",
     "company": "Willsmarg Technologies LLC",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/security-analyst-at-willsmarg-technologies-llc-4442995385",
-    "reason": "stale LinkedIn listing: 48 days old"
+    "reason": "stale LinkedIn listing: 49 days old"
   },
   {
-    "title": "Cyber Security Analyst",
-    "company": "ZEE - Technology & Innovation",
+    "title": "Security Analyst II",
+    "company": "Fortuna Cysec",
     "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-zee-technology-innovation-4419852821",
-    "reason": "stale LinkedIn listing: 104 days old"
+    "url": "https://in.linkedin.com/jobs/view/security-analyst-ii-at-fortuna-cysec-4439316574",
+    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
+  },
+  {
+    "title": "SOC Analyst L2",
+    "company": "NTT DATA, Inc.",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-analyst-l2-at-ntt-data-inc-4409288239",
+    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
   },
   {
     "title": "Admin Security",
     "company": "Kia India",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/admin-security-at-kia-india-4411170246",
-    "reason": "stale LinkedIn listing: 117 days old"
+    "reason": "stale LinkedIn listing: 118 days old"
   },
   {
     "title": "Information Security Analyst",
     "company": "Pico",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/information-security-analyst-at-pico-4421135989",
-    "reason": "stale LinkedIn listing: 95 days old"
+    "reason": "stale LinkedIn listing: 96 days old"
+  },
+  {
+    "title": "OT SOC Analyst L2",
+    "company": "Gruve",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/ot-soc-analyst-l2-at-gruve-4445699506",
+    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+  },
+  {
+    "title": "Information Security Analyst - Level 2",
+    "company": "Hitachi Cyber",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/information-security-analyst-level-2-at-hitachi-cyber-4462838102",
+    "reason": "senior role: \\blevel\\s+[2-9]\\b"
   },
   {
     "title": "Information Security Engineer II",
@@ -5548,48 +5506,41 @@
     "company": "Smart Data Solutions",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/information-security-engineer-at-smart-data-solutions-4417068586",
-    "reason": "stale LinkedIn listing: 111 days old"
-  },
-  {
-    "title": "CYBER SECURITY ANALYST L3",
-    "company": "Wipro",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4455532661",
-    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
-  },
-  {
-    "title": "Security Analyst I",
-    "company": "Fortuna Cysec",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/security-analyst-i-at-fortuna-cysec-4439306966",
-    "reason": "stale LinkedIn listing: 60 days old"
-  },
-  {
-    "title": "CYBER SECURITY ANALYST L2",
-    "company": "Wipro",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l2-at-wipro-4457093178",
-    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+    "reason": "stale LinkedIn listing: 112 days old"
   },
   {
     "title": "SOC ANALYST",
     "company": "Value Point Systems Pvt Ltd",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4375356251",
-    "reason": "stale LinkedIn listing: 172 days old"
+    "reason": "stale LinkedIn listing: 173 days old"
   },
   {
-    "title": "CYBER SECURITY ANALYST L3",
-    "company": "Wipro",
+    "title": "Information Security Analyst",
+    "company": "Mantle Solutions",
     "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4458532614",
-    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+    "url": "https://in.linkedin.com/jobs/view/information-security-analyst-at-mantle-solutions-4435803816",
+    "reason": "stale LinkedIn listing: 70 days old"
   },
   {
-    "title": "Security Analyst II",
-    "company": "Netrix Global",
+    "title": "Cyber Security Officer",
+    "company": "NHS Scotland",
     "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/security-analyst-ii-at-netrix-global-4461710466",
-    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-officer-at-nhs-scotland-4462777666",
+    "reason": "blocked role: \\bsecurity officer\\b(?!.*information|.*cyber|.*IT|.*cloud|.*network)"
+  },
+  {
+    "title": "IT Security Specialist",
+    "company": "Amla Commerce (Creator of Artifi and Znode)",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/it-security-specialist-at-amla-commerce-creator-of-artifi-and-znode-4332310355",
+    "reason": "stale LinkedIn listing: 317 days old"
+  },
+  {
+    "title": "Cyber Security Officer",
+    "company": "NHS Ayrshire & Arran",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-officer-at-nhs-ayrshire-arran-4459996402",
+    "reason": "blocked role: \\bsecurity officer\\b(?!.*information|.*cyber|.*IT|.*cloud|.*network)"
   }
 ]
