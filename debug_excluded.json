@@ -1,10 +1,115 @@
 [
   {
+    "title": "OTHER CYBER CRIME",
+    "company": "MHA CyberCrime",
+    "source": "certifications",
+    "url": "https://cybercrime.gov.in",
+    "reason": "blocked URL pattern: cybercrime\\.gov\\.in$"
+  },
+  {
+    "title": "Cyber Dost",
+    "company": "MHA CyberCrime",
+    "source": "certifications",
+    "url": "https://www.facebook.com/CyberDostI4C",
+    "reason": "blocked URL pattern: facebook\\.com"
+  },
+  {
+    "title": "Tweets by Cyberdost",
+    "company": "MHA CyberCrime",
+    "source": "certifications",
+    "url": "https://twitter.com/Cyberdost?ref_src=twsrc%5Etfw",
+    "reason": "blocked URL pattern: twitter\\.com|x\\.com"
+  },
+  {
+    "title": "[GitHub] shrivenkateshwara/Best-Private-University-in-Uttar-Pradesh-UP-Top-University-in-India-SVU",
+    "company": "shrivenkateshwara",
+    "source": "github",
+    "url": "https://github.com/shrivenkateshwara/Best-Private-University-in-Uttar-Pradesh-UP-Top-University-in-India-SVU",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
+    "title": "[GitHub] Jean-Regis-M/FinBot-AEGIS-GSoC2026-Final-Report",
+    "company": "Jean-Regis-M",
+    "source": "github",
+    "url": "https://github.com/Jean-Regis-M/FinBot-AEGIS-GSoC2026-Final-Report",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
+    "title": "[GitHub] KRYSTALM7/fineract-los-gsoc-2026",
+    "company": "KRYSTALM7",
+    "source": "github",
+    "url": "https://github.com/KRYSTALM7/fineract-los-gsoc-2026",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
+    "title": "[GitHub] Deez-Automations/gsoc-2026-finbot-ctf",
+    "company": "Deez-Automations",
+    "source": "github",
+    "url": "https://github.com/Deez-Automations/gsoc-2026-finbot-ctf",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
+    "title": "[GitHub] Ananya44444/GSoC-2026-Final-Report",
+    "company": "Ananya44444",
+    "source": "github",
+    "url": "https://github.com/Ananya44444/GSoC-2026-Final-Report",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
+    "title": "[GitHub] nidhi1603/iot-panel-mcp",
+    "company": "nidhi1603",
+    "source": "github",
+    "url": "https://github.com/nidhi1603/iot-panel-mcp",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
+    "title": "[GitHub] bindaasboy19/APCSIP2026",
+    "company": "bindaasboy19",
+    "source": "github",
+    "url": "https://github.com/bindaasboy19/APCSIP2026",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
+    "title": "[GitHub] JUN41DS2709/APCSIP-2026-UP-Police-Cyber-Security-Internship",
+    "company": "JUN41DS2709",
+    "source": "github",
+    "url": "https://github.com/JUN41DS2709/APCSIP-2026-UP-Police-Cyber-Security-Internship",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
+    "title": "[GitHub] hrs182/apcsip-2026-363-project",
+    "company": "hrs182",
+    "source": "github",
+    "url": "https://github.com/hrs182/apcsip-2026-363-project",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
+    "title": "[GitHub] Gurpreetkaur2006/TRACELNS",
+    "company": "Gurpreetkaur2006",
+    "source": "github",
+    "url": "https://github.com/Gurpreetkaur2006/TRACELNS",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
+    "title": "[GitHub] ronaksoora-cyber/APCSIP-2026",
+    "company": "ronaksoora-cyber",
+    "source": "github",
+    "url": "https://github.com/ronaksoora-cyber/APCSIP-2026",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
     "title": "Cybersecurity Internships in India 2026 \u2014 Verified & Free",
     "company": "Web Search",
     "source": "google_news",
     "url": "https://myinternships.in/internships/cybersecurity-internships",
     "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
+  },
+  {
+    "title": "Cybersecurity Internship 2026 Jobs in India (106 Open Roles) - LinkedIn",
+    "company": "Web Search",
+    "source": "google_news",
+    "url": "https://in.linkedin.com/jobs/cybersecurity-internship-2026-jobs",
+    "reason": "blocked URL pattern: linkedin\\.com/jobs/.*internship.*jobs$"
   },
   {
     "title": "148 cybersecurity internship jobs in India, September 2026 - Glassdoor",
@@ -14,24 +119,17 @@
     "reason": "blocked URL pattern: glassdoor\\.co\\.in/Job/.*internship"
   },
   {
-    "title": "Cybersecurity Internship 2026 Jobs in India (103 Open Roles) - LinkedIn",
+    "title": "Cybersecurity Internship for Freshers 2026 \u2014 Apply Free",
     "company": "Web Search",
     "source": "google_news",
-    "url": "https://in.linkedin.com/jobs/cybersecurity-internship-2026-jobs",
-    "reason": "blocked URL pattern: linkedin\\.com/jobs/.*internship.*jobs$"
+    "url": "https://myinternships.in/internships/cybersecurity-internship-for-freshers",
+    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
   },
   {
     "title": "Cybersecurity Internships in India 2026 \u2014 Everything a Student Needs to ...",
     "company": "Web Search",
     "source": "google_news",
     "url": "https://cguru.co.in/cybersecurity-internships-in-india-2026/",
-    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
-  },
-  {
-    "title": "Cybersecurity Internship for Freshers 2026 \u2014 Apply Free",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://myinternships.in/internships/cybersecurity-internship-for-freshers",
     "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
   },
   {
@@ -54,13 +152,6 @@
     "source": "google_news",
     "url": "https://news.lawfoyer.in/cyber-security-internship-program-2026-by-amroha-police-apcsip-2026/",
     "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
-  },
-  {
-    "title": "MantisGrid AI Hackathon 2026",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://mantisgrid-ai-hackathon-2026.devpost.com/",
-    "reason": "keyword-miss (score 0)"
   },
   {
     "title": "Sherubtse Hackathon 2026",
@@ -126,17 +217,17 @@
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "VTHacks 14",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://vthacks-14.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
     "title": "TLN Hackathon 2026",
     "company": "DevPost",
     "source": "google_news",
     "url": "https://tln-cybersecurity-challenge.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "VTHacks 14",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://vthacks-14.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
@@ -154,10 +245,17 @@
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "ACM Marketsphere 2026",
+    "title": "Alpaca x Conviction Trading Hackathon",
     "company": "DevPost",
     "source": "google_news",
-    "url": "https://acm-marketsphere-2026.devpost.com/",
+    "url": "https://conviction-trading-hack.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "CityCamp Gainesville Hack Day",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://citycamp-hack-day.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
@@ -215,27 +313,6 @@
     "source": "rss",
     "url": "https://www.reddit.com/r/netsec/comments/1e73qnf/rnetsecs_q3_2024_information_security_hiring/",
     "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
-  },
-  {
-    "title": "OTHER CYBER CRIME",
-    "company": "MHA CyberCrime",
-    "source": "certifications",
-    "url": "https://cybercrime.gov.in",
-    "reason": "blocked URL pattern: cybercrime\\.gov\\.in$"
-  },
-  {
-    "title": "Cyber Dost",
-    "company": "MHA CyberCrime",
-    "source": "certifications",
-    "url": "https://www.facebook.com/CyberDostI4C",
-    "reason": "blocked URL pattern: facebook\\.com"
-  },
-  {
-    "title": "Tweets by Cyberdost",
-    "company": "MHA CyberCrime",
-    "source": "certifications",
-    "url": "https://twitter.com/Cyberdost?ref_src=twsrc%5Etfw",
-    "reason": "blocked URL pattern: twitter\\.com|x\\.com"
   },
   {
     "title": "[AICTE] All InternshipsLiveEvery live opening across Bharat",
@@ -5180,6 +5257,13 @@
     "reason": "keyword-miss (score 0)"
   },
   {
+    "title": "Summer Internship IT-Security (M/W/D)",
+    "company": "Rent a CISO GmbH",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/summer-internship-it-security-m-w-d-at-rent-a-ciso-gmbh-4448118116",
+    "reason": "stale LinkedIn listing: 46 days old"
+  },
+  {
     "title": "CYBER SECURITY ANALYST L3",
     "company": "Wipro",
     "source": "linkedin",
@@ -5198,28 +5282,28 @@
     "company": "Verint",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-l1-analyst-at-verint-4405428319",
-    "reason": "stale LinkedIn listing: 147 days old"
+    "reason": "stale LinkedIn listing: 148 days old"
   },
   {
     "title": "Cyber Security Analyst",
     "company": "Ashirvad by aliaxis",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-ashirvad-by-aliaxis-4431222291",
-    "reason": "stale LinkedIn listing: 85 days old"
+    "reason": "stale LinkedIn listing: 86 days old"
   },
   {
     "title": "SOC Analyst (Tier 2)",
     "company": "aeroqube inc.",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-analyst-tier-2-at-aeroqube-inc-4320533329",
-    "reason": "stale LinkedIn listing: 317 days old"
+    "reason": "stale LinkedIn listing: 318 days old"
   },
   {
     "title": "CYBER security Analyst",
     "company": "Cortex Consultants LLC",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-cortex-consultants-llc-4404540757",
-    "reason": "stale LinkedIn listing: 148 days old"
+    "reason": "stale LinkedIn listing: 149 days old"
   },
   {
     "title": "Analyst II-Cyber Defense",
@@ -5229,18 +5313,18 @@
     "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
   },
   {
-    "title": "RS / High-Security L3 SOC Analyst (Secure Environment)",
-    "company": "Plurilock (Espa\u00f1ol)",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/rs-high-security-l3-soc-analyst-secure-environment-at-plurilock-espa%C3%B1ol-4438367094",
-    "reason": "senior role: \\bl[23456]\\s+(soc|security|cyber|infosec)\\s+(analyst|engineer|specialist)\\b"
-  },
-  {
     "title": "Cyber Analyst.",
     "company": "Cortex Consultants LLC",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-analyst-at-cortex-consultants-llc-4404030491",
-    "reason": "stale LinkedIn listing: 149 days old"
+    "reason": "stale LinkedIn listing: 150 days old"
+  },
+  {
+    "title": "Information Security Analyst II",
+    "company": "Mimecast",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/information-security-analyst-ii-at-mimecast-4468675699",
+    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
   },
   {
     "title": "SOC Analyst L2",
@@ -5261,21 +5345,21 @@
     "company": "Fortuna Cysec",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/security-analyst-i-at-fortuna-cysec-4439306966",
-    "reason": "stale LinkedIn listing: 68 days old"
+    "reason": "stale LinkedIn listing: 69 days old"
   },
   {
     "title": "Cyber Security Analyst",
     "company": "ZEE - Technology & Innovation",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-zee-technology-innovation-4419852821",
-    "reason": "stale LinkedIn listing: 112 days old"
+    "reason": "stale LinkedIn listing: 113 days old"
   },
   {
     "title": "SOC ANALYST",
     "company": "Value Point Systems Pvt Ltd",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4375356251",
-    "reason": "stale LinkedIn listing: 180 days old"
+    "reason": "stale LinkedIn listing: 181 days old"
   },
   {
     "title": "Analyst",
@@ -5292,10 +5376,24 @@
     "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
   },
   {
+    "title": "Security Analyst I, Threat Hunting (Pre-Sales Support)",
+    "company": "Bolster AI",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/security-analyst-i-threat-hunting-pre-sales-support-at-bolster-ai-4462555617",
+    "reason": "blocked role: \\bsales\\b"
+  },
+  {
     "title": "Security Analyst II",
     "company": "Netrix Global",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/security-analyst-ii-at-netrix-global-4461710466",
     "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
+  },
+  {
+    "title": "Information Security Analyst - Level 2",
+    "company": "Hitachi Cyber",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/information-security-analyst-level-2-at-hitachi-cyber-4462838102",
+    "reason": "senior role: \\blevel\\s+[2-9]\\b"
   }
 ]
