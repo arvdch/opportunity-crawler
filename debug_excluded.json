@@ -1,164 +1,24 @@
 [
   {
-    "title": "Cybersecurity Internship 2026 Jobs in India (108 Open Roles) - LinkedIn",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://in.linkedin.com/jobs/cybersecurity-internship-2026-jobs",
-    "reason": "blocked URL pattern: linkedin\\.com/jobs/.*internship.*jobs$"
+    "title": "OTHER CYBER CRIME",
+    "company": "MHA CyberCrime",
+    "source": "certifications",
+    "url": "https://cybercrime.gov.in",
+    "reason": "blocked URL pattern: cybercrime\\.gov\\.in$"
   },
   {
-    "title": "147 cybersecurity internship jobs in India, September 2026 - Glassdoor",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://www.glassdoor.co.in/Job/india-cybersecurity-internship-jobs-SRCH_IL.0,5_IN115_KO6,30.htm",
-    "reason": "blocked URL pattern: glassdoor\\.co\\.in/Job/.*internship"
+    "title": "Cyber Dost",
+    "company": "MHA CyberCrime",
+    "source": "certifications",
+    "url": "https://www.facebook.com/CyberDostI4C",
+    "reason": "blocked URL pattern: facebook\\.com"
   },
   {
-    "title": "Cybersecurity Internships in India 2026 \u2014 Verified & Free",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://myinternships.in/internships/cybersecurity-internships",
-    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
-  },
-  {
-    "title": "Cybersecurity Internships in India 2026 \u2014 Everything a Student Needs to ...",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://cguru.co.in/cybersecurity-internships-in-india-2026/",
-    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
-  },
-  {
-    "title": "Cybersecurity Internship for Freshers 2026 \u2014 Apply Free",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://myinternships.in/internships/cybersecurity-internship-for-freshers",
-    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
-  },
-  {
-    "title": "Amroha Police Cyber Security Internship Program 2026 (APCSIP-2026)",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://cyberdeepakyadav.com/amroha-police-cyber-security-internship-2026",
-    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
-  },
-  {
-    "title": "#apcsip_2026 #internship #internships #internshipopportunity - LinkedIn",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://www.linkedin.com/posts/cop-anjalikataria_apcsip2026-internship-internships-activity-7455892416764739584-hEPG",
-    "reason": "blocked URL pattern: linkedin\\.com/posts/"
-  },
-  {
-    "title": "Cyber Security Internship Program 2026 by Amroha Police (APCSIP-2026)",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://news.lawfoyer.in/cyber-security-internship-program-2026-by-amroha-police-apcsip-2026/",
-    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
-  },
-  {
-    "title": "Gotong Royong Hackathon",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://gotong-royong-hackathon.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
-    "title": "Zoftware Hireathon",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://zoftware-hireathon.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
-    "title": "Trust in the Hiring Funnel Hackathon",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://trust-in-the-hiring-funnel.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
-    "title": "Miami AI Hackathon: Mel + ElevenLabs",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://hackathon-mel-elevenlabs.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
-    "title": "Bay Hacks",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://bayhacks-2026.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
-    "title": "General Learning Hacks",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://general-learning-hacks.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
-    "title": "Databricks Hackathon @ Queens College 2026",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://databricks-hackathon-2026.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
-    "title": "Hack the North 2026",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://hackthenorth2026.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
-    "title": "HopHacks Fall 2026",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://hophacks-fall-2026.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
-    "title": "VTHacks 14",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://vthacks-14.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
-    "title": "TLN Hackathon 2026",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://tln-cybersecurity-challenge.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
-    "title": "SteelHacks XIII",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://steelhacksxiii.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
-    "title": "CuseHacks 2026",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://cusehacks-2026.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
-    "title": "Alpaca x Conviction Trading Hackathon",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://conviction-trading-hack.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
-    "title": "CityCamp Gainesville Hack Day",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://citycamp-hack-day.devpost.com/",
-    "reason": "keyword-miss (score 0)"
+    "title": "Tweets by Cyberdost",
+    "company": "MHA CyberCrime",
+    "source": "certifications",
+    "url": "https://twitter.com/Cyberdost?ref_src=twsrc%5Etfw",
+    "reason": "blocked URL pattern: twitter\\.com|x\\.com"
   },
   {
     "title": "[GitHub] shrivenkateshwara/Best-Private-University-in-Uttar-Pradesh-UP-Top-University-in-India-SVU",
@@ -203,25 +63,39 @@
     "reason": "GitHub repos are writeups/portfolios, not open positions"
   },
   {
-    "title": "OTHER CYBER CRIME",
-    "company": "MHA CyberCrime",
-    "source": "certifications",
-    "url": "https://cybercrime.gov.in",
-    "reason": "blocked URL pattern: cybercrime\\.gov\\.in$"
+    "title": "[GitHub] bindaasboy19/APCSIP2026",
+    "company": "bindaasboy19",
+    "source": "github",
+    "url": "https://github.com/bindaasboy19/APCSIP2026",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
   },
   {
-    "title": "Cyber Dost",
-    "company": "MHA CyberCrime",
-    "source": "certifications",
-    "url": "https://www.facebook.com/CyberDostI4C",
-    "reason": "blocked URL pattern: facebook\\.com"
+    "title": "[GitHub] JUN41DS2709/APCSIP-2026-UP-Police-Cyber-Security-Internship",
+    "company": "JUN41DS2709",
+    "source": "github",
+    "url": "https://github.com/JUN41DS2709/APCSIP-2026-UP-Police-Cyber-Security-Internship",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
   },
   {
-    "title": "Tweets by Cyberdost",
-    "company": "MHA CyberCrime",
-    "source": "certifications",
-    "url": "https://twitter.com/Cyberdost?ref_src=twsrc%5Etfw",
-    "reason": "blocked URL pattern: twitter\\.com|x\\.com"
+    "title": "[GitHub] hrs182/apcsip-2026-363-project",
+    "company": "hrs182",
+    "source": "github",
+    "url": "https://github.com/hrs182/apcsip-2026-363-project",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
+    "title": "[GitHub] Gurpreetkaur2006/TRACELNS",
+    "company": "Gurpreetkaur2006",
+    "source": "github",
+    "url": "https://github.com/Gurpreetkaur2006/TRACELNS",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
+    "title": "[GitHub] ronaksoora-cyber/APCSIP-2026",
+    "company": "ronaksoora-cyber",
+    "source": "github",
+    "url": "https://github.com/ronaksoora-cyber/APCSIP-2026",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
   },
   {
     "title": "/r/netsec's Q3 2026 Information Security Hiring Thread",
@@ -278,6 +152,181 @@
     "source": "rss",
     "url": "https://www.reddit.com/r/netsec/comments/1e73qnf/rnetsecs_q3_2024_information_security_hiring/",
     "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
+  },
+  {
+    "title": "Cybersecurity Internship 2026 Jobs in India (111 Open Roles) - LinkedIn",
+    "company": "Web Search",
+    "source": "google_news",
+    "url": "https://in.linkedin.com/jobs/cybersecurity-internship-2026-jobs",
+    "reason": "blocked URL pattern: linkedin\\.com/jobs/.*internship.*jobs$"
+  },
+  {
+    "title": "Cybersecurity Internships in India 2026 \u2014 Verified & Free",
+    "company": "Web Search",
+    "source": "google_news",
+    "url": "https://myinternships.in/internships/cybersecurity-internships",
+    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
+  },
+  {
+    "title": "139 cybersecurity internship jobs in India, September 2026 - Glassdoor",
+    "company": "Web Search",
+    "source": "google_news",
+    "url": "https://www.glassdoor.co.in/Job/india-cybersecurity-internship-jobs-SRCH_IL.0,5_IN115_KO6,30.htm",
+    "reason": "blocked URL pattern: glassdoor\\.co\\.in/Job/.*internship"
+  },
+  {
+    "title": "Cybersecurity Internships in India 2026 \u2014 Everything a Student Needs to ...",
+    "company": "Web Search",
+    "source": "google_news",
+    "url": "https://cguru.co.in/cybersecurity-internships-in-india-2026/",
+    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
+  },
+  {
+    "title": "Cybersecurity Internship for Freshers 2026 \u2014 Apply Free",
+    "company": "Web Search",
+    "source": "google_news",
+    "url": "https://myinternships.in/internships/cybersecurity-internship-for-freshers",
+    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
+  },
+  {
+    "title": "Amroha Police Cyber Security Internship Program 2026 (APCSIP-2026)",
+    "company": "Web Search",
+    "source": "google_news",
+    "url": "https://cyberdeepakyadav.com/amroha-police-cyber-security-internship-2026",
+    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
+  },
+  {
+    "title": "Cyber Security Internship Program 2026 by Amroha Police (APCSIP-2026)",
+    "company": "Web Search",
+    "source": "google_news",
+    "url": "https://news.lawfoyer.in/cyber-security-internship-program-2026-by-amroha-police-apcsip-2026/",
+    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
+  },
+  {
+    "title": "#apcsip_2026 #internship #internships #internshipopportunity - LinkedIn",
+    "company": "Web Search",
+    "source": "google_news",
+    "url": "https://www.linkedin.com/posts/cop-anjalikataria_apcsip2026-internship-internships-activity-7455892416764739584-hEPG",
+    "reason": "blocked URL pattern: linkedin\\.com/posts/"
+  },
+  {
+    "title": "NCIIPC is hiring interns! 3-6 Months | Real Projects | Hands-on ...",
+    "company": "Web Search",
+    "source": "google_news",
+    "url": "https://x.com/NCIIPC/status/2067221967070192027",
+    "reason": "blocked URL pattern: twitter\\.com|x\\.com"
+  },
+  {
+    "title": "#cdac #internship2026 #wbl #techinternship #aicte #cohort8 # ... - LinkedIn",
+    "company": "Web Search",
+    "source": "google_news",
+    "url": "https://www.linkedin.com/posts/future-ready-376a75375_cdac-internship2026-wbl-activity-7391437416571555840-vM3-",
+    "reason": "blocked URL pattern: linkedin\\.com/posts/"
+  },
+  {
+    "title": "Miami AI Hackathon: Mel + ElevenLabs",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://hackathon-mel-elevenlabs.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "Alpaca x Conviction Trading Hackathon",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://conviction-trading-hack.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "CityCamp Gainesville Hack Day",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://citycamp-hack-day.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "AI Agent Hackathon",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://coffee-and-code-agent.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "Hack The Weather",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://hack-the-weather.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "Nerdearla Vibeathon 2026",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://nerdearla26.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "Business + AI Hackathon",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://business-ai-hackathon.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "Chipcraft 3.0 - 24 Hour VLSI Hackathon",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://chipcraft-3-0.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "Cyber Hawk Hack Days",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://cyber-hawk-hackathon.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "Shower Hacks",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://showerhacks.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "Sherubtse Hackathon 2026",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://sherubtse-hackathon-2026.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "PROMPTOTHON 2026: AI Edition",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://promptothon-2026-ai-edition.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "OwlHacks 2026",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://owlhacks-2026.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "Hack the Hill III",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://hack-the-hill-iii.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "SC Quantathon v3",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://sc-quantathon-v3.devpost.com/",
+    "reason": "keyword-miss (score 0)"
   },
   {
     "title": "[AICTE] All InternshipsLiveEvery live opening across Bharat",
@@ -5226,7 +5275,7 @@
     "company": "Rent a CISO GmbH",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/summer-internship-it-security-m-w-d-at-rent-a-ciso-gmbh-4448118116",
-    "reason": "stale LinkedIn listing: 47 days old"
+    "reason": "stale LinkedIn listing: 48 days old"
   },
   {
     "title": "CYBER SECURITY ANALYST L3",
@@ -5247,28 +5296,28 @@
     "company": "Verint",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-l1-analyst-at-verint-4405428319",
-    "reason": "stale LinkedIn listing: 149 days old"
+    "reason": "stale LinkedIn listing: 150 days old"
   },
   {
     "title": "Cyber Security Analyst",
     "company": "Ashirvad by aliaxis",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-ashirvad-by-aliaxis-4431222291",
-    "reason": "stale LinkedIn listing: 87 days old"
+    "reason": "stale LinkedIn listing: 88 days old"
   },
   {
     "title": "SOC Analyst (Tier 2)",
     "company": "aeroqube inc.",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-analyst-tier-2-at-aeroqube-inc-4320533329",
-    "reason": "stale LinkedIn listing: 319 days old"
+    "reason": "stale LinkedIn listing: 320 days old"
   },
   {
     "title": "CYBER security Analyst",
     "company": "Cortex Consultants LLC",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-cortex-consultants-llc-4404540757",
-    "reason": "stale LinkedIn listing: 150 days old"
+    "reason": "stale LinkedIn listing: 151 days old"
   },
   {
     "title": "Analyst II-Cyber Defense",
@@ -5278,18 +5327,11 @@
     "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
   },
   {
-    "title": "RS / High-Security L3 SOC Analyst (Secure Environment)",
-    "company": "Plurilock (Espa\u00f1ol)",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/rs-high-security-l3-soc-analyst-secure-environment-at-plurilock-espa%C3%B1ol-4438367094",
-    "reason": "senior role: \\bl[23456]\\s+(soc|security|cyber|infosec)\\s+(analyst|engineer|specialist)\\b"
-  },
-  {
     "title": "Cyber Analyst.",
     "company": "Cortex Consultants LLC",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-analyst-at-cortex-consultants-llc-4404030491",
-    "reason": "stale LinkedIn listing: 151 days old"
+    "reason": "stale LinkedIn listing: 152 days old"
   },
   {
     "title": "Information Security Analyst II",
@@ -5317,21 +5359,21 @@
     "company": "Fortuna Cysec",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/security-analyst-i-at-fortuna-cysec-4439306966",
-    "reason": "stale LinkedIn listing: 70 days old"
+    "reason": "stale LinkedIn listing: 71 days old"
   },
   {
     "title": "Cyber Security Analyst",
     "company": "ZEE - Technology & Innovation",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-zee-technology-innovation-4419852821",
-    "reason": "stale LinkedIn listing: 114 days old"
+    "reason": "stale LinkedIn listing: 115 days old"
   },
   {
     "title": "SOC ANALYST",
     "company": "Value Point Systems Pvt Ltd",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4375356251",
-    "reason": "stale LinkedIn listing: 182 days old"
+    "reason": "stale LinkedIn listing: 183 days old"
   },
   {
     "title": "Analyst",
