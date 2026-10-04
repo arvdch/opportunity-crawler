@@ -1,96 +1,5 @@
 [
   {
-    "title": "OTHER CYBER CRIME",
-    "company": "MHA CyberCrime",
-    "source": "certifications",
-    "url": "https://cybercrime.gov.in",
-    "reason": "blocked URL pattern: cybercrime\\.gov\\.in$"
-  },
-  {
-    "title": "Cyber Dost",
-    "company": "MHA CyberCrime",
-    "source": "certifications",
-    "url": "https://www.facebook.com/CyberDostI4C",
-    "reason": "blocked URL pattern: facebook\\.com"
-  },
-  {
-    "title": "Tweets by Cyberdost",
-    "company": "MHA CyberCrime",
-    "source": "certifications",
-    "url": "https://twitter.com/Cyberdost?ref_src=twsrc%5Etfw",
-    "reason": "blocked URL pattern: twitter\\.com|x\\.com"
-  },
-  {
-    "title": "Cybersecurity Internships in India 2026 \u2014 Apply Free",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://myinternships.in/internships/cybersecurity-internships",
-    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
-  },
-  {
-    "title": "177 cybersecurity internship jobs in India, October 2026 | Glassdoor",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://www.glassdoor.co.in/Job/india-cybersecurity-internship-jobs-SRCH_IL.0,5_IN115_KO6,30.htm",
-    "reason": "blocked URL pattern: glassdoor\\.co\\.in/Job/.*internship"
-  },
-  {
-    "title": "Cybersecurity Internship 2026 Jobs in India (110 Open Roles) - LinkedIn",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://in.linkedin.com/jobs/cybersecurity-internship-2026-jobs",
-    "reason": "blocked URL pattern: linkedin\\.com/jobs/.*internship.*jobs$"
-  },
-  {
-    "title": "Cybersecurity Internships in India 2026 \u2014 Everything a Student Needs to ...",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://cguru.co.in/cybersecurity-internships-in-india-2026/",
-    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
-  },
-  {
-    "title": "#apcsip_2026 #internship #internships #internshipopportunity - LinkedIn",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://www.linkedin.com/posts/cop-anjalikataria_apcsip2026-internship-internships-activity-7455892416764739584-hEPG",
-    "reason": "blocked URL pattern: linkedin\\.com/posts/"
-  },
-  {
-    "title": "Amroha Police Cyber Security Internship Program 2026 (APCSIP-2026)",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://cyberdeepakyadav.com/amroha-police-cyber-security-internship-2026",
-    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
-  },
-  {
-    "title": "Cyber Security Internship Program 2026 by Amroha Police (APCSIP-2026)",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://news.lawfoyer.in/cyber-security-internship-program-2026-by-amroha-police-apcsip-2026/",
-    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
-  },
-  {
-    "title": "APCSIP-2026 Begins: Inside the Cyber Journey - LinkedIn",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://www.linkedin.com/pulse/apcsip-2026-begins-inside-cyber-journey-gopichand-dandimeni-ff4df?tl=en",
-    "reason": "blocked URL pattern: linkedin\\.com/pulse/"
-  },
-  {
-    "title": "StormHacks 2026",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://stormhacks2026.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
-    "title": "Case Closed",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://caseclosed.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
     "title": "HACK PRADESH \u2013 RVIT Hackathon",
     "company": "DevPost",
     "source": "google_news",
@@ -175,10 +84,24 @@
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "PalmettoHacks",
+    "title": "[OLD] PalmettoHacks",
     "company": "DevPost",
     "source": "google_news",
     "url": "https://palmetto-hacks-2026.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "Hacklanta",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://hacklanta.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "hackPHS 2026",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://hackphs2026.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
@@ -228,6 +151,13 @@
     "company": "bindaasboy19",
     "source": "github",
     "url": "https://github.com/bindaasboy19/APCSIP2026",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
+    "title": "[GitHub] JUN41DS2709/APCSIP-2026-UP-Police-Cyber-Security-Internship",
+    "company": "JUN41DS2709",
+    "source": "github",
+    "url": "https://github.com/JUN41DS2709/APCSIP-2026-UP-Police-Cyber-Security-Internship",
     "reason": "GitHub repos are writeups/portfolios, not open positions"
   },
   {
@@ -306,6 +236,27 @@
     "source": "rss",
     "url": "https://www.reddit.com/r/netsec/comments/1e73qnf/rnetsecs_q3_2024_information_security_hiring/",
     "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
+  },
+  {
+    "title": "OTHER CYBER CRIME",
+    "company": "MHA CyberCrime",
+    "source": "certifications",
+    "url": "https://cybercrime.gov.in",
+    "reason": "blocked URL pattern: cybercrime\\.gov\\.in$"
+  },
+  {
+    "title": "Cyber Dost",
+    "company": "MHA CyberCrime",
+    "source": "certifications",
+    "url": "https://www.facebook.com/CyberDostI4C",
+    "reason": "blocked URL pattern: facebook\\.com"
+  },
+  {
+    "title": "Tweets by Cyberdost",
+    "company": "MHA CyberCrime",
+    "source": "certifications",
+    "url": "https://twitter.com/Cyberdost?ref_src=twsrc%5Etfw",
+    "reason": "blocked URL pattern: twitter\\.com|x\\.com"
   },
   {
     "title": "[AICTE] All InternshipsLiveEvery live opening across Bharat",
@@ -5254,21 +5205,28 @@
     "company": "CYCOPZ",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/penetration-testing-intern-at-cycopz-4447340471",
-    "reason": "stale LinkedIn listing: 59 days old"
+    "reason": "stale LinkedIn listing: 60 days old"
   },
   {
     "title": "Summer Internship IT-Security (M/W/D)",
     "company": "Rent a CISO GmbH",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/summer-internship-it-security-m-w-d-at-rent-a-ciso-gmbh-4448118116",
-    "reason": "stale LinkedIn listing: 62 days old"
+    "reason": "stale LinkedIn listing: 63 days old"
   },
   {
     "title": "SMO ANALYST INTERNSHIP",
     "company": "AATMIA DIGITAL MARKETING AND SECURITY PRIVATE LIMITED",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/smo-analyst-internship-at-aatmia-digital-marketing-and-security-private-limited-4448588953",
-    "reason": "stale LinkedIn listing: 59 days old"
+    "reason": "stale LinkedIn listing: 60 days old"
+  },
+  {
+    "title": "CYBER SECURITY ANALYST L3",
+    "company": "Wipro",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4475344777",
+    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
   },
   {
     "title": "CYBER SECURITY ANALYST L3",
@@ -5282,42 +5240,35 @@
     "company": "Verint",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-l1-analyst-at-verint-4405428319",
-    "reason": "stale LinkedIn listing: 164 days old"
-  },
-  {
-    "title": "CYBER SECURITY ANALYST L3",
-    "company": "Wipro",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4475318201",
-    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+    "reason": "stale LinkedIn listing: 165 days old"
   },
   {
     "title": "Cyber Security Analyst",
     "company": "Ashirvad by aliaxis",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-ashirvad-by-aliaxis-4431222291",
-    "reason": "stale LinkedIn listing: 102 days old"
+    "reason": "stale LinkedIn listing: 103 days old"
   },
   {
     "title": "Executive - Cyber Transformation",
     "company": "KPMG India",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/executive-cyber-transformation-at-kpmg-india-4431341305",
-    "reason": "stale LinkedIn listing: 121 days old"
+    "reason": "stale LinkedIn listing: 122 days old"
   },
   {
     "title": "SOC Analyst (Tier 2)",
     "company": "aeroqube inc.",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-analyst-tier-2-at-aeroqube-inc-4320533329",
-    "reason": "stale LinkedIn listing: 334 days old"
+    "reason": "stale LinkedIn listing: 335 days old"
   },
   {
     "title": "CYBER security Analyst",
     "company": "Cortex Consultants LLC",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-cortex-consultants-llc-4404540757",
-    "reason": "stale LinkedIn listing: 165 days old"
+    "reason": "stale LinkedIn listing: 166 days old"
   },
   {
     "title": "Analyst II-Cyber Defense",
@@ -5338,7 +5289,7 @@
     "company": "Cortex Consultants LLC",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-analyst-at-cortex-consultants-llc-4404030491",
-    "reason": "stale LinkedIn listing: 166 days old"
+    "reason": "stale LinkedIn listing: 167 days old"
   },
   {
     "title": "Information Security Analyst II",
@@ -5359,7 +5310,7 @@
     "company": "ZEE - Technology & Innovation",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-zee-technology-innovation-4419852821",
-    "reason": "stale LinkedIn listing: 129 days old"
+    "reason": "stale LinkedIn listing: 130 days old"
   },
   {
     "title": "Information Security Analyst - Level 2",
@@ -5373,42 +5324,28 @@
     "company": "Value Point Systems Pvt Ltd",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4451136361",
-    "reason": "stale LinkedIn listing: 54 days old"
+    "reason": "stale LinkedIn listing: 55 days old"
   },
   {
     "title": "SOC ANALYST",
     "company": "Value Point Systems Pvt Ltd",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4375356251",
-    "reason": "stale LinkedIn listing: 197 days old"
+    "reason": "stale LinkedIn listing: 198 days old"
   },
   {
-    "title": "Junior Endpoint Security Analyst",
-    "company": "Pineswift Technologies",
+    "title": "CYBER SECURITY ANALYST L2",
+    "company": "Wipro",
     "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/junior-endpoint-security-analyst-at-pineswift-technologies-4449491353",
-    "reason": "stale LinkedIn listing: 59 days old"
-  },
-  {
-    "title": "Cyber Security Associate",
-    "company": "BrightLine Management Solutions",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-associate-at-brightline-management-solutions-4448996863",
-    "reason": "stale LinkedIn listing: 59 days old"
-  },
-  {
-    "title": "Junior Security Analyst \u2013 WAF & HA Load Balancing",
-    "company": "Pineswift Technologies",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/junior-security-analyst-%E2%80%93-waf-ha-load-balancing-at-pineswift-technologies-4449482548",
-    "reason": "stale LinkedIn listing: 59 days old"
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l2-at-wipro-4475344774",
+    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
   },
   {
     "title": "Officer, IT Security (1 Position)",
     "company": "SAMBAT Finance Plc.",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/officer-it-security-1-position-at-sambat-finance-plc-4447365798",
-    "reason": "stale LinkedIn listing: 59 days old"
+    "reason": "stale LinkedIn listing: 60 days old"
   },
   {
     "title": "Security Analyst II",
