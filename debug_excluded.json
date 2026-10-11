@@ -7,18 +7,11 @@
     "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
   },
   {
-    "title": "Cybersecurity Internship 2026 Jobs in India (118 Open Roles) - LinkedIn",
+    "title": "Cybersecurity Internship 2026 Jobs in India (133 Open Roles) - LinkedIn",
     "company": "Web Search",
     "source": "google_news",
     "url": "https://in.linkedin.com/jobs/cybersecurity-internship-2026-jobs",
     "reason": "blocked URL pattern: linkedin\\.com/jobs/.*internship.*jobs$"
-  },
-  {
-    "title": "173 cybersecurity internship jobs in India, October 2026 | Glassdoor",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://www.glassdoor.co.in/Job/india-cybersecurity-internship-jobs-SRCH_IL.0,5_IN115_KO6,30.htm",
-    "reason": "blocked URL pattern: glassdoor\\.co\\.in/Job/.*internship"
   },
   {
     "title": "Cybersecurity Internship for Freshers 2026 \u2014 Apply Free",
@@ -26,6 +19,13 @@
     "source": "google_news",
     "url": "https://myinternships.in/internships/cybersecurity-internship-for-freshers",
     "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
+  },
+  {
+    "title": "178 cybersecurity internship jobs in India, October 2026 | Glassdoor",
+    "company": "Web Search",
+    "source": "google_news",
+    "url": "https://www.glassdoor.co.in/Job/india-cybersecurity-internship-jobs-SRCH_IL.0,5_IN115_KO6,30.htm",
+    "reason": "blocked URL pattern: glassdoor\\.co\\.in/Job/.*internship"
   },
   {
     "title": "Amroha Police Cyber Security Internship Program 2026 (APCSIP-2026)",
@@ -91,6 +91,13 @@
     "reason": "keyword-miss (score 0)"
   },
   {
+    "title": "NTU x ST Engineering Hackathon",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://ntu-x-st-engineering-hackathon.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
     "title": "Build-A-Thon",
     "company": "DevPost",
     "source": "google_news",
@@ -133,13 +140,6 @@
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "Lehigh Fall 2026 Collegiate Hackathon",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://lehigh-hacks.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
     "title": "Hack Like W@CC 2026",
     "company": "DevPost",
     "source": "google_news",
@@ -147,10 +147,10 @@
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "DubHacks '26",
+    "title": "Lehigh Fall 2026 Collegiate Hackathon",
     "company": "DevPost",
     "source": "google_news",
-    "url": "https://dubhacks-2026.devpost.com/",
+    "url": "https://lehigh-hacks.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
@@ -5226,35 +5226,35 @@
     "company": "CYCOPZ",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/penetration-testing-intern-at-cycopz-4447340471",
-    "reason": "stale LinkedIn listing: 66 days old"
+    "reason": "stale LinkedIn listing: 67 days old"
   },
   {
     "title": "Cyber Security Internship",
     "company": "Sparks To Ideas",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-security-internship-at-sparks-to-ideas-4450596291",
-    "reason": "stale LinkedIn listing: 63 days old"
+    "reason": "stale LinkedIn listing: 64 days old"
   },
   {
     "title": "Summer Internship IT-Security (M/W/D)",
     "company": "Rent a CISO GmbH",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/summer-internship-it-security-m-w-d-at-rent-a-ciso-gmbh-4448118116",
-    "reason": "stale LinkedIn listing: 69 days old"
+    "reason": "stale LinkedIn listing: 70 days old"
   },
   {
     "title": "Cyber Security Internship",
     "company": "Sparks To Ideas",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-security-internship-at-sparks-to-ideas-4450593368",
-    "reason": "stale LinkedIn listing: 63 days old"
+    "reason": "stale LinkedIn listing: 64 days old"
   },
   {
-    "title": "Cyber Security Internship",
-    "company": "Sparks To Ideas",
+    "title": "SMO ANALYST INTERNSHIP",
+    "company": "AATMIA DIGITAL MARKETING AND SECURITY PRIVATE LIMITED",
     "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-internship-at-sparks-to-ideas-4450591405",
-    "reason": "stale LinkedIn listing: 63 days old"
+    "url": "https://in.linkedin.com/jobs/view/smo-analyst-internship-at-aatmia-digital-marketing-and-security-private-limited-4448588953",
+    "reason": "stale LinkedIn listing: 67 days old"
   },
   {
     "title": "CYBER SECURITY ANALYST L3",
@@ -5275,35 +5275,35 @@
     "company": "Verint",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-l1-analyst-at-verint-4405428319",
-    "reason": "stale LinkedIn listing: 171 days old"
+    "reason": "stale LinkedIn listing: 172 days old"
   },
   {
     "title": "Cyber Security Analyst",
     "company": "Ashirvad by aliaxis",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-ashirvad-by-aliaxis-4431222291",
-    "reason": "stale LinkedIn listing: 109 days old"
+    "reason": "stale LinkedIn listing: 110 days old"
   },
   {
     "title": "Executive - Cyber Transformation",
     "company": "KPMG India",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/executive-cyber-transformation-at-kpmg-india-4431341305",
-    "reason": "stale LinkedIn listing: 128 days old"
+    "reason": "stale LinkedIn listing: 129 days old"
   },
   {
     "title": "SOC Analyst (Tier 2)",
     "company": "aeroqube inc.",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-analyst-tier-2-at-aeroqube-inc-4320533329",
-    "reason": "stale LinkedIn listing: 341 days old"
+    "reason": "stale LinkedIn listing: 342 days old"
   },
   {
     "title": "CYBER security Analyst",
     "company": "Cortex Consultants LLC",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-cortex-consultants-llc-4404540757",
-    "reason": "stale LinkedIn listing: 172 days old"
+    "reason": "stale LinkedIn listing: 173 days old"
   },
   {
     "title": "Analyst II-Cyber Defense",
@@ -5324,7 +5324,7 @@
     "company": "Cortex Consultants LLC",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-analyst-at-cortex-consultants-llc-4404030491",
-    "reason": "stale LinkedIn listing: 173 days old"
+    "reason": "stale LinkedIn listing: 174 days old"
   },
   {
     "title": "Information Security Analyst II",
@@ -5352,49 +5352,56 @@
     "company": "Fortuna Cysec",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/security-analyst-i-at-fortuna-cysec-4439306966",
-    "reason": "stale LinkedIn listing: 92 days old"
+    "reason": "stale LinkedIn listing: 93 days old"
   },
   {
     "title": "SOC ANALYST",
     "company": "Value Point Systems Pvt Ltd",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4451136361",
-    "reason": "stale LinkedIn listing: 61 days old"
+    "reason": "stale LinkedIn listing: 62 days old"
   },
   {
     "title": "SOC ANALYST",
     "company": "Value Point Systems Pvt Ltd",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4375356251",
-    "reason": "stale LinkedIn listing: 204 days old"
+    "reason": "stale LinkedIn listing: 205 days old"
+  },
+  {
+    "title": "Engineer I - Cyber Incident Response",
+    "company": "Cencora",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/engineer-i-cyber-incident-response-at-cencora-4454106600",
+    "reason": "stale LinkedIn listing: 46 days old"
   },
   {
     "title": "Junior Endpoint Security Analyst",
     "company": "Pineswift Technologies",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/junior-endpoint-security-analyst-at-pineswift-technologies-4449491353",
-    "reason": "stale LinkedIn listing: 66 days old"
+    "reason": "stale LinkedIn listing: 67 days old"
   },
   {
     "title": "Cyber Security Associate",
     "company": "BrightLine Management Solutions",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-security-associate-at-brightline-management-solutions-4448996863",
-    "reason": "stale LinkedIn listing: 66 days old"
+    "reason": "stale LinkedIn listing: 67 days old"
   },
   {
     "title": "Junior Security Analyst \u2013 WAF & HA Load Balancing",
     "company": "Pineswift Technologies",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/junior-security-analyst-%E2%80%93-waf-ha-load-balancing-at-pineswift-technologies-4449482548",
-    "reason": "stale LinkedIn listing: 66 days old"
+    "reason": "stale LinkedIn listing: 67 days old"
   },
   {
     "title": "Cyber Security Analyst",
     "company": "ZEE - Technology & Innovation",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-zee-technology-innovation-4419852821",
-    "reason": "stale LinkedIn listing: 136 days old"
+    "reason": "stale LinkedIn listing: 137 days old"
   },
   {
     "title": "Security Analyst II",
