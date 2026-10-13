@@ -7,7 +7,7 @@
     "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
   },
   {
-    "title": "Cybersecurity Internship 2026 Jobs in India (137 Open Roles) - LinkedIn",
+    "title": "Cybersecurity Internship 2026 Jobs in India (132 Open Roles) - LinkedIn",
     "company": "Web Search",
     "source": "google_news",
     "url": "https://in.linkedin.com/jobs/cybersecurity-internship-2026-jobs",
@@ -49,13 +49,6 @@
     "reason": "blocked URL pattern: linkedin\\.com/posts/"
   },
   {
-    "title": "Child Safety in AI",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://child-safety-in-ai.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
     "title": "Human + AI Hackathon ($1750 Prize Pool)",
     "company": "DevPost",
     "source": "google_news",
@@ -70,10 +63,10 @@
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "RESPAWN",
+    "title": "MLH HacktoberFest 2026",
     "company": "DevPost",
     "source": "google_news",
-    "url": "https://respawn.devpost.com/",
+    "url": "https://mlh-hacktoberfest-2026.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
@@ -88,6 +81,13 @@
     "company": "DevPost",
     "source": "google_news",
     "url": "https://ai-at-work-hack-the-everyday.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "Hack For Humanity (Taipei)",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://hack-for-humanity-taipei.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
@@ -140,17 +140,17 @@
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "SwampHacks XII",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://swamphacks-xii.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
     "title": "Hack the Valley 11",
     "company": "DevPost",
     "source": "google_news",
     "url": "https://hack-the-valley-11.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "SwampHacks XII",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://swamphacks-xii.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
@@ -222,237 +222,6 @@
     "source": "github",
     "url": "https://github.com/ronaksoora-cyber/APCSIP-2026",
     "reason": "GitHub repos are writeups/portfolios, not open positions"
-  },
-  {
-    "title": "/r/netsec's Q3 2026 Information Security Hiring Thread",
-    "company": "Reddit netsec hiring",
-    "source": "rss",
-    "url": "https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/",
-    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
-  },
-  {
-    "title": "/r/netsec's Q1 2026 Information Security Hiring Thread",
-    "company": "Reddit netsec hiring",
-    "source": "rss",
-    "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/",
-    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
-  },
-  {
-    "title": "/r/netsec's Q4 2025 Information Security Hiring Thread",
-    "company": "Reddit netsec hiring",
-    "source": "rss",
-    "url": "https://www.reddit.com/r/netsec/comments/1omlc64/rnetsecs_q4_2025_information_security_hiring/",
-    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
-  },
-  {
-    "title": "/r/netsec's Q3 2025 Information Security Hiring Thread",
-    "company": "Reddit netsec hiring",
-    "source": "rss",
-    "url": "https://www.reddit.com/r/netsec/comments/1lq51ry/rnetsecs_q3_2025_information_security_hiring/",
-    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
-  },
-  {
-    "title": "/r/netsec's Q2 2025 Information Security Hiring Thread",
-    "company": "Reddit netsec hiring",
-    "source": "rss",
-    "url": "https://www.reddit.com/r/netsec/comments/1jp3y90/rnetsecs_q2_2025_information_security_hiring/",
-    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
-  },
-  {
-    "title": "/r/netsec's Q1 2025 Information Security Hiring Thread",
-    "company": "Reddit netsec hiring",
-    "source": "rss",
-    "url": "https://www.reddit.com/r/netsec/comments/1hrdco6/rnetsecs_q1_2025_information_security_hiring/",
-    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
-  },
-  {
-    "title": "/r/netsec's Q4 2024 Information Security Hiring Thread",
-    "company": "Reddit netsec hiring",
-    "source": "rss",
-    "url": "https://www.reddit.com/r/netsec/comments/1fvayj6/rnetsecs_q4_2024_information_security_hiring/",
-    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
-  },
-  {
-    "title": "/r/netsec's Q3 2024 Information Security Hiring Thread",
-    "company": "Reddit netsec hiring",
-    "source": "rss",
-    "url": "https://www.reddit.com/r/netsec/comments/1e73qnf/rnetsecs_q3_2024_information_security_hiring/",
-    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
-  },
-  {
-    "title": "Penetration Testing Intern",
-    "company": "CYCOPZ",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/penetration-testing-intern-at-cycopz-4447340471",
-    "reason": "stale LinkedIn listing: 68 days old"
-  },
-  {
-    "title": "Cyber Security Internship",
-    "company": "Sparks To Ideas",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-internship-at-sparks-to-ideas-4450596291",
-    "reason": "stale LinkedIn listing: 65 days old"
-  },
-  {
-    "title": "Summer Internship IT-Security (M/W/D)",
-    "company": "Rent a CISO GmbH",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/summer-internship-it-security-m-w-d-at-rent-a-ciso-gmbh-4448118116",
-    "reason": "stale LinkedIn listing: 71 days old"
-  },
-  {
-    "title": "SMO ANALYST INTERNSHIP",
-    "company": "AATMIA DIGITAL MARKETING AND SECURITY PRIVATE LIMITED",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/smo-analyst-internship-at-aatmia-digital-marketing-and-security-private-limited-4448588953",
-    "reason": "stale LinkedIn listing: 68 days old"
-  },
-  {
-    "title": "CYBER SECURITY ANALYST L3",
-    "company": "Wipro",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4473052085",
-    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
-  },
-  {
-    "title": "CYBER SECURITY ANALYST L3",
-    "company": "Wipro",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4478090179",
-    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
-  },
-  {
-    "title": "Cyber Security Analyst",
-    "company": "Ashirvad by aliaxis",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-ashirvad-by-aliaxis-4431222291",
-    "reason": "stale LinkedIn listing: 111 days old"
-  },
-  {
-    "title": "Executive - Cyber Transformation",
-    "company": "KPMG India",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/executive-cyber-transformation-at-kpmg-india-4431341305",
-    "reason": "stale LinkedIn listing: 130 days old"
-  },
-  {
-    "title": "Intrusion Analyst III",
-    "company": "Walmart Global Tech India",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/intrusion-analyst-iii-at-walmart-global-tech-india-4475240828",
-    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\biii\\b"
-  },
-  {
-    "title": "Analyst II-Cyber Defense",
-    "company": "Invesco",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/analyst-ii-cyber-defense-at-invesco-4464334290",
-    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
-  },
-  {
-    "title": "Information Security Analyst II",
-    "company": "Mimecast",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/information-security-analyst-ii-at-mimecast-4468675699",
-    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
-  },
-  {
-    "title": "L2 SOC Analyst",
-    "company": "UST",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/l2-soc-analyst-at-ust-4473617725",
-    "reason": "senior role: \\bl[23456]\\s+(soc|security|cyber|infosec)\\s+(analyst|engineer|specialist)\\b"
-  },
-  {
-    "title": "Security Analyst I",
-    "company": "Fortuna Cysec",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/security-analyst-i-at-fortuna-cysec-4439306966",
-    "reason": "stale LinkedIn listing: 94 days old"
-  },
-  {
-    "title": "SOC L1 Analyst",
-    "company": "Verint",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-l1-analyst-at-verint-4405428319",
-    "reason": "stale LinkedIn listing: 173 days old"
-  },
-  {
-    "title": "Cyber Analyst.",
-    "company": "Cortex Consultants LLC",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-analyst-at-cortex-consultants-llc-4404030491",
-    "reason": "stale LinkedIn listing: 175 days old"
-  },
-  {
-    "title": "CYBER security Analyst",
-    "company": "Cortex Consultants LLC",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-cortex-consultants-llc-4404540757",
-    "reason": "stale LinkedIn listing: 174 days old"
-  },
-  {
-    "title": "SOC ANALYST",
-    "company": "Value Point Systems Pvt Ltd",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4451136361",
-    "reason": "stale LinkedIn listing: 63 days old"
-  },
-  {
-    "title": "SOC ANALYST",
-    "company": "Value Point Systems Pvt Ltd",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4375356251",
-    "reason": "stale LinkedIn listing: 206 days old"
-  },
-  {
-    "title": "Engineer I - Cyber Incident Response",
-    "company": "Cencora",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/engineer-i-cyber-incident-response-at-cencora-4454106600",
-    "reason": "stale LinkedIn listing: 47 days old"
-  },
-  {
-    "title": "Junior Endpoint Security Analyst",
-    "company": "Pineswift Technologies",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/junior-endpoint-security-analyst-at-pineswift-technologies-4449491353",
-    "reason": "stale LinkedIn listing: 68 days old"
-  },
-  {
-    "title": "Cyber Security Associate",
-    "company": "BrightLine Management Solutions",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-associate-at-brightline-management-solutions-4448996863",
-    "reason": "stale LinkedIn listing: 68 days old"
-  },
-  {
-    "title": "Junior Security Analyst \u2013 WAF & HA Load Balancing",
-    "company": "Pineswift Technologies",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/junior-security-analyst-%E2%80%93-waf-ha-load-balancing-at-pineswift-technologies-4449482548",
-    "reason": "stale LinkedIn listing: 68 days old"
-  },
-  {
-    "title": "Cyber Security Analyst",
-    "company": "ZEE - Technology & Innovation",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-zee-technology-innovation-4419852821",
-    "reason": "stale LinkedIn listing: 138 days old"
-  },
-  {
-    "title": "Security Analyst II",
-    "company": "Netrix Global",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/security-analyst-ii-at-netrix-global-4461710466",
-    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
-  },
-  {
-    "title": "L2 SOC Analyst",
-    "company": "UST",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/l2-soc-analyst-at-ust-4461166764",
-    "reason": "senior role: \\bl[23456]\\s+(soc|security|cyber|infosec)\\s+(analyst|engineer|specialist)\\b"
   },
   {
     "title": "[AICTE] All InternshipsLiveEvery live opening across Bharat",
@@ -5395,5 +5164,243 @@
     "source": "govt_portals",
     "url": "https://internship.aicte-india.org/",
     "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "Cyber Security Internship",
+    "company": "Sparks To Ideas",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-internship-at-sparks-to-ideas-4450596291",
+    "reason": "stale LinkedIn listing: 66 days old"
+  },
+  {
+    "title": "Penetration Testing Intern",
+    "company": "CYCOPZ",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/penetration-testing-intern-at-cycopz-4447340471",
+    "reason": "stale LinkedIn listing: 69 days old"
+  },
+  {
+    "title": "Summer Internship IT-Security (M/W/D)",
+    "company": "Rent a CISO GmbH",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/summer-internship-it-security-m-w-d-at-rent-a-ciso-gmbh-4448118116",
+    "reason": "stale LinkedIn listing: 72 days old"
+  },
+  {
+    "title": "SMO ANALYST INTERNSHIP",
+    "company": "AATMIA DIGITAL MARKETING AND SECURITY PRIVATE LIMITED",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/smo-analyst-internship-at-aatmia-digital-marketing-and-security-private-limited-4448588953",
+    "reason": "stale LinkedIn listing: 69 days old"
+  },
+  {
+    "title": "CYBER SECURITY ANALYST L3",
+    "company": "Wipro",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4475362198",
+    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+  },
+  {
+    "title": "CYBER SECURITY ANALYST L3",
+    "company": "Wipro",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4473052085",
+    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+  },
+  {
+    "title": "SOC L1 Analyst",
+    "company": "Verint",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-l1-analyst-at-verint-4405428319",
+    "reason": "stale LinkedIn listing: 174 days old"
+  },
+  {
+    "title": "Cyber Security Analyst",
+    "company": "Ashirvad by aliaxis",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-ashirvad-by-aliaxis-4431222291",
+    "reason": "stale LinkedIn listing: 112 days old"
+  },
+  {
+    "title": "Executive - Cyber Transformation",
+    "company": "KPMG India",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/executive-cyber-transformation-at-kpmg-india-4431341305",
+    "reason": "stale LinkedIn listing: 131 days old"
+  },
+  {
+    "title": "SOC Analyst (Tier 2)",
+    "company": "aeroqube inc.",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-analyst-tier-2-at-aeroqube-inc-4320533329",
+    "reason": "stale LinkedIn listing: 344 days old"
+  },
+  {
+    "title": "CYBER security Analyst",
+    "company": "Cortex Consultants LLC",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-cortex-consultants-llc-4404540757",
+    "reason": "stale LinkedIn listing: 175 days old"
+  },
+  {
+    "title": "Analyst II-Cyber Defense",
+    "company": "Invesco",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/analyst-ii-cyber-defense-at-invesco-4464334290",
+    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
+  },
+  {
+    "title": "RS / High-Security L3 SOC Analyst (Secure Environment)",
+    "company": "Plurilock (Espa\u00f1ol)",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/rs-high-security-l3-soc-analyst-secure-environment-at-plurilock-espa%C3%B1ol-4438367094",
+    "reason": "senior role: \\bl[23456]\\s+(soc|security|cyber|infosec)\\s+(analyst|engineer|specialist)\\b"
+  },
+  {
+    "title": "Cyber Analyst.",
+    "company": "Cortex Consultants LLC",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-analyst-at-cortex-consultants-llc-4404030491",
+    "reason": "stale LinkedIn listing: 176 days old"
+  },
+  {
+    "title": "Information Security Analyst II",
+    "company": "Mimecast",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/information-security-analyst-ii-at-mimecast-4468675699",
+    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
+  },
+  {
+    "title": "L2 SOC Analyst",
+    "company": "UST",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/l2-soc-analyst-at-ust-4473617725",
+    "reason": "senior role: \\bl[23456]\\s+(soc|security|cyber|infosec)\\s+(analyst|engineer|specialist)\\b"
+  },
+  {
+    "title": "SOC Analyst ( Security  Analyst \u2013 L2)",
+    "company": "Soffit Infrastructure Services (P) Ltd",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-analyst-security-analyst-%E2%80%93-l2-at-soffit-infrastructure-services-p-ltd-4460343876",
+    "reason": "stale LinkedIn listing: 46 days old"
+  },
+  {
+    "title": "Intrusion Analyst III",
+    "company": "Walmart Global Tech India",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/intrusion-analyst-iii-at-walmart-global-tech-india-4475240828",
+    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\biii\\b"
+  },
+  {
+    "title": "Security Analyst I",
+    "company": "Fortuna Cysec",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/security-analyst-i-at-fortuna-cysec-4439306966",
+    "reason": "stale LinkedIn listing: 95 days old"
+  },
+  {
+    "title": "Cyber Security Analyst",
+    "company": "ZEE - Technology & Innovation",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-zee-technology-innovation-4419852821",
+    "reason": "stale LinkedIn listing: 139 days old"
+  },
+  {
+    "title": "SOC ANALYST",
+    "company": "Value Point Systems Pvt Ltd",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4451136361",
+    "reason": "stale LinkedIn listing: 64 days old"
+  },
+  {
+    "title": "SOC ANALYST",
+    "company": "Value Point Systems Pvt Ltd",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4375356251",
+    "reason": "stale LinkedIn listing: 207 days old"
+  },
+  {
+    "title": "Engineer I - Cyber Incident Response",
+    "company": "Cencora",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/engineer-i-cyber-incident-response-at-cencora-4454106600",
+    "reason": "stale LinkedIn listing: 48 days old"
+  },
+  {
+    "title": "Junior Endpoint Security Analyst",
+    "company": "Pineswift Technologies",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/junior-endpoint-security-analyst-at-pineswift-technologies-4449491353",
+    "reason": "stale LinkedIn listing: 69 days old"
+  },
+  {
+    "title": "Cyber Security Associate",
+    "company": "BrightLine Management Solutions",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-associate-at-brightline-management-solutions-4448996863",
+    "reason": "stale LinkedIn listing: 69 days old"
+  },
+  {
+    "title": "Junior Security Analyst \u2013 WAF & HA Load Balancing",
+    "company": "Pineswift Technologies",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/junior-security-analyst-%E2%80%93-waf-ha-load-balancing-at-pineswift-technologies-4449482548",
+    "reason": "stale LinkedIn listing: 69 days old"
+  },
+  {
+    "title": "/r/netsec's Q3 2026 Information Security Hiring Thread",
+    "company": "Reddit netsec hiring",
+    "source": "rss",
+    "url": "https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/",
+    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
+  },
+  {
+    "title": "/r/netsec's Q1 2026 Information Security Hiring Thread",
+    "company": "Reddit netsec hiring",
+    "source": "rss",
+    "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/",
+    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
+  },
+  {
+    "title": "/r/netsec's Q4 2025 Information Security Hiring Thread",
+    "company": "Reddit netsec hiring",
+    "source": "rss",
+    "url": "https://www.reddit.com/r/netsec/comments/1omlc64/rnetsecs_q4_2025_information_security_hiring/",
+    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
+  },
+  {
+    "title": "/r/netsec's Q3 2025 Information Security Hiring Thread",
+    "company": "Reddit netsec hiring",
+    "source": "rss",
+    "url": "https://www.reddit.com/r/netsec/comments/1lq51ry/rnetsecs_q3_2025_information_security_hiring/",
+    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
+  },
+  {
+    "title": "/r/netsec's Q2 2025 Information Security Hiring Thread",
+    "company": "Reddit netsec hiring",
+    "source": "rss",
+    "url": "https://www.reddit.com/r/netsec/comments/1jp3y90/rnetsecs_q2_2025_information_security_hiring/",
+    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
+  },
+  {
+    "title": "/r/netsec's Q1 2025 Information Security Hiring Thread",
+    "company": "Reddit netsec hiring",
+    "source": "rss",
+    "url": "https://www.reddit.com/r/netsec/comments/1hrdco6/rnetsecs_q1_2025_information_security_hiring/",
+    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
+  },
+  {
+    "title": "/r/netsec's Q4 2024 Information Security Hiring Thread",
+    "company": "Reddit netsec hiring",
+    "source": "rss",
+    "url": "https://www.reddit.com/r/netsec/comments/1fvayj6/rnetsecs_q4_2024_information_security_hiring/",
+    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
+  },
+  {
+    "title": "/r/netsec's Q3 2024 Information Security Hiring Thread",
+    "company": "Reddit netsec hiring",
+    "source": "rss",
+    "url": "https://www.reddit.com/r/netsec/comments/1e73qnf/rnetsecs_q3_2024_information_security_hiring/",
+    "reason": "blocked URL pattern: reddit\\.com/r/\\w+/comments/.*hiring"
   }
 ]
