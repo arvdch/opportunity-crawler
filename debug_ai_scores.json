@@ -1,18 +1,18 @@
 [
   {
+    "title": "Data Analyst Project Intern (Training & Quality) - 2026 Start (BS/MS)",
+    "company": "ByteDance",
+    "source": "linkedin",
+    "score": 1,
+    "reason": "Non-cybersecurity role mismatch",
+    "passed": false
+  },
+  {
     "title": "AVP - Security Operations (SOC) - Global Information Security",
     "company": "Jefferies",
     "source": "linkedin",
     "score": 2,
-    "reason": "Senior role, overqualified",
-    "passed": false
-  },
-  {
-    "title": "Security Analyst Experienced",
-    "company": "Ventra Health",
-    "source": "linkedin",
-    "score": 2,
-    "reason": "Requires experienced security analyst",
+    "reason": "Senior role, not entry-level",
     "passed": false
   },
   {
@@ -20,23 +20,63 @@
     "company": "SRM Technologies",
     "source": "linkedin",
     "score": 3,
-    "reason": "Title indicates mid-level position",
+    "reason": "Mid-level title mismatch",
+    "passed": false
+  },
+  {
+    "title": "Product Analyst Intern",
+    "company": "Bureau",
+    "source": "linkedin",
+    "score": 3,
+    "reason": "Product analyst non-cybersecurity disqualifies candidate",
+    "passed": false
+  },
+  {
+    "title": "Mid SOC Analyst",
+    "company": "Wrike",
+    "source": "linkedin",
+    "score": 3,
+    "reason": "Mid-level role, 3+ years required",
+    "passed": false
+  },
+  {
+    "title": "Security Analyst Experienced",
+    "company": "Ventra Health",
+    "source": "linkedin",
+    "score": 3,
+    "reason": "Requires 3+ years experience, disqualifies",
+    "passed": false
+  },
+  {
+    "title": "Cyber Threat Management Analyst, Specialist- Secure AI Enablement ESF",
+    "company": "Vanguard",
+    "source": "linkedin",
+    "score": 3,
+    "reason": "Requires 3+ years experience",
     "passed": false
   },
   {
     "title": "Cyber Security Analyst",
-    "company": "ESDS Software Solution Limited",
+    "company": "",
     "source": "linkedin",
     "score": 6,
-    "reason": "Insufficient info to qualify",
+    "reason": "No entry-level info provided",
     "passed": false
   },
   {
-    "title": "Cyber Security Analyst",
-    "company": "JAGGAER",
+    "title": "Security Operations Center Analyst",
+    "company": "Brace Infotech Private Limited",
     "source": "linkedin",
     "score": 6,
-    "reason": "No entry-level keyword",
+    "reason": "Missing entry-level keyword",
+    "passed": false
+  },
+  {
+    "title": "Analyst, HPA Monitoring Analyst, Information Security (L9)",
+    "company": "Synchrony",
+    "source": "linkedin",
+    "score": 6,
+    "reason": "Not entry-level position",
     "passed": false
   },
   {
@@ -44,15 +84,7 @@
     "company": "Volvo Group",
     "source": "linkedin",
     "score": 6,
-    "reason": "Not entry-level",
-    "passed": false
-  },
-  {
-    "title": "Data Analyst Project Intern (Training & Quality) - 2026 Start (BS/MS)",
-    "company": "ByteDance",
-    "source": "linkedin",
-    "score": 6,
-    "reason": "Non-cybersecurity role",
+    "reason": "Potential experience gap",
     "passed": false
   },
   {
@@ -60,15 +92,7 @@
     "company": "Beyond Key",
     "source": "linkedin",
     "score": 6,
-    "reason": "Video analyst mismatch",
-    "passed": false
-  },
-  {
-    "title": "Product Analyst Intern",
-    "company": "Bureau",
-    "source": "linkedin",
-    "score": 6,
-    "reason": "Domain mismatch, not cybersecurity",
+    "reason": "domain mismatch",
     "passed": false
   },
   {
@@ -76,63 +100,55 @@
     "company": "ThoughtSpot",
     "source": "linkedin",
     "score": 6,
-    "reason": "Position requires senior-level experience",
+    "reason": "Insufficient role clarity",
     "passed": false
   },
   {
-    "title": "Cyber Security Incident Analyst - VOIS",
-    "company": "VOIS",
+    "title": "Information Security GRC Analyst",
+    "company": "UPS",
     "source": "linkedin",
     "score": 6,
-    "reason": "Missing entry-level indicator",
+    "reason": "No entry-level indicator present listing.",
     "passed": false
   },
   {
-    "title": "Information Security Analyst",
-    "company": "Banyan Cloud",
+    "title": "Data Loss Prevention (DLP) Analyst",
+    "company": "Mizuho",
     "source": "linkedin",
     "score": 6,
-    "reason": "No entry-level keyword",
+    "reason": "Entry-level status unclear, uncertain",
     "passed": false
   },
   {
-    "title": "Security Analyst - Web",
-    "company": "ValueMentor",
+    "title": "Product Specialist - Cyber Threat Takedown Operations",
+    "company": "CloudSEK",
     "source": "linkedin",
     "score": 6,
-    "reason": "Entry-level status unclear, borderline",
-    "passed": false
-  },
-  {
-    "title": "Security Specialist-Endpoint Security",
-    "company": "IBM",
-    "source": "linkedin",
-    "score": 6,
-    "reason": "unclear entry-level fit",
-    "passed": false
-  },
-  {
-    "title": "Security Monitoring Analyst",
-    "company": "TM Systems",
-    "source": "linkedin",
-    "score": 6,
-    "reason": "No entry-level indicator found",
-    "passed": false
-  },
-  {
-    "title": "Mid SOC Analyst",
-    "company": "Wrike",
-    "source": "linkedin",
-    "score": 6,
-    "reason": "Mid-level title",
+    "reason": "Not entry-level role",
     "passed": false
   },
   {
     "title": "Security Analyst",
-    "company": "Ventra Health",
+    "company": "Virtual Clone",
     "source": "linkedin",
     "score": 6,
-    "reason": "Not entry-level",
+    "reason": "No entry-level keyword present",
+    "passed": false
+  },
+  {
+    "title": "Security Specialist",
+    "company": "Cognizant",
+    "source": "linkedin",
+    "score": 6,
+    "reason": "Insufficient qualification info",
+    "passed": false
+  },
+  {
+    "title": "Analyst, HPA Monitoring Analyst, Information Security (L9)",
+    "company": "Synchrony",
+    "source": "linkedin",
+    "score": 6,
+    "reason": "Not entry-level role",
     "passed": false
   },
   {
@@ -140,31 +156,15 @@
     "company": "Amadeus",
     "source": "linkedin",
     "score": 6,
-    "reason": "Potential experience mismatch",
+    "reason": "Likely requires more experience",
     "passed": false
   },
   {
     "title": "Cyber Threat Management Analyst, Specialist- Secure AI Enablement ESF",
-    "company": "Vanguard",
+    "company": "Vanguard India",
     "source": "linkedin",
     "score": 6,
-    "reason": "Likely senior position",
-    "passed": false
-  },
-  {
-    "title": "Analyst, HPA Monitoring Analyst, Information Security (L9)",
-    "company": "Synchrony",
-    "source": "linkedin",
-    "score": 6,
-    "reason": "Senior role unclear, not fit",
-    "passed": false
-  },
-  {
-    "title": "Analyst, HPA Monitoring Analyst, Information Security (L9)",
-    "company": "Synchrony",
-    "source": "linkedin",
-    "score": 6,
-    "reason": "Role not entry-level position",
+    "reason": "Unclear entry-level requirement",
     "passed": false
   },
   {
@@ -172,79 +172,87 @@
     "company": "Catalyst Brands India",
     "source": "linkedin",
     "score": 6,
-    "reason": "Not entry-level role",
+    "reason": "Analyst 2 not entry-level role",
     "passed": false
+  },
+  {
+    "title": "Managed Services Information Security Analyst",
+    "company": "NTT DATA, Inc.",
+    "source": "linkedin",
+    "score": 7,
+    "reason": "Entry-level fit",
+    "passed": true
+  },
+  {
+    "title": "Analyst-Cyber Security (GRC) \u2013 Mumbai",
+    "company": "BDO India",
+    "source": "linkedin",
+    "score": 7,
+    "reason": "Limited GRC experience",
+    "passed": true
+  },
+  {
+    "title": "Associate, Security Operations Centre",
+    "company": "MassMutual India",
+    "source": "linkedin",
+    "score": 7,
+    "reason": "Entry-level SOC fit",
+    "passed": true
+  },
+  {
+    "title": "Security Operations Analyst",
+    "company": "Comscore, Inc.",
+    "source": "linkedin",
+    "score": 7,
+    "reason": "Entry-level role suitable fit",
+    "passed": true
+  },
+  {
+    "title": "Information Security GRC Analyst",
+    "company": "UPS",
+    "source": "linkedin",
+    "score": 7,
+    "reason": "Entry-level, partial GRC alignment role",
+    "passed": true
+  },
+  {
+    "title": "Analyst - Vulnerability Management, Qualys VMDR/Wiz/Aqua",
+    "company": "Northern Trust",
+    "source": "linkedin",
+    "score": 7,
+    "reason": "VAPT experience, entry-level",
+    "passed": true
+  },
+  {
+    "title": "Security Specialist-Endpoint Security",
+    "company": "IBM",
+    "source": "linkedin",
+    "score": 7,
+    "reason": "Entry-level relevant experience",
+    "passed": true
+  },
+  {
+    "title": "Analyst, HPA Monitoring Analyst, Information Security (L9)",
+    "company": "Synchrony",
+    "source": "linkedin",
+    "score": 7,
+    "reason": "Entry-level analyst, India-based role",
+    "passed": true
+  },
+  {
+    "title": "APCSIP-2026 | Amroha Police Cyber Security Internship Program - GitHub",
+    "company": "Web Search",
+    "source": "google_news",
+    "score": 8,
+    "reason": "Excellent fit for internship role",
+    "passed": true
   },
   {
     "title": "Cyber Security Internship in India 2026: How to Get One",
     "company": "Web Search",
     "source": "google_news",
-    "score": 7,
-    "reason": "generic internship guide",
-    "passed": true
-  },
-  {
-    "title": "CYBER SECURITY ANALYST L1",
-    "company": "Wipro",
-    "source": "linkedin",
-    "score": 7,
-    "reason": "Entry-level fit, SOC role",
-    "passed": true
-  },
-  {
-    "title": "Information Security Trainee",
-    "company": "Monotype",
-    "source": "linkedin",
-    "score": 7,
-    "reason": "Entry-level cybersecurity fit",
-    "passed": true
-  },
-  {
-    "title": "Information Security GRC Analyst",
-    "company": "UPS",
-    "source": "linkedin",
-    "score": 7,
-    "reason": "Good fit, minor mismatch",
-    "passed": true
-  },
-  {
-    "title": "Information Security GRC Analyst",
-    "company": "UPS",
-    "source": "linkedin",
-    "score": 7,
-    "reason": "Entry-level SOC experience fits",
-    "passed": true
-  },
-  {
-    "title": "Security Analyst, gTech Risk Solutions",
-    "company": "Google",
-    "source": "linkedin",
-    "score": 7,
-    "reason": "good entry-level fit",
-    "passed": true
-  },
-  {
-    "title": "Cyber Security Intern (Remote)",
-    "company": "MediNex Workforce",
-    "source": "linkedin",
     "score": 8,
-    "reason": "Strong SOC fit",
-    "passed": true
-  },
-  {
-    "title": "CYBER SECURITY INTERN",
-    "company": "Devryxa",
-    "source": "linkedin",
-    "score": 8,
-    "reason": "Strong SOC fit",
-    "passed": true
-  },
-  {
-    "title": "Cloud Security Intern",
-    "company": "eSec Forte\u00ae Technologies",
-    "source": "linkedin",
-    "score": 8,
-    "reason": "Strong relevant experience, good fit",
+    "reason": "Guide, not specific role",
     "passed": true
   },
   {
@@ -252,7 +260,7 @@
     "company": "Alliant Cybersecurity",
     "source": "linkedin",
     "score": 8,
-    "reason": "Strong SOC fit",
+    "reason": "Entry-level SOC analyst fit",
     "passed": true
   },
   {
@@ -260,15 +268,7 @@
     "company": "FIS",
     "source": "linkedin",
     "score": 8,
-    "reason": "Strong SOC & VAPT fit",
-    "passed": true
-  },
-  {
-    "title": "Security Operations Center Analyst",
-    "company": "SHI Solutions India Pvt. Ltd.",
-    "source": "linkedin",
-    "score": 8,
-    "reason": "Strong SOC skill match",
+    "reason": "Good fit, minor gaps",
     "passed": true
   },
   {
@@ -280,19 +280,11 @@
     "passed": true
   },
   {
-    "title": "SOC Internship",
-    "company": "Secure Network Solutions India Private Limited",
+    "title": "Cyber Security Analyst",
+    "company": "JAGGAER",
     "source": "linkedin",
     "score": 8,
-    "reason": "Strong SOC fit",
-    "passed": true
-  },
-  {
-    "title": "Security Operations Center Analyst",
-    "company": "Brace Infotech Private Limited",
-    "source": "linkedin",
-    "score": 8,
-    "reason": "Strong SOC relevant experience",
+    "reason": "Strong fit for entry-level position",
     "passed": true
   },
   {
@@ -300,7 +292,7 @@
     "company": "NTT DATA, Inc.",
     "source": "linkedin",
     "score": 8,
-    "reason": "Strong SOC detection background",
+    "reason": "Strong SOC and VAPT fit",
     "passed": true
   },
   {
@@ -308,15 +300,7 @@
     "company": "ZS",
     "source": "linkedin",
     "score": 8,
-    "reason": "Relevant skills, strong entry-level fit",
-    "passed": true
-  },
-  {
-    "title": "Analyst-Cyber Security (GRC) \u2013 Mumbai",
-    "company": "BDO India",
-    "source": "linkedin",
-    "score": 8,
-    "reason": "Entry-level SOC GRC fit strong",
+    "reason": "strong entry-level match",
     "passed": true
   },
   {
@@ -324,7 +308,7 @@
     "company": "nVent",
     "source": "linkedin",
     "score": 8,
-    "reason": "Strong relevant experience, good fit",
+    "reason": "Strong SOC and VAPT skills",
     "passed": true
   },
   {
@@ -332,7 +316,7 @@
     "company": "Foresee Security",
     "source": "linkedin",
     "score": 8,
-    "reason": "Relevant SOC and VAPT experience",
+    "reason": "Strong cybersecurity fit",
     "passed": true
   },
   {
@@ -340,7 +324,15 @@
     "company": "Sprinto",
     "source": "linkedin",
     "score": 8,
-    "reason": "Strong fit, slight compliance gap",
+    "reason": "Good fit, minor mismatch",
+    "passed": true
+  },
+  {
+    "title": "Cyber Triage And Forensic Junior Analyst",
+    "company": "EY",
+    "source": "linkedin",
+    "score": 8,
+    "reason": "Strong SOC and forensics fit",
     "passed": true
   },
   {
@@ -348,23 +340,39 @@
     "company": "Mantle Solutions",
     "source": "linkedin",
     "score": 8,
-    "reason": "Strong SOC fit, good experience",
+    "reason": "Strong SOC fit",
     "passed": true
   },
   {
-    "title": "Associate - Security Operations (SOC) - Global Information Security",
-    "company": "Jefferies",
+    "title": "IT Cyber Defense Analyst",
+    "company": "Veradigm\u00ae",
     "source": "linkedin",
     "score": 8,
-    "reason": "Entry-level SOC role",
+    "reason": "strong SOC fit",
+    "passed": true
+  },
+  {
+    "title": "Security Analyst",
+    "company": "Bahwan CyberTek",
+    "source": "linkedin",
+    "score": 8,
+    "reason": "Strong match, entry-level",
+    "passed": true
+  },
+  {
+    "title": "Security Analyst",
+    "company": "Arrise Solutions (India) Pvt. Ltd.",
+    "source": "linkedin",
+    "score": 8,
+    "reason": "Strong SOC and VAPT fit",
     "passed": true
   },
   {
     "title": "Security Operations Analyst",
-    "company": "Comscore, Inc.",
+    "company": "Nasuni",
     "source": "linkedin",
     "score": 8,
-    "reason": "SOC role entry-level fit",
+    "reason": "Strong SOC fit",
     "passed": true
   },
   {
@@ -372,87 +380,71 @@
     "company": "pharma&",
     "source": "linkedin",
     "score": 8,
-    "reason": "SOC analyst entry-level fit",
+    "reason": "Microsoft Defender & SOC fit",
     "passed": true
   },
   {
-    "title": "Data Loss Prevention (DLP) Analyst",
-    "company": "Mizuho",
+    "title": "Cyber Security Incident Analyst - VOIS",
+    "company": "VOIS",
     "source": "linkedin",
     "score": 8,
-    "reason": "Relevant skills, strong fit",
+    "reason": "Entry-level SOC role",
     "passed": true
   },
   {
-    "title": "Product Specialist - Cyber Threat Takedown Operations",
-    "company": "CloudSEK",
+    "title": "Information Security Analyst",
+    "company": "Pico",
     "source": "linkedin",
     "score": 8,
-    "reason": "Strong entry-level fit",
+    "reason": "Strong SOC and VAPT match",
     "passed": true
   },
   {
-    "title": "Security Analyst",
-    "company": "Virtual Clone",
-    "source": "linkedin",
-    "score": 8,
-    "reason": "Entry-level SOC analyst fit",
-    "passed": true
-  },
-  {
-    "title": "Risk Intelligence Operations Analyst",
-    "company": "Optum India",
-    "source": "linkedin",
-    "score": 8,
-    "reason": "strong SOC fit",
-    "passed": true
-  },
-  {
-    "title": "Analyst - Vulnerability Management, Qualys VMDR/Wiz/Aqua",
-    "company": "Northern Trust",
-    "source": "linkedin",
-    "score": 8,
-    "reason": "VAPT experience, SOC lab",
-    "passed": true
-  },
-  {
-    "title": "Vulnerability Analyst, Qualys/Wiz/AquaSec",
-    "company": "Northern Trust",
-    "source": "linkedin",
-    "score": 8,
-    "reason": "Strong fit for vulnerability role",
-    "passed": true
-  },
-  {
-    "title": "IT Security Analyst - India",
-    "company": "Appen",
-    "source": "linkedin",
-    "score": 8,
-    "reason": "Entry-level SOC analyst role ideal",
-    "passed": true
-  },
-  {
-    "title": "Security Specialist",
-    "company": "Cognizant",
-    "source": "linkedin",
-    "score": 8,
-    "reason": "Good fit, entry-level role",
-    "passed": true
-  },
-  {
-    "title": "Security Operation Centre",
-    "company": "BDO India",
+    "title": "Information Security Analyst",
+    "company": "Banyan Cloud",
     "source": "linkedin",
     "score": 8,
     "reason": "Strong SOC fit",
     "passed": true
   },
   {
-    "title": "SOC Analyst",
-    "company": "BitGo",
+    "title": "Assistant Security Analyst",
+    "company": "Vendavo",
     "source": "linkedin",
     "score": 8,
-    "reason": "Strong SOC skill match",
+    "reason": "Strong SOC detection fit",
+    "passed": true
+  },
+  {
+    "title": "Associate Threat Response Analyst",
+    "company": "Mimecast",
+    "source": "linkedin",
+    "score": 8,
+    "reason": "Strong SOC fit",
+    "passed": true
+  },
+  {
+    "title": "Associate Threat Response Analyst-3",
+    "company": "Mimecast",
+    "source": "linkedin",
+    "score": 8,
+    "reason": "Strong SOC detection fit candidate",
+    "passed": true
+  },
+  {
+    "title": "Security Analyst - Web",
+    "company": "ValueMentor",
+    "source": "linkedin",
+    "score": 8,
+    "reason": "Strong web VAPT fit",
+    "passed": true
+  },
+  {
+    "title": "Junior Consultant \u2013 Vulnerability Assessment, Penetration Testing & Red Teaming",
+    "company": "Clearwater",
+    "source": "linkedin",
+    "score": 8,
+    "reason": "Good fit, entry-level opportunity",
     "passed": true
   },
   {
@@ -464,19 +456,35 @@
     "passed": true
   },
   {
-    "title": "Cyber Threat Management Analyst, Specialist- Secure AI Enablement ESF",
-    "company": "Vanguard India",
+    "title": "SOC Analyst",
+    "company": "Waystone",
     "source": "linkedin",
     "score": 8,
-    "reason": "Strong SOC fit, entry-level candidate",
+    "reason": "Strong SOC relevant experience",
     "passed": true
   },
   {
-    "title": "APCSIP-2026 | Amroha Police Cyber Security Internship Program - GitHub",
+    "title": "Security Analyst",
+    "company": "Ventra Health",
+    "source": "linkedin",
+    "score": 8,
+    "reason": "Strong fit for entry-level role",
+    "passed": true
+  },
+  {
+    "title": "Security Analyst, gTech Risk Solutions",
+    "company": "Google",
+    "source": "linkedin",
+    "score": 8,
+    "reason": "strong fit",
+    "passed": true
+  },
+  {
+    "title": "Amroha Police Cyber Security Internship Program 2026 (APCSIP-2026) | UP ...",
     "company": "Web Search",
     "source": "google_news",
     "score": 9,
-    "reason": "Strong fit for SOC internship",
+    "reason": "Strong relevant experience",
     "passed": true
   },
   {
@@ -484,15 +492,31 @@
     "company": "TECEZE",
     "source": "linkedin",
     "score": 9,
-    "reason": "Excellent SOC and VAPT skills",
+    "reason": "Strong SOC & VAPT fit",
     "passed": true
   },
   {
-    "title": "JUN41DS2709/APCSIP-2026-UP-Police-Cyber-Security-Internship - GitHub",
+    "title": "PDFInternship Scheme at Nicsi",
     "company": "Web Search",
     "source": "google_news",
     "score": 9,
-    "reason": "Strong match, relevant experience",
+    "reason": "Ideal govt cybersecurity intern",
+    "passed": true
+  },
+  {
+    "title": "Cyber Security Intern",
+    "company": "internmo",
+    "source": "linkedin",
+    "score": 9,
+    "reason": "Strong SOC, VAPT, SIEM skills",
+    "passed": true
+  },
+  {
+    "title": "Cyber Security Intern (Remote)",
+    "company": "MediNex Workforce",
+    "source": "linkedin",
+    "score": 9,
+    "reason": "Strong SOC and VAPT fit",
     "passed": true
   },
   {
@@ -500,7 +524,23 @@
     "company": "WebBoost Solutions by UM",
     "source": "linkedin",
     "score": 9,
-    "reason": "Strong relevant experience and skills",
+    "reason": "Strong SOC & VAPT fit",
+    "passed": true
+  },
+  {
+    "title": "CYBER SECURITY INTERN",
+    "company": "Webs IT Solution",
+    "source": "linkedin",
+    "score": 9,
+    "reason": "Strong relevant experience, good fit",
+    "passed": true
+  },
+  {
+    "title": "Cloud Security Intern",
+    "company": "eSec Forte\u00ae Technologies",
+    "source": "linkedin",
+    "score": 9,
+    "reason": "Strong SOC/cloud fit",
     "passed": true
   },
   {
@@ -508,7 +548,15 @@
     "company": "Avnet",
     "source": "linkedin",
     "score": 9,
-    "reason": "Strong SOC fit",
+    "reason": "Strong SOC detection fit",
+    "passed": true
+  },
+  {
+    "title": "Cyber Security Analyst",
+    "company": "ESDS Software Solution Limited",
+    "source": "linkedin",
+    "score": 9,
+    "reason": "Strong SOC/detection alignment",
     "passed": true
   },
   {
@@ -516,7 +564,15 @@
     "company": "Wipro",
     "source": "linkedin",
     "score": 9,
-    "reason": "Strong relevant experience, good fit",
+    "reason": "Strong SOC fit, good experience",
+    "passed": true
+  },
+  {
+    "title": "CYBER SECURITY ANALYST L1",
+    "company": "Wipro",
+    "source": "linkedin",
+    "score": 9,
+    "reason": "Strong SOC and VAPT fit",
     "passed": true
   },
   {
@@ -524,7 +580,15 @@
     "company": "Visa",
     "source": "linkedin",
     "score": 9,
-    "reason": "Strong SOC and VAPT fit",
+    "reason": "Strong SOC fit",
+    "passed": true
+  },
+  {
+    "title": "Security Operations Center Analyst",
+    "company": "SHI Solutions India Pvt. Ltd.",
+    "source": "linkedin",
+    "score": 9,
+    "reason": "Strong SOC fit, relevant skills",
     "passed": true
   },
   {
@@ -532,7 +596,15 @@
     "company": "CDAC",
     "source": "govt_portals",
     "score": 9,
-    "reason": "Strong fit for internship",
+    "reason": "Govt internship, perfect fit opportunity",
+    "passed": true
+  },
+  {
+    "title": "SOC Internship",
+    "company": "Secure Network Solutions India Private Limited",
+    "source": "linkedin",
+    "score": 9,
+    "reason": "Strong SOC fit",
     "passed": true
   },
   {
@@ -540,7 +612,7 @@
     "company": "MediNex Workforce",
     "source": "linkedin",
     "score": 9,
-    "reason": "Strong VAPT and SOC experience",
+    "reason": "Strong SOC and VAPT fit",
     "passed": true
   },
   {
@@ -548,7 +620,7 @@
     "company": "Fam",
     "source": "linkedin",
     "score": 9,
-    "reason": "Strong SOC and VAPT fit",
+    "reason": "Strong SOC/VAPT fit",
     "passed": true
   },
   {
@@ -556,7 +628,7 @@
     "company": "Secure Network Solutions India Private Limited",
     "source": "linkedin",
     "score": 9,
-    "reason": "Strong relevant experience and skills",
+    "reason": "Strong SOC fit, relevant skills",
     "passed": true
   },
   {
@@ -564,7 +636,7 @@
     "company": "Setu",
     "source": "linkedin",
     "score": 9,
-    "reason": "Strong SOC fit",
+    "reason": "Strong SOC/VAPT alignment",
     "passed": true
   },
   {
@@ -572,7 +644,7 @@
     "company": "Secure Network Solutions India Private Limited",
     "source": "linkedin",
     "score": 9,
-    "reason": "strong relevant fit",
+    "reason": "Strong SOC fit",
     "passed": true
   },
   {
@@ -580,23 +652,7 @@
     "company": "Mimecast",
     "source": "linkedin",
     "score": 9,
-    "reason": "SOC, VAPT, SIEM expertise",
-    "passed": true
-  },
-  {
-    "title": "Managed Services Information Security Analyst",
-    "company": "NTT DATA, Inc.",
-    "source": "linkedin",
-    "score": 9,
-    "reason": "Strong SOC fit",
-    "passed": true
-  },
-  {
-    "title": "Cyber Security Analyst",
-    "company": "",
-    "source": "linkedin",
-    "score": 9,
-    "reason": "Strong relevant experience and skills",
+    "reason": "Strong SOC detection fit",
     "passed": true
   },
   {
@@ -604,7 +660,7 @@
     "company": "Global Payments Inc.",
     "source": "linkedin",
     "score": 9,
-    "reason": "Strong SOC fit",
+    "reason": "Strong SOC and VAPT skills",
     "passed": true
   },
   {
@@ -612,23 +668,7 @@
     "company": "Medpace",
     "source": "linkedin",
     "score": 9,
-    "reason": "Strong SOC fit, entry-level candidate",
-    "passed": true
-  },
-  {
-    "title": "Test Security Internship in Bangalore",
-    "company": "Talview",
-    "source": "linkedin",
-    "score": 9,
-    "reason": "Strong SOC & VAPT fit",
-    "passed": true
-  },
-  {
-    "title": "Cyber Triage And Forensic Junior Analyst",
-    "company": "EY",
-    "source": "linkedin",
-    "score": 9,
-    "reason": "Strong SOC/forensics match",
+    "reason": "Strong SOC fit",
     "passed": true
   },
   {
@@ -636,7 +676,7 @@
     "company": "NTT DATA, Inc.",
     "source": "linkedin",
     "score": 9,
-    "reason": "Strong SOC detection fit",
+    "reason": "Strong SOC and VAPT fit",
     "passed": true
   },
   {
@@ -648,8 +688,8 @@
     "passed": true
   },
   {
-    "title": "IT Cyber Defense Analyst",
-    "company": "Veradigm\u00ae",
+    "title": "Associate - Security Operations (SOC) - Global Information Security",
+    "company": "Jefferies",
     "source": "linkedin",
     "score": 9,
     "reason": "Strong SOC fit",
@@ -664,38 +704,6 @@
     "passed": true
   },
   {
-    "title": "Associate, Security Operations Centre",
-    "company": "MassMutual India",
-    "source": "linkedin",
-    "score": 9,
-    "reason": "Strong SOC fit, entry-level candidate",
-    "passed": true
-  },
-  {
-    "title": "Security Analyst",
-    "company": "Bahwan CyberTek",
-    "source": "linkedin",
-    "score": 9,
-    "reason": "Strong SOC/detection fit",
-    "passed": true
-  },
-  {
-    "title": "Security Analyst",
-    "company": "Arrise Solutions (India) Pvt. Ltd.",
-    "source": "linkedin",
-    "score": 9,
-    "reason": "Strong relevant experience, good fit",
-    "passed": true
-  },
-  {
-    "title": "Security Operations Analyst",
-    "company": "Nasuni",
-    "source": "linkedin",
-    "score": 9,
-    "reason": "Strong SOC fit",
-    "passed": true
-  },
-  {
     "title": "SOC Analyst \u2014 Security Operations",
     "company": "Revantage, A Blackstone Portfolio Company",
     "source": "linkedin",
@@ -704,51 +712,19 @@
     "passed": true
   },
   {
-    "title": "Information Security Analyst",
-    "company": "Pico",
-    "source": "linkedin",
-    "score": 9,
-    "reason": "Strong SOC detection fit",
-    "passed": true
-  },
-  {
-    "title": "Assistant Security Analyst",
-    "company": "Vendavo",
-    "source": "linkedin",
-    "score": 9,
-    "reason": "Strong SOC and detection fit",
-    "passed": true
-  },
-  {
-    "title": "Associate Threat Response Analyst",
-    "company": "Mimecast",
-    "source": "linkedin",
-    "score": 9,
-    "reason": "Strong SOC fit",
-    "passed": true
-  },
-  {
-    "title": "Associate Threat Response Analyst-3",
-    "company": "Mimecast",
-    "source": "linkedin",
-    "score": 9,
-    "reason": "Strong SOC detection fit",
-    "passed": true
-  },
-  {
-    "title": "SOC L1",
-    "company": "SISA",
-    "source": "linkedin",
-    "score": 9,
-    "reason": "Strong SOC and VAPT skills",
-    "passed": true
-  },
-  {
     "title": "Security Analyst - L1",
     "company": "Noventiq India",
     "source": "linkedin",
     "score": 9,
-    "reason": "Strong SOC and VAPT fit",
+    "reason": "Strong SOC fit, relevant skills",
+    "passed": true
+  },
+  {
+    "title": "Forensic Analyst",
+    "company": "Kelenix Technologies LLP",
+    "source": "linkedin",
+    "score": 9,
+    "reason": "Strong forensic fit",
     "passed": true
   },
   {
@@ -756,7 +732,15 @@
     "company": "Datavail",
     "source": "linkedin",
     "score": 9,
-    "reason": "Strong alignment, entry-level perfect fit",
+    "reason": "Strong alignment, entry-level role fit",
+    "passed": true
+  },
+  {
+    "title": "Risk Intelligence Operations Analyst",
+    "company": "Optum India",
+    "source": "linkedin",
+    "score": 9,
+    "reason": "Strong SOC fit",
     "passed": true
   },
   {
@@ -764,15 +748,23 @@
     "company": "SHI Solutions India Pvt. Ltd.",
     "source": "linkedin",
     "score": 9,
-    "reason": "Strong SOC and VAPT fit",
+    "reason": "Strong SOC and VAPT match",
     "passed": true
   },
   {
-    "title": "Junior Consultant \u2013 Vulnerability Assessment, Penetration Testing & Red Teaming",
-    "company": "Clearwater",
+    "title": "Vulnerability Analyst, Qualys/Wiz/AquaSec",
+    "company": "Northern Trust",
     "source": "linkedin",
     "score": 9,
-    "reason": "Strong VAPT and SOC fit",
+    "reason": "Strong VAPT & SOC fit",
+    "passed": true
+  },
+  {
+    "title": "Security Monitoring Analyst",
+    "company": "TM Systems",
+    "source": "linkedin",
+    "score": 9,
+    "reason": "Strong SOC fit",
     "passed": true
   },
   {
@@ -788,15 +780,23 @@
     "company": "Bravura Solutions",
     "source": "linkedin",
     "score": 9,
-    "reason": "Strong SOC fit",
+    "reason": "Strong SOC skill match",
     "passed": true
   },
   {
-    "title": "SOC Analyst (L1.5)",
-    "company": "Zensar Technologies",
+    "title": "Security Operation Centre",
+    "company": "BDO India",
     "source": "linkedin",
     "score": 9,
-    "reason": "Excellent SOC analyst potential, highly",
+    "reason": "Strong SOC fit, entry-level",
+    "passed": true
+  },
+  {
+    "title": "SOC Analyst",
+    "company": "BitGo",
+    "source": "linkedin",
+    "score": 9,
+    "reason": "Strong SOC fit",
     "passed": true
   },
   {
@@ -804,7 +804,7 @@
     "company": "MoonPay",
     "source": "linkedin",
     "score": 9,
-    "reason": "Strong SOC entry-level fit",
+    "reason": "Strong SOC detection fit",
     "passed": true
   },
   {
@@ -812,7 +812,7 @@
     "company": "UST",
     "source": "linkedin",
     "score": 9,
-    "reason": "Strong SOC, VAPT experience",
+    "reason": "Strong SOC fit, relevant skills",
     "passed": true
   },
   {
@@ -820,15 +820,23 @@
     "company": "AlifCloud IT Consulting Pvt. Ltd.",
     "source": "linkedin",
     "score": 9,
-    "reason": "Strong SOC fit, entry-level candidate",
+    "reason": "Strong SOC fit",
     "passed": true
   },
   {
-    "title": "SOC Analyst",
-    "company": "Waystone",
+    "title": "SOC L1",
+    "company": "SISA",
     "source": "linkedin",
     "score": 9,
-    "reason": "Strong SOC fit, entry-level",
+    "reason": "Strong relevant experience and skills",
+    "passed": true
+  },
+  {
+    "title": "Information Security Trainee",
+    "company": "Monotype",
+    "source": "linkedin",
+    "score": 10,
+    "reason": "Strong SOC fit, trainee role",
     "passed": true
   }
 ]
