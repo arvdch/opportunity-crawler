@@ -7,13 +7,6 @@
     "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
   },
   {
-    "title": "Cybersecurity Internship 2026 Jobs in India (109 Open Roles) - LinkedIn",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://in.linkedin.com/jobs/cybersecurity-internship-2026-jobs",
-    "reason": "blocked URL pattern: linkedin\\.com/jobs/.*internship.*jobs$"
-  },
-  {
     "title": "Cyber Security Internships 2026 \u2014 Apply Free",
     "company": "Web Search",
     "source": "google_news",
@@ -26,6 +19,13 @@
     "source": "google_news",
     "url": "https://cguru.co.in/cybersecurity-internships-in-india-2026/",
     "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
+  },
+  {
+    "title": "171 cybersecurity internship jobs in India, October 2026 | Glassdoor",
+    "company": "Web Search",
+    "source": "google_news",
+    "url": "https://www.glassdoor.co.in/Job/india-cybersecurity-internship-jobs-SRCH_IL.0,5_IN115_KO6,30.htm",
+    "reason": "blocked URL pattern: glassdoor\\.co\\.in/Job/.*internship"
   },
   {
     "title": "Amroha Police Cyber Security Internship Program 2026 (APCSIP-2026)",
@@ -49,108 +49,108 @@
     "reason": "blocked URL pattern: linkedin\\.com/posts/"
   },
   {
-    "title": "SpartHill Hacks 2026: IBM AI Challenge",
+    "title": "SUSTAIN-A-THON 2.0",
     "company": "DevPost",
     "source": "google_news",
-    "url": "https://sparthill-ibm-2026.devpost.com/",
+    "url": "https://sustain-a-thon-2-0-31534.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "Zero Human Company Hackathon at Whop HQ by Terac",
+    "title": "Trick or Build: Mel \u00d7 Prompt Anything \u00d7 AI Builders",
     "company": "DevPost",
     "source": "google_news",
-    "url": "https://zhch-nyc.devpost.com/",
+    "url": "https://trick-or-build.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "Deal Flow: NYC's First VC Hackathon @ Betaworks",
+    "title": "Learn to Hack: MATLAB Edition 2026",
     "company": "DevPost",
     "source": "google_news",
-    "url": "https://nyc-vc-hack.devpost.com/",
+    "url": "https://ntu-matlab-2026.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "Gear Up Hacks 2026",
+    "title": "Zoftware Hackathon",
     "company": "DevPost",
     "source": "google_news",
-    "url": "https://gear-up-hacks-2026.devpost.com/",
+    "url": "https://zoftware-agenthack.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "AI Builder Competition (Hackachusetts)",
+    "title": "Mergetober",
     "company": "DevPost",
     "source": "google_news",
-    "url": "https://a-hackachusetts.devpost.com/",
+    "url": "https://mergetober.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "Sierra Hacks 2026",
+    "title": "LarpHacks",
     "company": "DevPost",
     "source": "google_news",
-    "url": "https://sierra-hacks-2026.devpost.com/",
+    "url": "https://larphacks.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "SBUHacks 2026",
+    "title": "BDBI x SpaceXSI Grokathon",
     "company": "DevPost",
     "source": "google_news",
-    "url": "https://sbuhacks-2026.devpost.com/",
+    "url": "https://bdbi-x-spacexsi.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "HackOHI/O 2026",
+    "title": "FSB AI Build-a-thon Event 02",
     "company": "DevPost",
     "source": "google_news",
-    "url": "https://hackohio2026.devpost.com/",
+    "url": "https://fsb-ai-buildathon-02.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "DS+X Hackathon 2026",
+    "title": "Neural Storm",
     "company": "DevPost",
     "source": "google_news",
-    "url": "https://ds-x-hackathon-2026.devpost.com/",
+    "url": "https://neuralstorm.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "Cal Hacks 13.0",
+    "title": "Ostad Presents YUNet AIgnite Buildathon 2026",
     "company": "DevPost",
     "source": "google_news",
-    "url": "https://cal-hacks-13-0.devpost.com/",
+    "url": "https://yunet-aignite26.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "HowdyHack 2026",
+    "title": "Ship It: The Product Builders' Hackathon",
     "company": "DevPost",
     "source": "google_news",
-    "url": "https://hh26.devpost.com/",
+    "url": "https://ship-it-hackathon.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "UXperience: Waves of Becoming",
+    "title": "Asymmetric Reframed Reality Hackathon & Co-Creation Workshop",
     "company": "DevPost",
     "source": "google_news",
-    "url": "https://uxperience-waves-of-becoming.devpost.com/",
+    "url": "https://arr-hackathon-co-creation.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "GeauxHack 2026",
+    "title": "PowerHack",
     "company": "DevPost",
     "source": "google_news",
-    "url": "https://geauxhack-2026.devpost.com/",
+    "url": "https://powerhack.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "Marina Hacks 6.0",
+    "title": "Indy Init 2026",
     "company": "DevPost",
     "source": "google_news",
-    "url": "https://marina-hacks-6-0.devpost.com/",
+    "url": "https://indy-init-2026.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
-    "title": "HackPSU Fall 2026",
+    "title": "Redshifted Cortex - AI built by High Schoolers",
     "company": "DevPost",
     "source": "google_news",
-    "url": "https://hackpsu-fall-2026.devpost.com/",
+    "url": "https://redshifted-cortex.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
@@ -5229,18 +5229,32 @@
     "reason": "keyword-miss (score 0)"
   },
   {
+    "title": "Cyber Security Intern",
+    "company": "Future Interns",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-intern-at-future-interns-4481049512",
+    "reason": "suspicious company name: Future Interns"
+  },
+  {
     "title": "SMO ANALYST INTERNSHIP",
     "company": "AATMIA DIGITAL MARKETING AND SECURITY PRIVATE LIMITED",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/smo-analyst-internship-at-aatmia-digital-marketing-and-security-private-limited-4448588953",
-    "reason": "stale LinkedIn listing: 79 days old"
+    "reason": "stale LinkedIn listing: 80 days old"
   },
   {
     "title": "Junior Cloud Security Validation Engineer",
     "company": "Upwind Security",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/junior-cloud-security-validation-engineer-at-upwind-security-4460889886",
-    "reason": "stale LinkedIn listing: 54 days old"
+    "reason": "stale LinkedIn listing: 55 days old"
+  },
+  {
+    "title": "CYBER SECURITY ANALYST L3",
+    "company": "Wipro",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4475362198",
+    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
   },
   {
     "title": "CYBER SECURITY ANALYST L3",
@@ -5250,32 +5264,25 @@
     "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
   },
   {
-    "title": "CYBER SECURITY ANALYST L3",
-    "company": "Wipro",
+    "title": "SOC L1 Analyst",
+    "company": "Verint",
     "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4478090179",
-    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+    "url": "https://in.linkedin.com/jobs/view/soc-l1-analyst-at-verint-4405428319",
+    "reason": "stale LinkedIn listing: 185 days old"
   },
   {
     "title": "Cyber Security Analyst",
     "company": "Ashirvad by aliaxis",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-ashirvad-by-aliaxis-4431222291",
-    "reason": "stale LinkedIn listing: 122 days old"
+    "reason": "stale LinkedIn listing: 123 days old"
   },
   {
-    "title": "InfoSec Analyst-II",
-    "company": "Coherent Corp.",
+    "title": "SOC Analyst (Tier 2)",
+    "company": "aeroqube inc.",
     "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/infosec-analyst-ii-at-coherent-corp-4479853035",
-    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
-  },
-  {
-    "title": "Security Analyst",
-    "company": "Bahwan CyberTek",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/security-analyst-at-bahwan-cybertek-4462203635",
-    "reason": "stale LinkedIn listing: 46 days old"
+    "url": "https://in.linkedin.com/jobs/view/soc-analyst-tier-2-at-aeroqube-inc-4320533329",
+    "reason": "stale LinkedIn listing: 355 days old"
   },
   {
     "title": "Analyst II-Cyber Defense",
@@ -5299,18 +5306,39 @@
     "reason": "senior role: \\bl[23456]\\s+(soc|security|cyber|infosec)\\s+(analyst|engineer|specialist)\\b"
   },
   {
+    "title": "SOC Analyst ( Security  Analyst \u2013 L2)",
+    "company": "Soffit Infrastructure Services (P) Ltd",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-analyst-security-analyst-%E2%80%93-l2-at-soffit-infrastructure-services-p-ltd-4460343876",
+    "reason": "stale LinkedIn listing: 57 days old"
+  },
+  {
+    "title": "Security Analyst",
+    "company": "Bahwan CyberTek",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/security-analyst-at-bahwan-cybertek-4462203635",
+    "reason": "stale LinkedIn listing: 47 days old"
+  },
+  {
+    "title": "Security Operations Center (SOC) Analyst III",
+    "company": "The Standard India",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/security-operations-center-soc-analyst-iii-at-the-standard-india-4478454993",
+    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\biii\\b"
+  },
+  {
+    "title": "InfoSec Analyst-II",
+    "company": "Coherent Corp.",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/infosec-analyst-ii-at-coherent-corp-4479853035",
+    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
+  },
+  {
     "title": "Security Analyst I",
     "company": "Fortuna Cysec",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/security-analyst-i-at-fortuna-cysec-4439306966",
-    "reason": "stale LinkedIn listing: 105 days old"
-  },
-  {
-    "title": "SOC L1 Analyst",
-    "company": "Verint",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-l1-analyst-at-verint-4405428319",
-    "reason": "stale LinkedIn listing: 184 days old"
+    "reason": "stale LinkedIn listing: 106 days old"
   },
   {
     "title": "Security Analyst II, CrowdStrike Next-Gen SIEM",
@@ -5324,35 +5352,28 @@
     "company": "BrightLine Management Solutions",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/cyber-security-associate-at-brightline-management-solutions-4448996863",
-    "reason": "stale LinkedIn listing: 79 days old"
+    "reason": "stale LinkedIn listing: 80 days old"
   },
   {
     "title": "SOC ANALYST",
     "company": "Value Point Systems Pvt Ltd",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4451136361",
-    "reason": "stale LinkedIn listing: 74 days old"
+    "reason": "stale LinkedIn listing: 75 days old"
   },
   {
     "title": "SOC ANALYST",
     "company": "Value Point Systems Pvt Ltd",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4375356251",
-    "reason": "stale LinkedIn listing: 217 days old"
+    "reason": "stale LinkedIn listing: 218 days old"
   },
   {
     "title": "Engineer I - Cyber Incident Response",
     "company": "Cencora",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/engineer-i-cyber-incident-response-at-cencora-4454106600",
-    "reason": "stale LinkedIn listing: 58 days old"
-  },
-  {
-    "title": "Junior Endpoint Security Analyst",
-    "company": "Pineswift Technologies",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/junior-endpoint-security-analyst-at-pineswift-technologies-4449491353",
-    "reason": "stale LinkedIn listing: 79 days old"
+    "reason": "stale LinkedIn listing: 59 days old"
   },
   {
     "title": "CYBER SECURITY ANALYST L2",
@@ -5366,7 +5387,14 @@
     "company": "Pineswift Technologies",
     "source": "linkedin",
     "url": "https://in.linkedin.com/jobs/view/junior-security-analyst-%E2%80%93-waf-ha-load-balancing-at-pineswift-technologies-4449482548",
-    "reason": "stale LinkedIn listing: 79 days old"
+    "reason": "stale LinkedIn listing: 80 days old"
+  },
+  {
+    "title": "Junior Application Security Analyst",
+    "company": "Pineswift Technologies",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/junior-application-security-analyst-at-pineswift-technologies-4449484497",
+    "reason": "stale LinkedIn listing: 80 days old"
   },
   {
     "title": "Security Analyst II",
