@@ -1,65 +1,9 @@
 [
   {
-    "title": "Cybersecurity Internships in India 2026 \u2014 Apply Free",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://myinternships.in/internships/cybersecurity-internships",
-    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
-  },
-  {
-    "title": "Cybersecurity Internship 2026 Jobs in India (91 Open Roles) | LinkedIn",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://in.linkedin.com/jobs/cybersecurity-internship-2026-jobs",
-    "reason": "blocked URL pattern: linkedin\\.com/jobs/.*internship.*jobs$"
-  },
-  {
-    "title": "154 cybersecurity internship jobs in India, November 2026 | Glassdoor",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://www.glassdoor.co.in/Job/india-cybersecurity-internship-jobs-SRCH_IL.0,5_IN115_KO6,30.htm",
-    "reason": "blocked URL pattern: glassdoor\\.co\\.in/Job/.*internship"
-  },
-  {
-    "title": "Cyber Security Internships 2026 \u2014 Apply Free",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://myinternships.in/internships/cyber%20security",
-    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
-  },
-  {
-    "title": "Amroha Police Cyber Security Internship Program 2026 (APCSIP-2026)",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://cyberdeepakyadav.com/amroha-police-cyber-security-internship-2026",
-    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
-  },
-  {
-    "title": "Cyber Security Internship Program 2026 by Amroha Police (APCSIP-2026)",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://news.lawfoyer.in/cyber-security-internship-program-2026-by-amroha-police-apcsip-2026/",
-    "reason": "blocked URL pattern: (myinternships\\.in|skillwalaglobal\\.com|cguru\\.co\\.in|cyberdeepakyadav\\.com|news\\.lawfoyer\\.in|cyber-security\\.co\\.in)"
-  },
-  {
-    "title": "#apcsip_2026 #internship #internships #internshipopportunity - LinkedIn",
-    "company": "Web Search",
-    "source": "google_news",
-    "url": "https://www.linkedin.com/posts/cop-anjalikataria_apcsip2026-internship-internships-activity-7455892416764739584-hEPG",
-    "reason": "blocked URL pattern: linkedin\\.com/posts/"
-  },
-  {
-    "title": "Harvard Undergraduate OpenBio Laboratory Datathon",
+    "title": "RAMHACK Mini 2026",
     "company": "DevPost",
     "source": "google_news",
-    "url": "https://openbio-datathon.devpost.com/",
-    "reason": "keyword-miss (score 0)"
-  },
-  {
-    "title": "Bharat Builds Tour",
-    "company": "DevPost",
-    "source": "google_news",
-    "url": "https://bharat-builds-tour.devpost.com/",
+    "url": "https://ramhack-mini-2026.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
@@ -88,6 +32,13 @@
     "company": "DevPost",
     "source": "google_news",
     "url": "https://game-on-night.devpost.com/",
+    "reason": "keyword-miss (score 0)"
+  },
+  {
+    "title": "TUM XR Value Creation Hackathon 2026",
+    "company": "DevPost",
+    "source": "google_news",
+    "url": "https://tum-xr-hackathon-2026.devpost.com/",
     "reason": "keyword-miss (score 0)"
   },
   {
@@ -210,6 +161,13 @@
     "reason": "GitHub repos are writeups/portfolios, not open positions"
   },
   {
+    "title": "[GitHub] JUN41DS2709/APCSIP-2026-UP-Police-Cyber-Security-Internship",
+    "company": "JUN41DS2709",
+    "source": "github",
+    "url": "https://github.com/JUN41DS2709/APCSIP-2026-UP-Police-Cyber-Security-Internship",
+    "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
     "title": "[GitHub] hrs182/apcsip-2026-363-project",
     "company": "hrs182",
     "source": "github",
@@ -222,6 +180,202 @@
     "source": "github",
     "url": "https://github.com/Gurpreetkaur2006/TRACELNS",
     "reason": "GitHub repos are writeups/portfolios, not open positions"
+  },
+  {
+    "title": "Security Engineer Intern",
+    "company": "Fam",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/security-engineer-intern-at-fam-4470925821",
+    "reason": "stale LinkedIn listing: 54 days old"
+  },
+  {
+    "title": "Internship - Video Analyst",
+    "company": "Beyond Key",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/internship-video-analyst-at-beyond-key-4473022640",
+    "reason": "stale LinkedIn listing: 49 days old"
+  },
+  {
+    "title": "SMO ANALYST INTERNSHIP",
+    "company": "AATMIA DIGITAL MARKETING AND SECURITY PRIVATE LIMITED",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/smo-analyst-internship-at-aatmia-digital-marketing-and-security-private-limited-4448588953",
+    "reason": "stale LinkedIn listing: 103 days old"
+  },
+  {
+    "title": "Intern for SEO Analyst",
+    "company": "TwikiBot Technologies",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/intern-for-seo-analyst-at-twikibot-technologies-4465525781",
+    "reason": "blocked role: \\bseo\\b"
+  },
+  {
+    "title": "Junior Cloud Security Validation Engineer",
+    "company": "Upwind Security",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/junior-cloud-security-validation-engineer-at-upwind-security-4460889886",
+    "reason": "stale LinkedIn listing: 78 days old"
+  },
+  {
+    "title": "CYBER SECURITY ANALYST L3",
+    "company": "Wipro",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4488797931",
+    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+  },
+  {
+    "title": "CYBER SECURITY ANALYST L3",
+    "company": "Wipro",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4487851832",
+    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+  },
+  {
+    "title": "Cyber Security Analyst",
+    "company": "Ashirvad by aliaxis",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-ashirvad-by-aliaxis-4431222291",
+    "reason": "stale LinkedIn listing: 146 days old"
+  },
+  {
+    "title": "SOC Analyst (Tier 2)",
+    "company": "aeroqube inc.",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-analyst-tier-2-at-aeroqube-inc-4320533329",
+    "reason": "stale LinkedIn listing: 378 days old"
+  },
+  {
+    "title": "Analyst II-Cyber Defense",
+    "company": "Invesco",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/analyst-ii-cyber-defense-at-invesco-4464334290",
+    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
+  },
+  {
+    "title": "Cybersecurity Analyst II",
+    "company": "Avnet",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cybersecurity-analyst-ii-at-avnet-4482454323",
+    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
+  },
+  {
+    "title": "Security Analyst",
+    "company": "Bahwan CyberTek",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/security-analyst-at-bahwan-cybertek-4462203635",
+    "reason": "stale LinkedIn listing: 70 days old"
+  },
+  {
+    "title": "L2 SOC Analyst",
+    "company": "UST",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/l2-soc-analyst-at-ust-4489746318",
+    "reason": "senior role: \\bl[23456]\\s+(soc|security|cyber|infosec)\\s+(analyst|engineer|specialist)\\b"
+  },
+  {
+    "title": "Intrusion Analyst III",
+    "company": "Walmart Global Tech India",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/intrusion-analyst-iii-at-walmart-global-tech-india-4475240828",
+    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\biii\\b"
+  },
+  {
+    "title": "SOC L1",
+    "company": "SISA",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-l1-at-sisa-4465048990",
+    "reason": "stale LinkedIn listing: 68 days old"
+  },
+  {
+    "title": "Security Analyst II",
+    "company": "Netrix Global",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/security-analyst-ii-at-netrix-global-4482079874",
+    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
+  },
+  {
+    "title": "SOC Analyst L2",
+    "company": "Prudent Technologies and Consulting, Inc.",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-analyst-l2-at-prudent-technologies-and-consulting-inc-4482958874",
+    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+  },
+  {
+    "title": "SOC Analyst - Level 2",
+    "company": "Evolution Cloud Services (EVOCS)",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-analyst-level-2-at-evolution-cloud-services-evocs-4483541508",
+    "reason": "senior role: \\blevel\\s+[2-9]\\b"
+  },
+  {
+    "title": "SOC ANALYST",
+    "company": "Value Point Systems Pvt Ltd",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4451136361",
+    "reason": "stale LinkedIn listing: 98 days old"
+  },
+  {
+    "title": "CYBER SECURITY ANALYST L3",
+    "company": "Wipro",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4488469298",
+    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+  },
+  {
+    "title": "Security Analyst I",
+    "company": "Fortuna Cysec",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/security-analyst-i-at-fortuna-cysec-4439306966",
+    "reason": "stale LinkedIn listing: 129 days old"
+  },
+  {
+    "title": "Information Security Analyst",
+    "company": "Pico",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/information-security-analyst-at-pico-4465910294",
+    "reason": "stale LinkedIn listing: 62 days old"
+  },
+  {
+    "title": "SOC Analyst L2 \u2013 IBM QRadar & CrowdStrike",
+    "company": "UST",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-analyst-l2-%E2%80%93-ibm-qradar-crowdstrike-at-ust-4487472503",
+    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
+  },
+  {
+    "title": "Cyber Security Associate",
+    "company": "BrightLine Management Solutions",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/cyber-security-associate-at-brightline-management-solutions-4448996863",
+    "reason": "stale LinkedIn listing: 103 days old"
+  },
+  {
+    "title": "SOC ANALYST",
+    "company": "Value Point Systems Pvt Ltd",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4375356251",
+    "reason": "stale LinkedIn listing: 241 days old"
+  },
+  {
+    "title": "Engineer I - Cyber Incident Response",
+    "company": "Cencora",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/engineer-i-cyber-incident-response-at-cencora-4454106600",
+    "reason": "stale LinkedIn listing: 82 days old"
+  },
+  {
+    "title": "Application Security Analyst",
+    "company": "ZS",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/application-security-analyst-at-zs-4463991574",
+    "reason": "stale LinkedIn listing: 66 days old"
+  },
+  {
+    "title": "L3 SOC Analyst",
+    "company": "UST",
+    "source": "linkedin",
+    "url": "https://in.linkedin.com/jobs/view/l3-soc-analyst-at-ust-4475694596",
+    "reason": "senior role: \\bl[23456]\\s+(soc|security|cyber|infosec)\\s+(analyst|engineer|specialist)\\b"
   },
   {
     "title": "[AICTE] All InternshipsLiveEvery live opening across Bharat",
@@ -5171,180 +5325,5 @@
     "source": "govt_portals",
     "url": "https://internship.aicte-india.org/",
     "reason": "keyword-miss (score 0)"
-  },
-  {
-    "title": "Security Engineer Intern",
-    "company": "Fam",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/security-engineer-intern-at-fam-4470925821",
-    "reason": "stale LinkedIn listing: 53 days old"
-  },
-  {
-    "title": "Internship - Video Analyst",
-    "company": "Beyond Key",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/internship-video-analyst-at-beyond-key-4473022640",
-    "reason": "stale LinkedIn listing: 48 days old"
-  },
-  {
-    "title": "SMO ANALYST INTERNSHIP",
-    "company": "AATMIA DIGITAL MARKETING AND SECURITY PRIVATE LIMITED",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/smo-analyst-internship-at-aatmia-digital-marketing-and-security-private-limited-4448588953",
-    "reason": "stale LinkedIn listing: 102 days old"
-  },
-  {
-    "title": "Intern for SEO Analyst",
-    "company": "TwikiBot Technologies",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/intern-for-seo-analyst-at-twikibot-technologies-4465525781",
-    "reason": "blocked role: \\bseo\\b"
-  },
-  {
-    "title": "Junior Cloud Security Validation Engineer",
-    "company": "Upwind Security",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/junior-cloud-security-validation-engineer-at-upwind-security-4460889886",
-    "reason": "stale LinkedIn listing: 77 days old"
-  },
-  {
-    "title": "CYBER SECURITY ANALYST L3",
-    "company": "Wipro",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4488797931",
-    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
-  },
-  {
-    "title": "CYBER SECURITY ANALYST L3",
-    "company": "Wipro",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4487851832",
-    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
-  },
-  {
-    "title": "Cyber Security Analyst",
-    "company": "Ashirvad by aliaxis",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-at-ashirvad-by-aliaxis-4431222291",
-    "reason": "stale LinkedIn listing: 145 days old"
-  },
-  {
-    "title": "SOC Analyst (Tier 2)",
-    "company": "aeroqube inc.",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-analyst-tier-2-at-aeroqube-inc-4320533329",
-    "reason": "stale LinkedIn listing: 377 days old"
-  },
-  {
-    "title": "Analyst II-Cyber Defense",
-    "company": "Invesco",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/analyst-ii-cyber-defense-at-invesco-4464334290",
-    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
-  },
-  {
-    "title": "Cybersecurity Analyst II",
-    "company": "Avnet",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cybersecurity-analyst-ii-at-avnet-4482454323",
-    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
-  },
-  {
-    "title": "Security Analyst",
-    "company": "Bahwan CyberTek",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/security-analyst-at-bahwan-cybertek-4462203635",
-    "reason": "stale LinkedIn listing: 69 days old"
-  },
-  {
-    "title": "Intrusion Analyst III",
-    "company": "Walmart Global Tech India",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/intrusion-analyst-iii-at-walmart-global-tech-india-4475240828",
-    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\biii\\b"
-  },
-  {
-    "title": "SOC L1",
-    "company": "SISA",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-l1-at-sisa-4465048990",
-    "reason": "stale LinkedIn listing: 67 days old"
-  },
-  {
-    "title": "Security Analyst II",
-    "company": "Netrix Global",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/security-analyst-ii-at-netrix-global-4482079874",
-    "reason": "senior role: \\b(security|cyber|soc|infosec|analyst|engineer)\\b.{0,50}\\bii\\b"
-  },
-  {
-    "title": "SOC Analyst L2",
-    "company": "Prudent Technologies and Consulting, Inc.",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-analyst-l2-at-prudent-technologies-and-consulting-inc-4482958874",
-    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
-  },
-  {
-    "title": "CYBER SECURITY ANALYST L3",
-    "company": "Wipro",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-analyst-l3-at-wipro-4488469298",
-    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
-  },
-  {
-    "title": "Security Analyst I",
-    "company": "Fortuna Cysec",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/security-analyst-i-at-fortuna-cysec-4439306966",
-    "reason": "stale LinkedIn listing: 128 days old"
-  },
-  {
-    "title": "Information Security Analyst",
-    "company": "Pico",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/information-security-analyst-at-pico-4465910294",
-    "reason": "stale LinkedIn listing: 61 days old"
-  },
-  {
-    "title": "SOC Analyst L2 \u2013 IBM QRadar & CrowdStrike",
-    "company": "UST",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-analyst-l2-%E2%80%93-ibm-qradar-crowdstrike-at-ust-4487472503",
-    "reason": "senior role: \\b(?<!l[123]\\s)(analyst|engineer|specialist)\\s+(l[23456])\\b"
-  },
-  {
-    "title": "Cyber Security Associate",
-    "company": "BrightLine Management Solutions",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/cyber-security-associate-at-brightline-management-solutions-4448996863",
-    "reason": "stale LinkedIn listing: 102 days old"
-  },
-  {
-    "title": "SOC ANALYST",
-    "company": "Value Point Systems Pvt Ltd",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4451136361",
-    "reason": "stale LinkedIn listing: 97 days old"
-  },
-  {
-    "title": "SOC ANALYST",
-    "company": "Value Point Systems Pvt Ltd",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/soc-analyst-at-value-point-systems-pvt-ltd-4375356251",
-    "reason": "stale LinkedIn listing: 240 days old"
-  },
-  {
-    "title": "Engineer I - Cyber Incident Response",
-    "company": "Cencora",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/engineer-i-cyber-incident-response-at-cencora-4454106600",
-    "reason": "stale LinkedIn listing: 81 days old"
-  },
-  {
-    "title": "Application Security Analyst",
-    "company": "ZS",
-    "source": "linkedin",
-    "url": "https://in.linkedin.com/jobs/view/application-security-analyst-at-zs-4463991574",
-    "reason": "stale LinkedIn listing: 65 days old"
   }
 ]
